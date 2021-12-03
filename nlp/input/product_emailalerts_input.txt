@@ -1,0 +1,1 @@
+If User is subscribed to alerts for any Appliance_type Then it receives first email notification in time greater than equal to 15 minutes from subscription Else does not receives any email notification. Email consist of email_header, email_body, appliance_details. User receives second notification at time greater than time_set during subscribing the alert.
