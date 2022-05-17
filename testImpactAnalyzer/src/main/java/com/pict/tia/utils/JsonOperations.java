@@ -16,9 +16,9 @@ import com.google.gson.JsonObject;
 import com.google.gson.stream.JsonReader;
 
 public class JsonOperations {
-	
+
 	private static final Logger logger = LogManager.getLogger(JsonOperations.class);
-	
+
 	public static JsonObject getJSON(String absoluteInputFilePath) {
 		Gson gson = new Gson();
 		JsonReader reader = null;
@@ -31,23 +31,17 @@ public class JsonOperations {
 		outputjsonObject = gson.fromJson(reader, JsonObject.class);
 		return outputjsonObject;
 	}
-	
-	public static void writeToJSONFile(Object object, String filePath)
-	{
-		try
-		{
+
+	public static void writeToJSONFile(Object object, String filePath) {
+		try {
 			Writer writer = new FileWriter(filePath);
 			Gson gson = new GsonBuilder().create();
 			gson.toJson(object, writer);
 			writer.flush();
-		}
-		catch (JsonIOException e)
-		{
-			logger.error("JSON Exception occurred in writing json file:"+ filePath);
-		}
-		catch (IOException e)
-		{
-			logger.error("Exception occurred in writing json file:"+ filePath);			
+		} catch (JsonIOException e) {
+			logger.error("JSON Exception occurred in writing json file:" + filePath);
+		} catch (IOException e) {
+			logger.error("Exception occurred in writing json file:" + filePath);
 		}
 	}
 }

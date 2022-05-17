@@ -11,6 +11,16 @@ public class DoxygenRunner
 {
 	private static final Logger logger = LogManager.getLogger(DoxygenRunner.class);
 	public static void main(String[] arg) throws IOException{
-		ProcessUtils.executeDoxygenCommand(TIAConstants.DOXYGEN_TEMPLATE_PATH);
+		
+	}
+	public int runDoxygen() {
+		try {
+			return ProcessUtils.executeDoxygenCommand(TIAConstants.DOXYGEN_TEMPLATE_PATH);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return -1;
+
 	}
 }
