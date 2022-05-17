@@ -1,0 +1,15 @@
+<map id="com.tia.bmm.server.movie.MovieList.displayMovieList" name="com.tia.bmm.server.movie.MovieList.displayMovieList">
+<area shape="rect" id="node1" title=" " alt="" coords="5,299,185,340"/>
+<area shape="rect" id="node2" href="$da/dca/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre_list.html#a35e07a87e4d839ea581f760b53bd68d7" title=" " alt="" coords="233,168,419,209"/>
+<area shape="rect" id="node10" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#ad7a45b31dd418b191289f13e68d45096" title=" " alt="" coords="236,233,416,275"/>
+<area shape="rect" id="node11" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#a6eeb3237fadae77e1fc1d1466d02f5cb" title=" " alt="" coords="236,299,416,340"/>
+<area shape="rect" id="node12" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#a4aa8a4b90a046a7c0ec374308270ae41" title=" " alt="" coords="236,364,416,405"/>
+<area shape="rect" id="node13" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#a14bfec7e511ab221f432983ad47b2846" title=" " alt="" coords="236,429,416,471"/>
+<area shape="rect" id="node3" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#a07eff711b146256671cc044923b429d3" title=" " alt="" coords="467,136,657,177"/>
+<area shape="rect" id="node9" href="$d9/ddb/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre.html#a079c3bcfad970bde006f602defe49fc6" title=" " alt="" coords="469,201,655,243"/>
+<area shape="rect" id="node4" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#af20527e485b38f9b824da440f9907011" title=" " alt="" coords="705,5,896,47"/>
+<area shape="rect" id="node5" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#adaaefa14d2da4c3dbf4e0c2b21aaacbb" title=" " alt="" coords="705,71,896,112"/>
+<area shape="rect" id="node6" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#a2ab8b5db51d4918b3ae586899e9f2966" title=" " alt="" coords="705,136,896,177"/>
+<area shape="rect" id="node7" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#ad2ca9fb2be91212f1e621fa529b62345" title=" " alt="" coords="705,201,896,243"/>
+<area shape="rect" id="node8" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#a54c6bb58e93a72e24cbba6a929b3aed3" title=" " alt="" coords="705,267,896,308"/>
+</map>
