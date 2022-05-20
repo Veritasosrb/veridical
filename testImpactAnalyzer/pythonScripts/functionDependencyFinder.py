@@ -7,7 +7,20 @@ import json
 import sys
 
 answer = {}
+dependencyGraph = {}
+dependentMethods = []
 
+'''
+Function to run a DFS and find all the dependent methods for a method
+'''
+def dfs(method, answer):
+	global dependentMethods
+	dependentMethods.append(method)
+	if method not in answer:
+		return
+	for m in answer[method]:
+		dfs(m, answer)
+		
 '''
 Function to parse a single call graph to extract the graph structure
 '''
@@ -45,10 +58,19 @@ def parser(filename):
 
 
 for filename in glob.iglob(sys.argv[1] + '**/**', recursive=True):
-    if filename.endswith('_cgraph.svg'):
+    if filename.endswith('_cgraph.svg') or filename.endswith('_cgraph_org.svg'):
         parser(filename)
 
+
+for methods in answer:
+	dependentMethods = []
+	for method in answer[methods]:
+		dfs(method, answer)
+	dependencyGraph[methods] = list(set(dependentMethods))
+	
+print(dependencyGraph)
 print("Function dependency: ")
-print(json.dumps(answer, indent=4))
+print(json.dumps(dependencyGraph, indent=4))
+
 with open(sys.argv[2], 'w', encoding='utf-8') as f:
-    json.dump(answer, f, ensure_ascii=False, indent=4)
+    json.dump(dependencyGraph, f, ensure_ascii=False, indent=4)

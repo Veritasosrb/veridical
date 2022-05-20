@@ -1,4 +1,160 @@
 {
+    "com.tia.bmm.server.address.Address.getCity": [
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.address.Address.displayAddress",
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.address.Address.getLandmark": [
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.address.Address.displayAddress",
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.movie.Movie.getMovieId": [
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.movie.Movie.displayMovie",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.movie.Movie.getMovieName": [
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.movie.Movie.displayMovie",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.theatre.Theatre.getMovies": [
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre"
+    ],
+    "com.tia.bmm.server.movie.Movie.getMovieType": [
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.address.Address.getPinCode": [
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.address.Address.displayAddress",
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.movie.Movie.getRating": [
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.movie.Seat.getSeatNo": [
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main"
+    ],
+    "com.tia.bmm.server.movie.Seat.getSeatStatus": [
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main"
+    ],
+    "com.tia.bmm.server.movie.Movie.getShowAtFour": [
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.movie.Movie.Movie"
+    ],
+    "com.tia.bmm.server.address.Address.getState": [
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.address.Address.displayAddress",
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.address.Address.getStreetNo": [
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.address.Address.displayAddress",
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.theatre.Theatre.getTheatreName": [
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre",
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.movie.Seat.setSeatStatus": [
+        "com.tia.bmm.server.booking.Booking.handleBooking",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.movie.Seat.Seat"
+    ],
+    "com.tia.bmm.server.address.Address.displayAddress": [
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
+    "com.tia.bmm.server.address.Address.addAddress": [
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addTheatre"
+    ],
+    "com.tia.bmm.server.address.Address.Address": [
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+        "com.tia.bmm.server.address.Address.addAddress"
+    ],
+    "com.tia.bmm.server.movie.Movie.displayMovie": [
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+        "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre"
+    ],
+    "com.tia.bmm.server.theatre.TheatreList.checkTheatreIdPresent": [
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre"
+    ],
+    "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre": [
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre"
+    ],
+    "com.tia.bmm.server.theatre.TheatreList.displayTheatreList": [
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre"
+    ],
+    "com.tia.bmm.server.theatre.TheatreList.displayTheatre": [
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.movie.MovieList.displayMovieList"
+    ],
     "com.tia.bmm.server.user.UserList.setUl": [
         "com.tia.bmm.testing.loginAsUserTest.setUp"
     ],
@@ -6,62 +162,89 @@
         "com.tia.bmm.testing.loginAsUserTest.testLoginAsUser"
     ],
     "com.tia.bmm.server.user.User.getEmailId": [
+        "com.tia.bmm.server.user.UserList.displayUsers",
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main",
         "com.tia.bmm.server.user.UserList.loginAsUser",
-        "com.tia.bmm.server.user.UserList.displayUsers"
+        "com.tia.bmm.testing.loginAsUserTest.testLoginAsUser"
     ],
     "com.tia.bmm.server.user.User.getMobNo": [
+        "com.tia.bmm.server.user.UserList.displayUsers",
+        "com.tia.bmm.testing.loginAsUserTest.testLoginAsUser",
         "com.tia.bmm.server.user.UserList.loginAsUser",
-        "com.tia.bmm.server.user.UserList.displayUsers"
+        "com.tia.bmm.server.main.MainMenu.main"
     ],
     "com.tia.bmm.server.user.UserList.getUl": [
+        "com.tia.bmm.server.user.UserList.displayUsers",
+        "com.tia.bmm.server.main.MainMenu.main",
         "com.tia.bmm.server.user.UserList.loginAsUser",
-        "com.tia.bmm.server.user.UserList.createUser",
-        "com.tia.bmm.server.user.UserList.displayUsers"
+        "com.tia.bmm.testing.loginAsUserTest.testLoginAsUser",
+        "com.tia.bmm.server.user.UserList.createUser"
+    ],
+    "com.tia.bmm.server.movie.MovieList.addMovie": [
+        "com.tia.bmm.server.main.MainMenu.main"
+    ],
+    "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre": [
+        "com.tia.bmm.server.main.MainMenu.main"
+    ],
+    "com.tia.bmm.server.theatre.TheatreList.addTheatre": [
+        "com.tia.bmm.server.main.MainMenu.main"
+    ],
+    "com.tia.bmm.server.booking.MyServer.chatWithClient": [
+        "com.tia.bmm.server.main.MainMenu.main"
+    ],
+    "com.tia.bmm.server.user.UserList.createUser": [
+        "com.tia.bmm.server.main.MainMenu.main"
+    ],
+    "com.tia.bmm.server.movie.MovieList.displayMovieList": [
+        "com.tia.bmm.server.main.MainMenu.main"
+    ],
+    "com.tia.bmm.server.user.UserList.displayUsers": [
+        "com.tia.bmm.server.main.MainMenu.main"
     ],
     "com.tia.bmm.server.admin.Admin.loginAsAdmin": [
+        "com.tia.bmm.server.main.MainMenu.main",
         "com.tia.bmm.testing.AdminTest.testLoginAsAdmin"
+    ],
+    "com.tia.bmm.server.theatre.TheatreList.removeTheatre": [
+        "com.tia.bmm.server.main.MainMenu.main"
+    ],
+    "com.tia.bmm.server.booking.Booking.handleBooking": [
+        "com.tia.bmm.server.booking.MyServer.chatWithClient",
+        "com.tia.bmm.server.main.MainMenu.main"
     ],
     "com.tia.bmm.server.movie.Seat.setSeatNo": [
         "com.tia.bmm.server.movie.Seat.Seat"
     ],
-    "com.tia.bmm.server.movie.Seat.setSeatStatus": [
-        "com.tia.bmm.server.movie.Seat.Seat"
-    ],
-    "com.tia.bmm.server.address.Address.Address": [
+    "com.tia.bmm.server.address.Address.setCity": [
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+        "com.tia.bmm.server.address.Address.Address",
         "com.tia.bmm.server.address.Address.addAddress"
     ],
-    "com.tia.bmm.server.address.Address.getCity": [
-        "com.tia.bmm.server.address.Address.displayAddress"
-    ],
-    "com.tia.bmm.server.address.Address.getLandmark": [
-        "com.tia.bmm.server.address.Address.displayAddress"
-    ],
-    "com.tia.bmm.server.address.Address.getPinCode": [
-        "com.tia.bmm.server.address.Address.displayAddress"
-    ],
-    "com.tia.bmm.server.address.Address.getState": [
-        "com.tia.bmm.server.address.Address.displayAddress"
-    ],
-    "com.tia.bmm.server.address.Address.getStreetNo": [
-        "com.tia.bmm.server.address.Address.displayAddress"
-    ],
-    "com.tia.bmm.server.address.Address.setCity": [
-        "com.tia.bmm.server.address.Address.Address"
-    ],
     "com.tia.bmm.server.address.Address.setLandmark": [
-        "com.tia.bmm.server.address.Address.Address"
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+        "com.tia.bmm.server.address.Address.Address",
+        "com.tia.bmm.server.address.Address.addAddress"
     ],
     "com.tia.bmm.server.address.Address.setPinCode": [
-        "com.tia.bmm.server.address.Address.Address"
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+        "com.tia.bmm.server.address.Address.Address",
+        "com.tia.bmm.server.address.Address.addAddress"
     ],
     "com.tia.bmm.server.address.Address.setState": [
-        "com.tia.bmm.server.address.Address.Address"
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+        "com.tia.bmm.server.address.Address.Address",
+        "com.tia.bmm.server.address.Address.addAddress"
     ],
     "com.tia.bmm.server.address.Address.setStreetNo": [
-        "com.tia.bmm.server.address.Address.Address"
-    ],
-    "com.tia.bmm.server.movie.Movie.getShowAtFour": [
-        "com.tia.bmm.server.movie.Movie.Movie"
+        "com.tia.bmm.server.main.MainMenu.main",
+        "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+        "com.tia.bmm.server.address.Address.Address",
+        "com.tia.bmm.server.address.Address.addAddress"
     ],
     "com.tia.bmm.server.movie.Movie.setMovieId": [
         "com.tia.bmm.server.movie.Movie.Movie"
@@ -74,12 +257,6 @@
     ],
     "com.tia.bmm.server.movie.Movie.setRating": [
         "com.tia.bmm.server.movie.Movie.Movie"
-    ],
-    "com.tia.bmm.server.movie.Movie.getMovieId": [
-        "com.tia.bmm.server.movie.Movie.displayMovie"
-    ],
-    "com.tia.bmm.server.movie.Movie.getMovieName": [
-        "com.tia.bmm.server.movie.Movie.displayMovie"
     ],
     "com.tia.bmm.server.user.User.setEmailId": [
         "com.tia.bmm.server.user.User.User"

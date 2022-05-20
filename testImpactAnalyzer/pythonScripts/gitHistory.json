@@ -34,6 +34,7 @@
                     {
                         "methodName": "Admin::loginAsAdmin",
                         "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
                             "com.tia.bmm.testing.AdminTest.testLoginAsAdmin"
                         ]
                     }
@@ -46,11 +47,11 @@
                 "changeType": "ADD",
                 "changedMethods": [
                     {
-                        "methodName": "InvalidAdminDetails::toString",
+                        "methodName": "InvalidAdminDetails::InvalidAdminDetails",
                         "dependentMethods": []
                     },
                     {
-                        "methodName": "InvalidAdminDetails::InvalidAdminDetails",
+                        "methodName": "InvalidAdminDetails::toString",
                         "dependentMethods": []
                     }
                 ]
@@ -151,73 +152,131 @@
                 "changeType": "MODIFY",
                 "changedMethods": [
                     {
-                        "methodName": "Address::setState",
+                        "methodName": "Address::getStreetNo",
                         "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.Address"
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.address.Address.displayAddress",
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
                         ]
                     },
                     {
-                        "methodName": "Address::setLandmark",
+                        "methodName": "Address::displayAddress",
                         "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.Address"
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
                         ]
                     },
                     {
                         "methodName": "Address::getLandmark",
                         "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.displayAddress"
-                        ]
-                    },
-                    {
-                        "methodName": "Address::setPinCode",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.Address"
-                        ]
-                    },
-                    {
-                        "methodName": "Address::setStreetNo",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.Address"
-                        ]
-                    },
-                    {
-                        "methodName": "Address::getState",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.displayAddress"
-                        ]
-                    },
-                    {
-                        "methodName": "Address::setCity",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.Address"
-                        ]
-                    },
-                    {
-                        "methodName": "Address::getStreetNo",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.displayAddress"
-                        ]
-                    },
-                    {
-                        "methodName": "Address::displayAddress",
-                        "dependentMethods": []
-                    },
-                    {
-                        "methodName": "Address::getCity",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.displayAddress"
-                        ]
-                    },
-                    {
-                        "methodName": "Address::Address",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.addAddress"
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.address.Address.displayAddress",
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
                         ]
                     },
                     {
                         "methodName": "Address::getPinCode",
                         "dependentMethods": [
-                            "com.tia.bmm.server.address.Address.displayAddress"
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.address.Address.displayAddress",
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
+                        ]
+                    },
+                    {
+                        "methodName": "Address::setPinCode",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+                            "com.tia.bmm.server.address.Address.Address",
+                            "com.tia.bmm.server.address.Address.addAddress"
+                        ]
+                    },
+                    {
+                        "methodName": "Address::Address",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+                            "com.tia.bmm.server.address.Address.addAddress"
+                        ]
+                    },
+                    {
+                        "methodName": "Address::setCity",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+                            "com.tia.bmm.server.address.Address.Address",
+                            "com.tia.bmm.server.address.Address.addAddress"
+                        ]
+                    },
+                    {
+                        "methodName": "Address::getCity",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.address.Address.displayAddress",
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
+                        ]
+                    },
+                    {
+                        "methodName": "Address::setStreetNo",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+                            "com.tia.bmm.server.address.Address.Address",
+                            "com.tia.bmm.server.address.Address.addAddress"
+                        ]
+                    },
+                    {
+                        "methodName": "Address::getState",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.address.Address.displayAddress",
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
+                        ]
+                    },
+                    {
+                        "methodName": "Address::setLandmark",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+                            "com.tia.bmm.server.address.Address.Address",
+                            "com.tia.bmm.server.address.Address.addAddress"
+                        ]
+                    },
+                    {
+                        "methodName": "Address::setState",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addTheatre",
+                            "com.tia.bmm.server.address.Address.Address",
+                            "com.tia.bmm.server.address.Address.addAddress"
                         ]
                     }
                 ]
@@ -230,7 +289,10 @@
                 "changedMethods": [
                     {
                         "methodName": "Booking::handleBooking",
-                        "dependentMethods": []
+                        "dependentMethods": [
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main"
+                        ]
                     }
                 ]
             },
@@ -242,7 +304,9 @@
                 "changedMethods": [
                     {
                         "methodName": "MyServer::chatWithClient",
-                        "dependentMethods": []
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main"
+                        ]
                     }
                 ]
             },
@@ -253,41 +317,12 @@
                 "changeType": "MODIFY",
                 "changedMethods": [
                     {
-                        "methodName": "Movie::setShowAtFour",
-                        "dependentMethods": []
-                    },
-                    {
-                        "methodName": "Movie::setMovieName",
+                        "methodName": "Movie::getRating",
                         "dependentMethods": [
-                            "com.tia.bmm.server.movie.Movie.Movie"
-                        ]
-                    },
-                    {
-                        "methodName": "Movie::setMovieId",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.movie.Movie.Movie"
-                        ]
-                    },
-                    {
-                        "methodName": "Movie::getMovieName",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.movie.Movie.displayMovie"
-                        ]
-                    },
-                    {
-                        "methodName": "Movie::Movie",
-                        "dependentMethods": []
-                    },
-                    {
-                        "methodName": "Movie::setMovieType",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.movie.Movie.Movie"
-                        ]
-                    },
-                    {
-                        "methodName": "Movie::getMovieId",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.movie.Movie.displayMovie"
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
                         ]
                     },
                     {
@@ -297,21 +332,79 @@
                         ]
                     },
                     {
-                        "methodName": "Movie::getRating",
+                        "methodName": "Movie::getMovieId",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.movie.Movie.displayMovie",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
+                        ]
+                    },
+                    {
+                        "methodName": "Movie::Movie",
                         "dependentMethods": []
                     },
                     {
-                        "methodName": "Movie::getMovieType",
-                        "dependentMethods": []
-                    },
-                    {
-                        "methodName": "Movie::getShowAtFour",
+                        "methodName": "Movie::setMovieId",
                         "dependentMethods": [
                             "com.tia.bmm.server.movie.Movie.Movie"
                         ]
                     },
                     {
+                        "methodName": "Movie::setMovieName",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.movie.Movie.Movie"
+                        ]
+                    },
+                    {
+                        "methodName": "Movie::getShowAtFour",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.movie.Movie.Movie"
+                        ]
+                    },
+                    {
+                        "methodName": "Movie::setMovieType",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.movie.Movie.Movie"
+                        ]
+                    },
+                    {
+                        "methodName": "Movie::getMovieName",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.movie.Movie.displayMovie",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
+                        ]
+                    },
+                    {
+                        "methodName": "Movie::getMovieType",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
+                        ]
+                    },
+                    {
                         "methodName": "Movie::displayMovie",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre"
+                        ]
+                    },
+                    {
+                        "methodName": "Movie::setShowAtFour",
                         "dependentMethods": []
                     }
                 ]
@@ -324,7 +417,9 @@
                 "changedMethods": [
                     {
                         "methodName": "MovieList::displayMovieList",
-                        "dependentMethods": []
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main"
+                        ]
                     }
                 ]
             },
@@ -335,22 +430,12 @@
                 "changeType": "MODIFY",
                 "changedMethods": [
                     {
-                        "methodName": "Seat::setSeatStatus",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.movie.Seat.Seat"
-                        ]
-                    },
-                    {
                         "methodName": "Seat::getSeatNo",
-                        "dependentMethods": []
-                    },
-                    {
-                        "methodName": "Seat::Seat",
-                        "dependentMethods": []
-                    },
-                    {
-                        "methodName": "Seat::getSeatStatus",
-                        "dependentMethods": []
+                        "dependentMethods": [
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main"
+                        ]
                     },
                     {
                         "methodName": "Seat::setSeatNo",
@@ -359,8 +444,29 @@
                         ]
                     },
                     {
+                        "methodName": "Seat::getSeatStatus",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main"
+                        ]
+                    },
+                    {
                         "methodName": "Seat::Seat",
                         "dependentMethods": []
+                    },
+                    {
+                        "methodName": "Seat::Seat",
+                        "dependentMethods": []
+                    },
+                    {
+                        "methodName": "Seat::setSeatStatus",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.movie.Seat.Seat"
+                        ]
                     }
                 ]
             },
@@ -371,11 +477,11 @@
                 "changeType": "MODIFY",
                 "changedMethods": [
                     {
-                        "methodName": "Theatre::getTheatreName",
+                        "methodName": "Theatre::Theatre",
                         "dependentMethods": []
                     },
                     {
-                        "methodName": "Theatre::getMovies",
+                        "methodName": "Theatre::setMovies",
                         "dependentMethods": []
                     },
                     {
@@ -385,16 +491,31 @@
                         ]
                     },
                     {
-                        "methodName": "Theatre::setMovies",
-                        "dependentMethods": []
-                    },
-                    {
                         "methodName": "Theatre::Theatre",
                         "dependentMethods": []
                     },
                     {
-                        "methodName": "Theatre::Theatre",
-                        "dependentMethods": []
+                        "methodName": "Theatre::getMovies",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre"
+                        ]
+                    },
+                    {
+                        "methodName": "Theatre::getTheatreName",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatreList",
+                            "com.tia.bmm.server.booking.Booking.handleBooking",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre",
+                            "com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre",
+                            "com.tia.bmm.server.theatre.TheatreList.displayTheatre",
+                            "com.tia.bmm.server.movie.MovieList.displayMovieList"
+                        ]
                     }
                 ]
             },
@@ -405,20 +526,31 @@
                 "changeType": "MODIFY",
                 "changedMethods": [
                     {
-                        "methodName": "TheatreList::displayTheatre",
-                        "dependentMethods": []
-                    },
-                    {
-                        "methodName": "TheatreList::displayTheatreList",
-                        "dependentMethods": []
+                        "methodName": "TheatreList::addMovieInTheatre",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main"
+                        ]
                     },
                     {
                         "methodName": "TheatreList::displayMoviesInTheatre",
-                        "dependentMethods": []
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre"
+                        ]
                     },
                     {
-                        "methodName": "TheatreList::addMovieInTheatre",
-                        "dependentMethods": []
+                        "methodName": "TheatreList::displayTheatreList",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre"
+                        ]
+                    },
+                    {
+                        "methodName": "TheatreList::displayTheatre",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre"
+                        ]
                     }
                 ]
             },
@@ -433,11 +565,8 @@
                         "dependentMethods": []
                     },
                     {
-                        "methodName": "User::getEmailId",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.user.UserList.loginAsUser",
-                            "com.tia.bmm.server.user.UserList.displayUsers"
-                        ]
+                        "methodName": "User::User",
+                        "dependentMethods": []
                     },
                     {
                         "methodName": "User::setEmailId",
@@ -446,8 +575,14 @@
                         ]
                     },
                     {
-                        "methodName": "User::User",
-                        "dependentMethods": []
+                        "methodName": "User::getEmailId",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.user.UserList.displayUsers",
+                            "com.tia.bmm.server.booking.MyServer.chatWithClient",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.user.UserList.loginAsUser",
+                            "com.tia.bmm.testing.loginAsUserTest.testLoginAsUser"
+                        ]
                     }
                 ]
             },
@@ -457,18 +592,6 @@
                 "newPath": "src/com/tia/bmm/server/user/UserList.java",
                 "changeType": "MODIFY",
                 "changedMethods": [
-                    {
-                        "methodName": "UserList::getUl",
-                        "dependentMethods": [
-                            "com.tia.bmm.server.user.UserList.loginAsUser",
-                            "com.tia.bmm.server.user.UserList.createUser",
-                            "com.tia.bmm.server.user.UserList.displayUsers"
-                        ]
-                    },
-                    {
-                        "methodName": "UserList::createUser",
-                        "dependentMethods": []
-                    },
                     {
                         "methodName": "UserList::loginAsUser",
                         "dependentMethods": [
@@ -482,8 +605,26 @@
                         ]
                     },
                     {
+                        "methodName": "UserList::getUl",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.user.UserList.displayUsers",
+                            "com.tia.bmm.server.main.MainMenu.main",
+                            "com.tia.bmm.server.user.UserList.loginAsUser",
+                            "com.tia.bmm.testing.loginAsUserTest.testLoginAsUser",
+                            "com.tia.bmm.server.user.UserList.createUser"
+                        ]
+                    },
+                    {
+                        "methodName": "UserList::createUser",
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main"
+                        ]
+                    },
+                    {
                         "methodName": "UserList::displayUsers",
-                        "dependentMethods": []
+                        "dependentMethods": [
+                            "com.tia.bmm.server.main.MainMenu.main"
+                        ]
                     }
                 ]
             }
