@@ -1,0 +1,45 @@
+﻿[00:01:12.890] - Speaker 1
+Yes ma'am. Good morning ma'am. Good morning sir. So here we are continuing with the review tool of B project and the topic of the project is summarizer and the punchline related to it is transforming after notes of your online meets. And we are group number six and we have four members.
+
+[00:01:36.110] - Speaker 1
+That is me.
+
+[00:01:44.770] - Speaker 1
+So these are 4 the members. And now coming to the table of contents. So these are few of the details which we are going to discuss throughout the presentation. That is first we will quickly give the interim about the project as it's reviewed and we have covered pretty much everything briefly in the previous review. So we will quickly walk you through the idea of the project.
+
+[00:02:05.750] - Speaker 1
+So here comes the summarizer. Okay. So in simple words through this pandemic we have seen that everything has transferred to the online culture. Like online meets are going on in companies, online classes are going on throughout school and colleges. Hence what we concluded that during this online lectures and online scenario people are having so much of stress and losing the concentration through this digital screen.
+
+[00:02:32.560] - Speaker 1
+And also what we have come up with is the idea that we can summarize these online meetings or lectures. For example, currently this meeting is going on related to the B project. So what we can do, we can summarize this whole meeting in the form of text. And if in future we want to know what important points will discuss in this particular meet on that particular day we can go through that short summary and get the idea like what is what happened at that particular time. So that was the first approach.
+
+[00:03:01.360] - Speaker 1
+And secondly the second thing in this project is the question and answer generation part. So that is first we will generate the summary based on the video meeting going on. Then based on the summary we will generate the question and answer that is FPQ so that the students or the employee of company will get their queries resolved to the FPQ only. So that is the basic idea. Okay.
+
+[00:03:27.090] - Speaker 1
+Now coming to the like, this is the basic objective. We can see. The objective of the project is to create highly efficient software application which basically will use the transcript from the video and generate the summary. Then thereafter question and answer. No.
+
+[00:03:45.610] - Speaker 1
+So this is the architecture of the whole project. This is just like broad architecture. We have broadly divided this project in this particular architecture form. So first we have online meet, then we have the captions in the online meet we will extract the caption from online meet that is basically transcript. Then first we will generate summary from it.
+
+[00:04:10.110] - Speaker 1
+There are various techniques which will mention and we have done also then question and answer generation part and then the features of the analysis of that particular summary. That is the sentimental analysis or the health mental analysis.
+
+[00:04:25.430] - Speaker 1
+Okay, so this is the use case diagram as you can see, the first one is the user let's say in this particular case the user is for example if we are using this particular project in any company any it or let's say in AIT only we are using this so user we student our user and we are using it in AIT suppose this meeting is going on we will get the transcript of this particular meet and we will do the cleaning and tokenization of that particular transcript that we have got then we will generate summary.
+
+[00:05:00.010] - Speaker 1
+From it and the stage two is using but we will generate the question and answer from it. So that is the basic use case diagram. Okay now this is the class diagram. So in this class diagram these are the few of the important the crucial we can say algorithms are there or libraries are there which we are using. Texting algorithm is the algorithm which we will be using to generate the summary. To generate the summary using text range algorithm. Basically it will generate the algorithm sorry summary using the ranking of the text on their frequency. Then this is bulk transformer which we will use to generate the summary sorry question and answer which I will explain you like we have done this part and then comes the attention mechanism which we are currently working upon generated the summary. Yeah okay so this is the activity diagram. Ms will explain you more about this activity diagram ma'am.
+
+[00:06:06.210] - Speaker 2
+So good morning everyone. So what activity diagram basically is that it tells what all actions do we take simultaneously. So what basically we are doing here is taking the transcript as input, then the clean up and tokenization on that input and then summary generation after that and sequentially it comes to using that summary we give it to the pretain trained models in birds and then question answer generation and display of summary is done. So basically this is the activity that happens in a project. Then the sequence diagram tells about the timeline of a project and as you can see the timeline follows. Basically deciding the text, then requirement analysis and then stage one that is summary generation. Stage two that is question answer generation and then joining both of these modules and in future also adding other features like sentiment analysis part and then finally getting to our ground trial. So this would be our sequence. We have already discussed in detail about all the papers that we have discussed. All four of us have done that now Akash would you like to?
+
+[00:07:31.070] - Speaker 1
+Yeah so we'll quickly go through this one. It will take time is the critical part. So we'll focus more on what we have done. This is just explaining the basic ideas summarisation. So these are just different type of summarization based on the input type. Like if we are going to single document as input to generate the summary then it is single document summarization in the similar way multi documents and similarly based on the output type like it's extractive or abstractive. So this is the most important part here in our case because we are using the extractive one right now. So what is extractive summarization. So basically if we are having a paragraph of let's say 50 lines then we will generate the summary from those similar lines of summary of 25 lines. Earlier we have 50 lines and the summary is having 25 lines. But in this case what we have done is we have just carried on the similar lines which were in the earlier in the summary like we haven't added any extra work from our side or improved this one and so that is extractive one and the extractive one is we will summarize the whole paragraph in the similar way as human will do like adding extra words or adding similar kind of words so that it will be more convenient or more good to study or more good to read that is objective summarization so that is the most important part I could go to the next slide so this is the algorithm which we are using like the text line will be the removing of unwanted work then we will tokenize whole paragraph first into sentences and into words, then we will calculate the frequency and finally done the summarization.
+
+[00:09:25.470] - Speaker 1
+The similar thing is there's no grammatical way first we have raw text we have divided into clean text and sentences then words and then calculating of the normal frequency of the words and based on the frequency the occurrence we will generate the summary.
+
+[00:09:46.870] - Speaker 2
+So, now what we are doing in our project is we are using attention mechanism to come to a more constructive and more logical.
+
