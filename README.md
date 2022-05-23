@@ -103,6 +103,7 @@ Python version 3 and above
 Libraries required:
 	Pandas, 
 	Numpy,
+	TfidfVectorizer
 	Sklearn,
 	Stanza, 
 	NLTK,	
