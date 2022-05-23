@@ -19,8 +19,7 @@ def dict_convert():
     #reading training ds
     df_train_file = pd.read_csv("C:\\Users\\pooja\\eclipse-workspace\\nlp\\src\\main\\java\\nlp\\dataset_scenario_usable_unusable.csv")
     df_test_file = pd.read_csv("C:\\Users\\pooja\\eclipse-workspace\\nlp\\dictionary_temp.csv")
-
-
+    
     X_train = df_train_file[["keyword", "weight"]]
     y_train = df_train_file[["spam/ham"]]
     X_test = df_test_file[["keyword", "weight"]]
@@ -31,15 +30,9 @@ def dict_convert():
 
     tfidf_train = tfidf_vect_fit.transform(X_train['keyword'])
     tfidf_test = tfidf_vect_fit.transform(X_test['keyword'])
-
+    
     X_train_vect = pd.concat([X_train[["weight"]].reset_index(drop=True), pd.DataFrame(tfidf_train.toarray())], axis=1)
-
     X_test_vect = pd.concat([X_test[["weight"]].reset_index(drop=True), pd.DataFrame(tfidf_test.toarray())], axis=1)
-
-
-
-
-
 
     #applying support vector machine,
     classifier = SVC(kernel='linear', random_state=0)
