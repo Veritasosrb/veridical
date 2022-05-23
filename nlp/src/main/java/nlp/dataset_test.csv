@@ -1,0 +1,27 @@
+keyword,weight,spam/ham
+alerts appliance_type,0.831,spam
+subscribed alerts,0.5914,spam
+user subscribed,0.4191,spam
+appliance_type ha_cluster,0.9644,ham
+notification time,0.6367,spam
+email notification,0.5527,spam
+receives email,0.4528,spam
+minutes subscription,0.4081,spam
+15 minutes,0.3305,spam
+consist email_header,0.8903,spam
+email consist,0.6256,spam
+email_header correct,0.9156,ham
+email_body correct,0.9104,ham
+appliance_details correct,0.9172,ham
+second notification,0.6076,spam
+notification time,0.5937,spam
+time_set subscribing,0.5883,spam
+subscribing alert,0.4985,spam
+greater time_set,0.334,spam
+appliance_details incorrect,0.9593,ham
+email_body incorrect,0.9547,ham
+email_header incorrect,0.952,ham
+appliance_type single,0.9419,ham
+receives email,0.673,spam
+email notification,0.6719,spam
+does receives,0.1999,spam
