@@ -65,6 +65,17 @@ WordNet-3.0 % make install
 ![Design](./ReadMe_Images/design.png)
 
 
+## **Resolving some errors in java code**
+JVM max memory error ->
+1. go to run-> run configurations-> arguments-> vm arguments
+2. specify -> -Xms1024M -Xmx4096M
+3. Relaunch proj
+
+
+wordnet path error->
+1. go to GetSynonyms.java
+2. if you're using mac set path accordingly and change wordnet version.(Same for windows)
+
 ## **For automatic generation of dictionary**
 Generating a dictionary automatically will result in reduction in effort, time and cost: 
 Developers who would have otherwise spent time and effort on manually writing the 
@@ -95,5 +106,5 @@ Libraries required:
 	NLTK	
 	keybert
 	
- All these libraries can be installed by running the following command on terminal/command prompt:
+ 	All these libraries can be installed by running the following command on terminal/command prompt:
 		pip install lib_name
