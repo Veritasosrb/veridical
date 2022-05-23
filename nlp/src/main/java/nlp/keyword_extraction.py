@@ -11,12 +11,14 @@ from nltk import sent_tokenize, word_tokenize
 import numpy
 import stanza
 import integration_temp
+import os
 
 wd=os.getcwd()
 
 
 filename = sys.argv[1]
-with open("C:\\Users\\pooja\\eclipse-workspace\\nlp\\input\\product_"+filename+"_input"+".txt") as f:
+path  = os.path.abspath(os.curdir)
+with open(path+"\\input\\product_"+filename+"_input"+".txt") as f:
     lines = f.readlines()
     #df = pd.read_csv("C:\\Users\\pooja\\eclipse-workspace\\nlp\\input\\product_"+filename+"_input"+".txt")
 data = []
