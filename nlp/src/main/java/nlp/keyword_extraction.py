@@ -14,8 +14,6 @@ import integration_temp
 import os
 
 wd=os.getcwd()
-
-
 filename = sys.argv[1]
 path  = os.path.abspath(os.curdir)
 with open(path+"\\input\\product_"+filename+"_input"+".txt") as f:
@@ -38,20 +36,14 @@ for i in data:
 
 
 def extract_words():
-
-
     kw_model = KeyBERT(model='all-mpnet-base-v2')
     keywords_bert = []
-
     for i in data:
         keywords_bert.append(kw_model.extract_keywords(i, keyphrase_ngram_range=(2, 2), stop_words='english'))
-
-
     words=[]
     for l in keywords_bert:
         for t in l:
                 words.append(t)
-
     with open('dictionary_temp.csv', 'w') as out:
         csv_out = csv.writer(out)
         csv_out.writerow(['keyword', 'weight'])
