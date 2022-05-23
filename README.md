@@ -80,7 +80,7 @@ wordnet path error->
 Generating a dictionary automatically will result in reduction in effort, time and cost: 
 Developers who would have otherwise spent time and effort on manually writing the 
 dictionary, can now spend more time and effort on the other important aspects of SDLC. 
-![New system architecture diagram](./ReadMe_Images/new_sys_arch.jpeg)
+![New system architecture diagram](./ReadMe_Images/new_sys_architecture.jpeg)
 
 The main theme and motivation is that, instead of requiring 
 programmers to write manual dictionary, it is practical to extract keywords using natural 
