@@ -99,11 +99,11 @@ Requirements:
 Python version 3 and above
 
 Libraries required:
-	Pandas 
-	Numpy
-	Sklearn
-	Stanza 
-	NLTK	
+	Pandas, 
+	Numpy,
+	Sklearn,
+	Stanza, 
+	NLTK,	
 	keybert
 	
  	All these libraries can be installed by running the following command on terminal/command prompt:
