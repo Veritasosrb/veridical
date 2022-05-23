@@ -1,0 +1,22 @@
+keyword,weight
+alerts appliance_type,0.8039
+subscribed alerts,0.6003
+user subscribed,0.3554
+notification time,0.6248
+email notification,0.5837
+minutes subscription,0.4842
+receives email,0.4648
+15 minutes,0.3202
+email notification,0.6756
+receives email,0.6674
+does receives,0.2502
+email consist,0.7341
+correct email_body,0.667
+email_body correct,0.6465
+correct email_header,0.6384
+email_header correct,0.6277
+second notification,0.6252
+notification time,0.6066
+time_set subscribing,0.5776
+subscribing alert,0.4776
+greater time_set,0.3223
