@@ -69,7 +69,11 @@ import org.eclipse.swt.widgets.Display;
 import org.eclipse.swt.widgets.Shell;
 import org.eclipse.swt.widgets.Layout;
 import java.text.DateFormat;  
-import java.text.SimpleDateFormat; 
+import java.text.SimpleDateFormat;
+
+import java.io. BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
 public class frame_structure {
   
@@ -110,6 +114,10 @@ public class frame_structure {
 	static CSVWriter writertrial;
 	static CSVReader reader3;
 	 static CSVWriter writerex;
+	 
+	 static CSVWriter writer_temp;
+		static CSVReader reader_temp;
+	 
 	static String functionality="";
 	//for storing date and time along with output
 	static String timeStamp = new SimpleDateFormat("dd.MM.yyyy.HH.mm.ss").format(new Date());
@@ -140,6 +148,7 @@ public class frame_structure {
 			writer2 = new CSVWriter(new FileWriter(
 					"./intermediate/UserStoryStorepathtrialhomepage"+functionality+"0.csv"));
 			//combined file
+			
 			writer3 = new CSVWriter(new FileWriter(
 					"./intermediate/UserStoryStorepathtrialhomepage"+functionality+"combine.csv"));
 			reader3=new CSVReader(new FileReader("./intermediate/UserStoryStorepathtrialhomepage"+functionality+"combine.csv"));
@@ -916,21 +925,146 @@ public class frame_structure {
 		}
 		System.out.println("End");
 		
+	/*------------------------------------------------------------------------------------------------------------------
+	 * 
+	 * INTEGRATION
+	 * 
+	 * ---------------------------------------------------------------------------------------------------------------
+	*/	
+		try 
+		{
+			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+			ProcessBuilder builder = new ProcessBuilder ("python", System.getProperty("user.dir")+"\\src\\main\\java\\nlp\\keyword_extraction.py",functionality);
+			Process process = builder.start();
+			BufferedReader reader = new BufferedReader (new InputStreamReader (process.getInputStream())); 
+			BufferedReader readers = new BufferedReader (new InputStreamReader (process.getErrorStream()));
+			String lines=null;
 
-		Scanner s = new Scanner( "Appliance_Model		select\n" + "Appliance_Model		deselect\n" +
-
+			while ((lines=reader.readLine()) !=null) { 
+				System.out.println("lines"+lines);
+			}
+			while ((lines=readers.readLine()) !=null) 
+			{ 
+				System.out.println("WARNING: "+lines);
+			}
+		}
+		catch (Exception e) 
+		{
+			e.printStackTrace();
+		}
+//--------------------------------------------------------------------------------------------------------------END	
 		
+		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
+		
+		/*String str = "Appliance_Model		select\n" + "Appliance_Model		deselect\n" +
+		
+				
 				"Software_Version 	select\n" + "Software_Version 	deselect\n" + "Capacity_min	positive\n"
 				+ "Capacity_min	 negative\n" + "Capacity_max	positive\n"
-				+ "Capacity_max	negative\n" + "Appliance_type	HA_cluster\n" + "Appliance_type	Single\n"
+				+ "Capacity_max	negative\n"+ "Appliance_type	HA_cluster\n" + "Appliance_type	Single\n"
 				+ "Actions	usable\n" + "Actions	unusable\n" + "Manage_Alerts	usable\n"
 				+ "Manage_Alerts unusable\n" + "number usable\n" + "number	unusable\n" + "days/hours	usable\n"
-				+ "days/hours	unusable\n" + "three-dot usable\n" + "three-dot unusable\n" 
+				+ "days/hours	unusable\n" + "three-dot usable\n" + "three-dot unusable\n"
 				+"Application	Netinsights\n"+"Application		Cortex\n"+"Application	All-open\n"+"popup	usable\n"
 				+ "popup	unusable\n" + "logout	usable\n" + "logout	unusable\n" + "Continue	usable\n"
 				+ "Continue	unusable\n"+"email_header	correct\n"+"email_header	incorrect\n"+"email_body	correct\n"
-				+"email_body	incorrect\n"+"appliance_details		correct\n"+"appliance_details	incorrect\n"
-				);
+				+"email_body	incorrect\n"+"appliance_details		correct\n"+"appliance_details	incorrect\n";*/
+		
+		
+		 
+		
+		
+		
+		
+		
+		
+		
+		//System.out.println(str);
+		
+	 String str = null;
+	 Scanner sc_temp = null;
+	try {
+		sc_temp = new Scanner(new File(System.getProperty("user.dir")+"\\FINAL_DICT.csv"));
+	} catch (FileNotFoundException e1) {
+		// TODO Auto-generated catch block
+		e1.printStackTrace();
+	}  
+	 sc_temp.useDelimiter(",");   //sets the delimiter pattern  
+	 while (sc_temp.hasNext())  //returns a boolean value  
+	 {  
+		 str += sc_temp.next();  //find and returns the next complete token from this scanner  
+	 }
+	 System.out.println(str);
+	 Scanner s = new Scanner(str);
+	 //sc.close();
+		
+				/*Scanner s = new Scanner("actions unusable\n " +
+						"email correct\n" +
+						"email incorrect\n" +
+						 "actions usable\n " +
+						 "advanced_query unusable\n " +
+						 "advanced_query usable\n " +
+						 "advanced_search unusable\n " +
+						 "advanced_search usable\n " +
+						 "appliance_uid unusable\n " +
+						 "appliance_uid usable\n " +
+						 "checkbox unusable\n " +
+						 "checkbox usable\n " +
+						 "create_dashboard unusable\n " +
+						 "create_dashboard usable\n " +
+						 "dca_tab unusable\n " +
+						 "dca_tab usable\n " +
+						 "ellipses unusable\n " +
+						 "ellipses usable\n " +
+						 "history_tab unusable\n " +
+						 "history_tab usable\n " +
+						 "manage_alerts unusable\n " +
+						 "manage_alerts usable\n " +
+						 "mark_as_favourite unusable\n " +
+						 "mark_as_favourite usable\n " +
+						 "overview_tab unusable\n " +
+						 "overview_tab usable\n " +
+						 "performance_tab unusable\n " +
+						 "performance_tab usable\n " +
+						 "recommendation_tab unusable\n " +
+						 "recommendation_tab usable\n " +
+						 "registration_tab unusable\n " +
+						 "registration_tab usable\n " +
+						 "save unusable\n " +
+						 "save usable\n " +
+						 "save_query unusable\n " +
+						 "save_query usable\n " +
+						 "storage_tab unusable\n " +
+						 "storage_tab usable\n " +
+						 "support_tab unusable\n " +
+						 "support_tab usable\n " +
+						 "telemetery_tab unusable\n " +
+						 "telemetery_tab usable\n " +
+						 "telemetry_tab unusable\n " +
+						 "telemetry_tab usable\n " +
+						 "turn_off unusable\n " +
+						 "turn_off usable\n " +
+						 "turn_on unusable\n " +
+						 "turn_on usable\n " +
+						 "uid unusable\n " +
+						 "uid usable\n " +
+						 "vertical_ellipsis_menu unusable\n " +
+						 "vertical_ellipsis_menu usable");*/
 	
 		not_to_form_combinations.add("Capacity_min");
 		not_to_form_combinations.add("Capacity_max");
