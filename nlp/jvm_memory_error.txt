@@ -1,0 +1,10 @@
+JVM max memory error ->
+
+1. go to run-> run configurations-> arguments-> vm arguments
+2. specify -> -Xms1024M -Xmx4096M
+3. Relaunch proj
+
+
+wordnet path error->
+1. go to GetSynonyms.java
+2. if you're using mac set path accordingly and change wordnet version.(Same for windows)
