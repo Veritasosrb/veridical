@@ -80,7 +80,7 @@ wordnet path error->
 Generating a dictionary automatically will result in reduction in effort, time and cost: 
 Developers who would have otherwise spent time and effort on manually writing the 
 dictionary, can now spend more time and effort on the other important aspects of SDLC. 
-![New system architecture diagram](./ReadMe_Images/new_sys_arch.png)
+![New system architecture diagram](./ReadMe_Images/new_sys_arch.jpeg)
 
 The main theme and motivation is that, instead of requiring 
 programmers to write manual dictionary, it is practical to extract keywords using natural 
@@ -95,7 +95,7 @@ store them in the dictionary as a key value pair.
 ● Classifying spam/not spam: For each test scenario description, a lot of 
 bigrams are extracted which are then filtered using classification 
 algorithms.
-![Process for generating dictionary](./ReadMe_Images/dictionary_gen.png)
+![Process for generating dictionary](./ReadMe_Images/dictionary_gen.jpeg)
 
 Requirements:
 Python version 3 and above
