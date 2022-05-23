@@ -78,7 +78,7 @@ export default function AdminTraining() {
                 "label3Name" : labelName[2],
                 "label4Name" : labelName[3],
                 "tokenSize" : tokenSize,
-                "initialDoc" : initialDoc
+                "initialDoc" : initTrainDoc
             })
         };
         await fetch(url, requestOptions);

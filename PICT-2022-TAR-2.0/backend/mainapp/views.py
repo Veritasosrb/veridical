@@ -83,6 +83,8 @@ def createPDF(request):
 
 @api_view(['GET'])
 def predictDocs(request):
+    variable = Variable.objects.first()
+    curr_dataset = Datasets.objects.get( dataset_name = variable.curr_dataset )
     predict_docs()
     return JsonResponse({"test" : "model prediction done"}, status=status.HTTP_200_OK)
 

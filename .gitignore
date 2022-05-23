@@ -11,3 +11,4 @@ PICT-2022-TAR-2.0/backend/ml/scripts/__pycache__
 # TAR 2.0 frontend ignore files 
 PICT-2022-TAR-2.0/frontend/node_modules
 PICT-2022-TAR-2.0/frontend/build
+PICT-2022-TAR-2.0/frontend/public/dataset

@@ -12,7 +12,7 @@ export default function Nav() {
     var veritasWide = base + " w3-wide"; 
 
     var activeAdmin = base.concat( (num==='1') ? active : "" );
-    var activeReviewerOne = base.concat( (num==='2') ? active : "" );
+    // var activeReviewerOne = base.concat( (num==='2') ? active : "" );
     var activeReviewerTwo = base.concat( (num==='3') ? active : "" );
 
     function changeNum( num ) {

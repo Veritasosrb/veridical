@@ -37,10 +37,10 @@ export default function Result() {
         const max = Math.max(...accarr);
         const index = accarr.indexOf(max);
 
-        if( index == 0 ) setMajorLabel( LABELS.LABEL0 );
-        else if( index == 1 ) setMajorLabel( LABELS.LABEL1 );
-        else if( index == 2 ) setMajorLabel( LABELS.LABEL2 );
-        else if( index == 3 ) setMajorLabel( LABELS.LABEL3 );
+        if( index === 0 ) setMajorLabel( LABELS.LABEL0 );
+        else if( index === 1 ) setMajorLabel( LABELS.LABEL1 );
+        else if( index === 2 ) setMajorLabel( LABELS.LABEL2 );
+        else if( index === 3 ) setMajorLabel( LABELS.LABEL3 );
  
         setClassCnt( accarr );
         setReviewCnt([isRev, notRev]);

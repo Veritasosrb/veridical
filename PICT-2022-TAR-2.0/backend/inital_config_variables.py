@@ -12,7 +12,8 @@ AG_news_dataset = Datasets(
     dataset_name = "AG_News",
     label_1_name = 0, label_2_name = 1, label_3_name = 2, label_4_name = 3,
     token_size = 600,
-    initial_train_docs = 60
+    initial_train_docs = 60,
+    initial_trained = True
 )
 AG_news_dataset.save()
 

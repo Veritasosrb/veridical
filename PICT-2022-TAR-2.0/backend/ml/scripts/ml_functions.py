@@ -202,13 +202,6 @@ def initial_training():
 
     predict_docs()
 
-    # df = pd.read_csv( variable.main_project_location + BACKEND_FOLDER + COMPONENT_FOLDER + variable.curr_dataset + '/' + COMPLETE_DATAFILE )
-    # remain_df, train = slice_docs_from_dataset( df, NUM_TRAIN )
-    # model = keras.models.load_model( COMPONENT_FOLDER + variable.curr_dataset + '/' + BLANK_MODEL )
-    # train_model( model, train )
-    # model.save( COMPONENT_FOLDER + variable.curr_dataset + '/' + TRAINED_MODEL )
-    # remain_df.to_csv( variable.main_project_location + BACKEND_FOLDER + COMPONENT_FOLDER + variable.curr_dataset + '/' + REMAINING_DATAFILE )
-
 
 def add_single_doc_in_df(df, document, label = ""):
     val = {

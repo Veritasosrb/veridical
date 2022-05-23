@@ -1,7 +1,7 @@
 from django.db import models
 from django.core.files.storage import FileSystemStorage
 
-UPLOAD_ROOT = "../frontend-veritas/public/"
+UPLOAD_ROOT = "../frontend/public/"
 upload_storage = FileSystemStorage(location=UPLOAD_ROOT)
 
 TYPE_CHOICES = (

@@ -1,10 +1,9 @@
-BACKEND_FOLDER = "backend-veritas/"
-FRONTEND_FOLDER = "frontend-veritas/"
+BACKEND_FOLDER = "backend/"
+FRONTEND_FOLDER = "frontend/"
 PDF_FOLDER_LOCATION = "public/dataset/"
 COMPONENT_FOLDER = "ml/components/"
 SCRIPT_FOLDER = "ml/scripts/"
 COMPLETE_DATAFILE = "complete_datafile.csv"
-REMAINING_DATAFILE = "remaining_datafile.csv"
 TRAINED_MODEL = 'trained_model.h5'
 BLANK_MODEL = "blank_model_4classes.h5"
 INIT_TEST_FILE = 'init_test.csv'
