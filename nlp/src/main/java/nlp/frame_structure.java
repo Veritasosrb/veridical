@@ -936,12 +936,6 @@ public class frame_structure {
 			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-			System.out.println("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 			ProcessBuilder builder = new ProcessBuilder ("python", System.getProperty("user.dir")+"\\src\\main\\java\\nlp\\keyword_extraction.py",functionality);
 			Process process = builder.start();
 			BufferedReader reader = new BufferedReader (new InputStreamReader (process.getInputStream())); 
@@ -960,41 +954,12 @@ public class frame_structure {
 		{
 			e.printStackTrace();
 		}
-//--------------------------------------------------------------------------------------------------------------END	
+//END	
 		
 		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-		System.out.println("++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++");
 		
-		/*String str = "Appliance_Model		select\n" + "Appliance_Model		deselect\n" +
-		
-				
-				"Software_Version 	select\n" + "Software_Version 	deselect\n" + "Capacity_min	positive\n"
-				+ "Capacity_min	 negative\n" + "Capacity_max	positive\n"
-				+ "Capacity_max	negative\n"+ "Appliance_type	HA_cluster\n" + "Appliance_type	Single\n"
-				+ "Actions	usable\n" + "Actions	unusable\n" + "Manage_Alerts	usable\n"
-				+ "Manage_Alerts unusable\n" + "number usable\n" + "number	unusable\n" + "days/hours	usable\n"
-				+ "days/hours	unusable\n" + "three-dot usable\n" + "three-dot unusable\n"
-				+"Application	Netinsights\n"+"Application		Cortex\n"+"Application	All-open\n"+"popup	usable\n"
-				+ "popup	unusable\n" + "logout	usable\n" + "logout	unusable\n" + "Continue	usable\n"
-				+ "Continue	unusable\n"+"email_header	correct\n"+"email_header	incorrect\n"+"email_body	correct\n"
-				+"email_body	incorrect\n"+"appliance_details		correct\n"+"appliance_details	incorrect\n";*/
-		
-		
-		 
-		
-		
-		
-		
-		
-		
-		
-		//System.out.println(str);
 		
 	 String str = null;
 	 Scanner sc_temp = null;
@@ -1011,7 +976,8 @@ public class frame_structure {
 	 }
 	 System.out.println(str);
 	 Scanner s = new Scanner(str);
-	 //sc.close();
+	 
+	//old manual dictionary
 		
 				/*Scanner s = new Scanner("actions unusable\n " +
 						"email correct\n" +
