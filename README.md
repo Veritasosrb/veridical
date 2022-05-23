@@ -95,5 +95,5 @@ Libraries required:
 	NLTK	
 	keybert
 	
- 	All these libraries can be installed by running the following command on terminal/command prompt:
+ All these libraries can be installed by running the following command on terminal/command prompt:
 		pip install lib_name
