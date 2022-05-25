@@ -34,13 +34,16 @@ A video containing all the functionalities and details of the project.
 => DRIVE LINK
 
 #### Overview Panel
-![Overview Panel](/screenshots/Overview_Panel_Page.png)
+![Overview Panel](screenshots/Overview_Panel_Page.png)
+
+#### Reviewer Page
+![Reviewer Page](screenshots/Reviewer_Page.png)
 
 #### Admin Page
-![Admin Page](/screenshots/Admin_Page.png)
+![Admin Page](screenshots/Admin_Page.png)
 
 #### Result Page
-![Result Page](/screenshots/Result_Page.png)
+![Result Page](screenshots/Result_Page.png)
 
 
 ## 5) TECH STACK AND LIBRARIES USED
