@@ -10,9 +10,15 @@ Review of documents is a very ubiquitous work when it comes to areas like corpor
 
 Our work aims to reduce the issues faced during manual reviews and lower the efforts to a large extent by providing an intelligent technology assistant to assist the reviewer in reviewing the documents.
 
+
 ## 2) OVERVIEW
 
 Continuous active learning is one of the most important processes in the software development life cycle, accounting for around half of the project's time and expenditure. This guarantees that the systemperforms as expected in every circumstance. Currently, documents are reviewed manually on a large scale. Because not all reviewers have prior knowledge about the issues involved, it will be very ideal to build an intelligent model that will help these people in reviewing. As a result, an automated intelligent classifier is required to help reduce manual costs of reviewing and ranking the documents. TAR 1.0 is useful only when there is an availability of a large number of documents and it takes a lot of time to train and test, whereas our method requires very less number of documents and is much faster.
+
+[Project Demo Video](https://drive.google.com/file/d/1ukiEyoveQA-FyfKZjX_3UtXfG5fcWIcO/view?usp=sharing)
+
+[Project Explaination PPT](https://drive.google.com/file/d/1ic01gXrf4ERfwaaC-yHNXgkiAo2yCNSk/view?usp=sharing)
+
 
 ## 3) IMPLEMENTATION AND BASIC METHODOLOGY
 
