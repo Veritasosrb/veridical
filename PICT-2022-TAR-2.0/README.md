@@ -17,9 +17,19 @@ Continuous active learning is one of the most important processes in the softwar
 ## 3) IMPLEMENTATION AND BASIC METHODOLOGY
 
 The goal of a Technology assisted review is that the documents will get reviewed by the Machine learning algorithm, initially it starts with the labeled data, then we are using continuous active learning for actively learning the reviewing process from the manual review or the oracle. The continuous active learning (CAL) model improves the efficiency of the model significantly. The manual reviewer will be labeling data from unlabeled data to labeled data, and training the model again and again on the labeled text, with each iteration the models efficiency will increase. For processing the natural language we will be using Bi-LSTM with the BERT model.
- 
 
-## 4) INSTALLATION AND USAGE ON LOCAL SERVER
+
+#### Phase 1 ( Initial Learning )
+![Phase 1](screenshots/phase1.png)
+
+#### Phase 2 ( Incremental Learning or Continuous Active Learning )
+![Phase 2](screenshots/phase2.png)
+
+#### Results of Reuters Dataset
+![Result](screenshots/results.png)
+
+
+## 4) INSTALLATION AND SETTING UP LOCAL SERVER
 
 For completly running the project, We'll need to install both backend and fronend servers.
 
@@ -28,7 +38,7 @@ For backend Installation Guide is Given here : [Backend Installtion README.md fi
 And for frontend it's here : [Frontend Installation README.md file](frontend/README.md)
 
 
-## 4) WEB INTERFACE
+## 5) WEB INTERFACE
 
 A video containing all the functionalities and details of the project.
 => DRIVE LINK
@@ -46,7 +56,7 @@ A video containing all the functionalities and details of the project.
 ![Result Page](screenshots/Result_Page.png)
 
 
-## 5) TECH STACK AND LIBRARIES USED
+## 6) TECH STACK AND LIBRARIES USED
 
 #### Django : Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Built by experienced developers, it takes care of much of the hassle of web development. It’s free and open source.
 
@@ -57,7 +67,7 @@ A video containing all the functionalities and details of the project.
 #### Pandas : Pandas is a Python library for data analysis. It's powerful and flexible quantitative analysis tool, pandas has grown into one of the most popular Python libraries. It has an extremely active community of contributors.
 
 
-## 6) Benefits and Applications of Our Project:
+## 7) Benefits and Applications of Our Project:
 1) TAR helps firms stay competitive.
 2) TAR usage decreases overall document review costs.
 3) TAR solutions enhance organization of information.
