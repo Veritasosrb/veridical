@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <title>DigiHealth</title>
+    </head>
+    <body style="margin: 30px 60px 0 60px;">
+        <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <p style="font-size: 30px; text-align: center; color: coral;"><b>DigiHealth</b></p>
+        <div style="text-align: center; border: solid black 1px; padding: 20px; margin-bottom: 40px; border-radius: 5px;">
+            <input type="file" name="myfile">
+            <button type="submit" style="background-color: lawngreen;">Upload</button>
+        </div>
+        </form>
+
+        {% if uploaded_file_url %}
+        <p>File uploaded at: <a href="{{ uploaded_file_url }}">{{ uploaded_file_url }}</a></p>
+
+        <div class="file-text" style="margin: 40px 0;">
+            <p><b>Output File : </b></p>
+            <div class="text" style="border: solid black 1px; border-radius: 5px; padding: 5px; background-color: lightcyan;">
+                {% for i in uploaded_file_text %}
+                    <p>{{ i }}</p>
+                {% endfor %}
+            </div>
+        </div>
+        {% endif %}
+    </body>
+</html>
+
