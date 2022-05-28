@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Duplicate Bug Report Detection
 
 ## INTRODUCTION
@@ -24,11 +23,9 @@ may encounter same bug as a result of which bug tracking systems may contains ma
 <img src="https://github.com/DuplicateBugReportDetection/FinalCode/blob/main/Images/UI.png" height="500" width="900">
 </p>
 
-## MADE WITH 💖 BY TEAM
+## MADE BY TEAM
 Omkar Amilkanthwar  &nbsp; -  [lnx2000](https://github.com/lnx2000)\
 Aniruddha Deshmukh   - [Aniruddha004](https://github.com/Aniruddha004) \
 Atharva Satpute     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [atharva-satpute](https://github.com/atharva-satpute) \
 Pranav Deshmukh      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [pranav918](https://github.com/pranav918)
-=======
-# Duplicate Bug Report Detection
->>>>>>> 2fded030caa1600c9b0400c47c8ee9fc6465714f
+
