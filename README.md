@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Duplicate Bug Report Detection
 
 ## INTRODUCTION
@@ -28,3 +29,6 @@ Omkar Amilkanthwar  &nbsp; -  [lnx2000](https://github.com/lnx2000)\
 Aniruddha Deshmukh   - [Aniruddha004](https://github.com/Aniruddha004) \
 Atharva Satpute     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [atharva-satpute](https://github.com/atharva-satpute) \
 Pranav Deshmukh      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [pranav918](https://github.com/pranav918)
+=======
+# Duplicate Bug Report Detection
+>>>>>>> 2fded030caa1600c9b0400c47c8ee9fc6465714f
