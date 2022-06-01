@@ -2,6 +2,33 @@
 
 Using information retrieval to aid support engineers to find relevant documentation available in Veritas intranet (all types, confluence, webpages, PDF, word, excel, text, etc.)
 
+## Motivation:
+
+One of the main motivations is to reduce the response time needed for solving the problem. Another important reason for solving this problem is to help support engineers find the relevant documentation instead of searching through volumes of documents.
+
+## System Architecture
+
+<img src="https://i.imgur.com/gzd58ym.png" alt="arch-diag" height="200"/>
+
+## UI
+
+Extractive QA
+
+<img src="https://i.imgur.com/jxiuAbk.png" alt="SS" height="200"/>
+
+Document similarity
+
+<img src="https://i.imgur.com/jEP1a2k.png" alt="SS" height="200"/>
+
+Knowledge Graph
+
+<img src="https://i.imgur.com/uIuQqKM.png" alt="SS" height="200"/>
+
+Tabular QA
+
+<img src="https://i.imgur.com/eNETpSR.png" alt="SS" height="200"/>
+
+
 ## Prerequisites
 
 - `git clone --recurse-submodules https://github.com/atharva-lipare/qa-search-chatbot`
