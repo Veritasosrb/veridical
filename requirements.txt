@@ -1,0 +1,11 @@
+Flask==2.1.2
+Markdown==3.3.6
+numpy==1.21.6
+pandas==1.4.2
+requests==2.27.1
+scipy==1.8.0
+st_annotated_text==3.0.0
+streamlit==1.8.1
+tensorflow==2.8.0
+tensorflow_hub==0.12.0
+torch==1.10.2
