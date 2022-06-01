@@ -1,0 +1,210 @@
+This is a list of live CDs. A live CD or live DVD is a CD-ROM or DVD-ROM containing a bootable computer operating system. Live CDs are unique in that they have the ability to run a complete, modern operating system on a computer lacking mutable secondary storage, such as a hard disk drive.
+
+
+== Rescue and repair ==
+Billix – A multiboot distribution and system administration toolkit with the ability to install any of the included Linux distributions
+Inquisitor – Linux kernel-based hardware diagnostics, stress testing and benchmarking live CD
+Parted Magic – Entirely based on the 2.6 or newer Linux kernels
+System Folder of classic Mac OS on a CD or on a floppy disk – Works on any media readable by 68k or PowerPC Macintosh computers
+SystemRescueCD – A Linux kernel-based CD with tools for Windows and Linux repairs
+
+
+== BSD-based ==
+
+
+=== FreeBSD based ===
+DesktopBSD – as of 1.6RC1 FreeBSD and FreeSBIE based
+FreeBSD – has supported use of a "fixit" CD for diagnostics since 1996
+FreeNAS – m0n0wall-based
+FreeSBIE (discontinued) – FreeBSD-based
+GhostBSD – FreeBSD based with gnome GUI, installable to HDD
+Ging – Debian GNU/kFreeBSD-based
+m0n0wall (discontinued) – FreeBSD-based
+TrueOS – FreeBSD-based
+pfSense – m0n0wall-based
+
+
+=== Other BSDs ===
+DragonFly BSD
+
+
+== Linux kernel-based ==
+
+
+=== Arch Linux based ===
+Artix – LXQt preconfigured and OpenRC-oriented live CD and distribution
+Archie – live CD version of Arch Linux.
+Antergos
+Chakra
+Manjaro – primarily free software operating system for personal computers aimed at ease of use.
+Parabola GNU/Linux-libre - distro endorsed by the Free Software Foundation
+SystemRescueCD
+
+
+=== Debian-based ===
+These are directly based on Debian:
+
+antiX – A light-weight edition based on Debian
+Debian Live – Official live CD version of Debian
+Finnix – A small system administration live CD, based on Debian testing, and available for x86 and PowerPC architectures
+grml – Installable live CD for sysadmins and text tool users
+HandyLinux – A French/English Linux distribution derived from Debian designed for inexperienced computer users
+Instant WebKiosk – Live, browser only operating system for use in web kiosks and digital signage deployments
+Kali Linux – The most advanced penetration testing distribution
+Knoppix – The "original" Debian-based live CD
+MX Linux – Live based on Debian stable
+Tails – An Amnesic OS based on anonymity and Tor
+Slax – (formerly based on Slackware) modular and very easy to remaster
+Webconverger – Kiosk software that boots live in order to turn PC into temporary Web kiosk
+
+
+==== Knoppix-based ====
+A large number of live CDs are based on Knoppix. The list of those is in the derivatives section of the Knoppix article.
+
+
+==== Ubuntu-based ====
+These are based at least partially on Ubuntu, which is based on Debian:
+
+CGAL LiveCD – Live CD containing CGAL with all demos compiled. This enables the user to get an impression of CGAL and create CGAL software without the need to install CGAL.
+Emmabuntüs is a Linux distribution derived from Ubuntu and designed to facilitate the repacking of computers donated to Emmaüs Communities.
+gNewSense – Supported by the Free Software Foundation, includes GNOME
+gOS – A series of lightweight operating systems based on Ubuntu with Ajax-based applications and other Web 2.0 applications, geared to beginning users, installable live CD
+Linux Mint – Installable live CD
+Mythbuntu – A self-contained media center suite based on Ubuntu and MythTV
+OpenGEU – Installable live CD
+PC/OS – An Ubuntu derivative whose interface was made to look like BeOS. a 64 bit version was released in May 2009. In 2010 PC/OS moved to a more unified look to its parent distribution and a GNOME version was released on March 3, 2010.
+Pinguy – An Ubuntu-based distribution designed to look and feel simple. Pinguy is designed with the intent of integrating new users to Linux.
+Puredyne – Live CD/DVD/USB for media artists and designers, based on Ubuntu and Debian Live
+Qimo 4 Kids – A fun distro for kids that comes with educational games
+Trisquel – Supported by the Free Software Foundation, includes GNOME
+TurnKey Linux Virtual Appliance Library – Family of installable live CD appliances optimized for ease of use in server-type usage scenarios
+Ubuntu and Lubuntu – Bootable live CDs
+
+
+==== Other Debian-based ====
+AVLinux – AVLinux is a Linux for multimedia content creators.
+CrunchBang Linux – Installable live CD, using Openbox as window manager
+Damn Small Linux – Very light and small with JWM and Fluxbox, installable live CD
+DemoLinux (versions 2 and 3) – One of the first live CDs
+Dreamlinux – Installable live CD to hard drives or flash media * This distribution has ceased support *
+gnuLinEx – Includes GNOME
+Kanotix – Installable live CD
+MEPIS – Installable live CD
+
+
+=== Gentoo-based ===
+Bitdefender Rescue CD
+Calculate Linux
+FireballISO – VMware virtual machine that generates a customized security-hardened IPv4 and IPv6 firewall live CD.
+Incognito – includes anonymity and security tools such as Tor by default
+Kaspersky Rescue Disk
+Pentoo
+SabayonLinux
+Ututo
+VidaLinux
+
+
+=== Mandriva-based ===
+DemoLinux (version 1)
+Mageia – installable live CD
+Mandriva Linux – installable live CD; GNOME and KDE editions available
+
+
+=== openSUSE-based ===
+openSuSE – official Novell/SuSE-GmbH version – installable live CD; GNOME and KDE versions available
+
+
+=== Red Hat Linux/Fedora-based ===
+Berry Linux
+CentOS – installable live CD
+Fedora – installable live CD, with GNOME or KDE
+Korora – installable live USB (recommended over DVD), with Cinnamon, GNOME, KDE, MATE, or Xfce
+Network Security Toolkit – installable live disc, with GNOME or Fluxbox
+
+
+=== Slackware-based ===
+AUSTRUMI – 50 MB Mini distro
+BioSLAX – a bioinformatics live CD with over 300 bioinformatics applications
+NimbleX – under 200 MB
+Porteus – under 300 MB
+Salix
+Slackware-live ( CD / USB images with latest update from slackware-current )
+Vector Linux (Standard and SOHO Editions)
+Zenwalk
+
+
+=== Other ===
+Acronis Rescue Media – to make disk images from hard disk drives
+CHAOS – small (6 MB) and designed for creating ad hoc computer clusters
+EnGarde Secure Linux – a highly secure Linux based on SE Linux
+GeeXboX – a self-contained media center suite based on Linux and MPlayer
+GoboLinux – an alternative Linux distribution. Its most salient feature is its reorganization of the filesystem hierarchy. Under GoboLinux, each program has its own subdirectory tree.
+Granular – installable live CD based on PCLinuxOS, featuring KDE and Enlightenment
+Lightweight Portable Security – developed and publicly distributed by the United States Department of Defense’s Software Protection Initiative to serve as a  secure end node
+Linux From Scratch Live CD (live CD inactive) – used as a starting point for a Linux From Scratch installation
+Nanolinux – 14 MB distro on an installable live CD with BusyBox and Fltk, for desktop computing
+paldo – independently developed, rolling release distribution on installable live CD
+PCLinuxOS – installable live CD for desktop computing use
+Puppy Linux – installable live CD, very small
+SliTaz – installable live CD, one of the smallest available with good feature set
+Tiny Core Linux – based on Linux 2.6 kernel, BusyBox, Tiny X, Fltk, and Flwm, begins at 10 MB
+XBMC Live – a self-contained media center suite based on Embedded Linux and XBMC Media Center
+
+
+== OS X-based ==
+DasBoot by SubRosaSoft.com
+OSx86 (x86 only)
+
+
+== Windows-based ==
+Microsoft representatives have described third-party efforts at producing Windows-based live CDs as "improperly licensed" uses of Windows, unless used solely to rescue a properly licensed installation. However, Nu2 Productions believes the use of BartPE is legal provided that one Windows license is purchased for each BartPE CD, and the Windows license is used for nothing else.
+BartPE – allows creation of a bootable CD from Windows XP and Windows Server 2003 installation files
+WinBuilder – allows the creation of a bootable CD from Windows 2000 and later
+Windows Preinstallation Environment
+
+
+== OpenSolaris-based ==
+Systems based on the former open source "OS/net Nevada" or ONNV open source project by Sun Microsystems.
+
+BeleniX – full live CD and live USB distribution (moving to Illumos?)
+OpenSolaris – the former official distribution supported by Sun Microsystems based on ONNV and some closed source parts
+
+
+=== Illumos-based ===
+Illumos is a fork of the former OpenSolaris ONNV aiming to further develop the ONNV and replacing the closed source parts while remaining binary compatible. The following products are based upon Illumos:
+
+Nexenta OS – combines the GNU userland with the OpenSolaris kernel.
+OpenIndiana – since OpenIndiana 151a based on Illumos
+
+
+== Other operating systems ==
+AmigaOS 4 – Installable live CD
+Arch Hurd – A live CD of Arch Linux with the GNU Hurd as its kernel
+AROS – Offers live CD for download on the project page
+BeOS – All BeOS discs can be run in live CD mode, although PowerPC versions need to be kickstarted from Mac OS 8 when run on Apple or clone hardware
+FreeDOS – the official "Full CD" 1.0 release includes a live CD portion
+Haiku – Haiku is a free and open source operating system compatible with BeOS running on Intel x86 platforms instead of PowerPC.
+Hiren's BootCD
+Minix
+MorphOS – Installable live CD
+OpenVMS – Installable live CD
+OS/2 Ecomstation Demo
+Plan 9 from Bell Labs – Has a live CD, which is also its install CD (and the installer is a shell script).
+QNX
+ReactOS
+SkyOS
+Syllable Desktop
+
+
+== See also ==
+List of Linux distributions that run from RAM
+List of tools to create Live USB systems
+Windows To Go
+
+
+== References ==
+
+
+== External links ==
+The LiveCD List
+Linux: Distributions: Live CD at Curlie

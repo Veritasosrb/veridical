@@ -1,0 +1,59 @@
+Emmabuntüs is a Linux distribution derived from Ubuntu/Debian and designed to facilitate the repacking of computers donated to humanitarian organizations like the Emmaüs Communities.The name Emmabuntüs is a portmanteau of Emmaüs and Ubuntu.
+
+
+== Features ==
+This Linux distribution can be installed, in its entirety, without an Internet connection as all of the required packages are included within the disk image. The disk image includes packages for multiple languages and also optional non-free codecs that the user can choose whether to install or not.
+One gigabyte of RAM is required for the distribution.
+An installation script automatically performs some installation steps (user name, password predefined). The script allows you to choose whether or not to install non-free software, whether to uninstall unused languages to reduce updates.
+Emmabuntüs includes browser plug-ins for data privacy.
+There are three docks to choose from to simplify access to the software and are defined by the type of user (children, beginners and "all").
+
+
+== Desktop environment ==
+The desktop environment is Xfce with Cairo-Dock. LXDE is also included and can be optionally installed.
+
+		
+		
+		
+		
+		
+
+
+== Applications ==
+
+Multiple applications are installed that perform the same task in order to provide a choice for each user that uses the system. Here are some examples:
+
+Firefox web browser with some plug-ins and extensions: Flash Player, uBlock Origin, Disconnect, HTTPS Everywhere
+E-mail readers: Mozilla Thunderbird
+Instant messaging: Pidgin, Skype, Jitsi
+Transfer tools: FileZilla, Wammu Transmission
+Office: AbiWord, Gnumeric, HomeBank, LibreOffice, LibreOffice for schools, Kiwix, Calibre, Scribus
+Audio: Audacious Media Player, Audacity, Clementine, PulseAudio, Asunder
+Video: Kaffeine, VLC media player, guvcview, Kdenlive, HandBrake
+Photo: Nomacs, Picasa, GIMP, Inkscape
+Burning: Xfburn
+Games: PlayOnLinux, SuperTux, TuxGuitar
+Genealogy: Ancestris
+Education: GCompris, Stellarium, TuxPaint, TuxMath, Scratch
+Utilities: GParted, TeamViewer, Wine, CUPS
+
+
+== Releases ==
+
+
+== See also ==
+
+List of Linux distributions § Ubuntu-based
+
+
+== References ==
+
+
+== External links ==
+Official website
+Emmabuntüs at DistroWatch
+Emmabuntüs – A Distro Tailor-made For Refurbished Computers
+Linux Voice 2 : Linux for humanitarians
+Linux Format 216 : A Distro for All Seasons
+Full Circle 128 : Review Emmabuntüs DE2 - Stretch 1.00
+LinuxInsider : Emmabuntüs Is a Hidden Linux Gem

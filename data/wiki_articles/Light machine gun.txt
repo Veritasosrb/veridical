@@ -1,0 +1,34 @@
+A light machine gun (LMG) is a light-weight machine gun designed to be operated by a single infantryman, with or without an assistant, as an infantry support weapon. LMGs firing cartridges of the same caliber as the other riflemen of the same combat unit are often referred to as squad automatic weapons.
+
+
+== Characteristics ==
+While early light machine guns fired full-powered rifle cartridges, modern light machine guns often fire smaller-caliber rifle cartridges than medium machine guns – generally the same intermediate cartridge fired by a service's standard assault rifle – and are usually lighter and more compact. Some LMGs, such as the Russian RPK, are modifications of existing designs and designed to share the same ammunition. Adaptations to the original rifle generally include a larger magazine, a heavier barrel to resist overheating, a more robust mechanism to support sustained fire and a bipod.
+A light machine gun is also defined by its usage as well as its specifications: some machine guns – notably general-purpose machine guns – may be deployed either as a light machine gun or a medium machine gun. Deployed on a tripod and used for sustained fire, it is a medium machine gun; if deployed with a bipod with the operator in a prone position and firing short bursts, it is a light machine gun.
+Light machine guns are also designed to be fired from the hip or on the move as a form of suppressive fire intended to pin down the enemy. Marching fire is a specific tactic that relies on this capability.
+Lighter modern LMGs have enabled them to be issued down at the fireteam level, with two or three at the section/squad level.
+
+
+=== Ammunition feed ===
+Many light machine guns (such as the Bren gun or the M1918 Browning Automatic Rifle) were magazine-fed. Others, such as the Hotchkiss M1922, could be fed either from a belt/strip or from a box magazine. Modern light machine guns are designed to fire smaller caliber rounds and, as such, tend to be belt-fed (from a container attached to the gun) or from a detachable high-capacity drum magazine, but some, such as the FN Minimi, will also accept standard rifle magazine feeding as an auxiliary measure when belted ammunition has been exhausted.
+
+
+== History ==
+In 1903, French military theorists noticed that the heavy machine guns of the day were of little use in infantry assaults. They determined that "the machine gun must learn to walk". They researched the possibility of a light machine gun which could be carried by troops. A marching fire tactic was theorised, using incidental suppressive fire, with the advancing troops considered a deadlier threat than the un-aimed bullets, causing the enemy to fall back. The prototype guns were not approved for production, and none were in service when World War I began. The French quickly brought the prototypes to mass production to boost the firepower of advancing infantry.
+By the end of World War II, light machine guns were usually being issued on a scale of one per fire team or squad, and the modern infantry squad had emerged with tactics that were built around the use of the LMG to provide suppressive fire.
+
+
+== Selected examples ==
+
+The following were either exclusively light machine guns, had a light machine gun variant or were employed in the light machine gun role with certain adaptations. 
+
+
+== See also ==
+Medium machine gun
+Heavy machine gun
+Automatic rifle
+Squad automatic weapon
+General-purpose machine gun
+Assault rifle
+
+
+== References ==

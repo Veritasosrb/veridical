@@ -1,0 +1,45 @@
+Deepin (stylized as deepin; formerly known as Linux Deepin and Hiweed Linux) is a Linux distribution based on Debian's stable branch. It features DDE, the Deepin Desktop Environment, built on Qt and available for various distributions. As of version 15.10 it also uses dde-kwin, a set of patches for KDE Plasma's window manager. In 2019, Huawei started to ship Linux laptops pre-installed with Deepin. Deepin's userbase is predominately Chinese, though it is in most prominent Linux distributions' repositories as an alternative desktop environment. It is developed in Wuhan, China by Deepin Technology, as of 1 January 2020, a wholly owned subsidiary of UnionTech (统信软件).
+
+
+== History ==
+The distribution began in 2004 as Hiweed Linux.In 2011, the development team behind Deepin established a company named Deepin Technology to support commercial development of the operating system. The company received business investments the same year it was founded.Deepin Technology joined the Linux Foundation in 2015.
+
+
+== Overview ==
+Deepin ships a mix of open-source and proprietary programs such as Google Chrome, Spotify and Steam. It also includes a software suite of applications developed by Deepin Technology, as well as WPS Office, 360 Security Guard, CodeWeavers' CrossOver and many others.
+The development of Deepin is led by China-based Deepin Technology Co., Ltd. The company generates revenue through the sale of technical support and other services related to it. As of 1 January 2020, Deepin Technology is a wholly owned subsidiary of UnionTech (统信软件).The distribution is widely praised for its aesthetics in various reviews, while it has also been criticized for various perceived breaches in user privacy.
+
+
+== Deepin Desktop Environment ==
+Deepin features its own desktop environment called Deepin DE or DDE for short. It is written in Qt. The distribution also maintains their own Window Manager dde-kwin. The desktop environment was described as "the single most beautiful desktop on the market" by Jack Wallen writing for TechRepublic. The DDE is also available in the software repositories of Fedora 30.UbuntuDDE and Manjaro Deepin are community-supported distributions, that feature the Deepin Desktop Environment and some of the deepin applications. It is also possible to install DDE (Deepin Desktop Environment) on Arch Linux.
+
+
+== Deepin applications ==
+Deepin comes with a number of applications built via the DTK (Deepin Tool Kit), which is based on C++ and Qt. The following is a list of Deepin Applications created by the Deepin development team:
+
+
+=== Deepin Installer ===
+Deepin comes with an installer named "Deepin Installer" that was created by Deepin Technology. The Installer was praised by Swapnil Bhartiya writing for linux.com as having "the simplest installation procedure" that was also "quite pleasant." Writing for Forbes, Jason Evangelho complained about the installer requiring the user to select their location from a world map, though concluded by saying, "Aside from my little time zone selection pet peeve, the installer is beautiful, brisk and very intuitive."
+
+
+== Releases ==
+The release cycle has followed various schedules but currently aims at four releases per year. Releases are delayed if the work of development and testing has not been completed.
+
+
+== Reception ==
+The distribution is generally praised for its aesthetics by users and reviewers alike, such as linux.com, Fossbytes and Techrepublic.
+
+
+=== CNZZ incident ===
+When Deepin was accused in 2018 of containing spyware through the use of statistics software within their App Store, the company made an official statement clarifying that it did not and would not collect private user information. According to Deepin, CNZZ is a website similar to Google Analytics that collects anonymous usage information such as the screen size, browser and other user agent information to "analyze how the Deepin store was being used, in order to improve it."On 20 July 2018, Deepin removed CNZZ statistics from the Deepin App Store website due to the backlash.
+
+
+=== Performance ===
+Deepin's reputation was that it had relatively high CPU and memory demands when it was still based on GTK and HTML technologies, even when the system was idle. After switching to the Qt-based desktop environment, performance improved, as was noted by Linux.com in its September 2018 review of Deepin 15.7.
+
+
+=== Western concerns about connections to China ===
+Radware's head of threat research has commented on concerns about analytics collected by Deepin, and whether these are sent to the Chinese government: while the CNZZ analytics service has been removed, analytics are still collected, now by "Umeng+". According to cybersecurity lawyer Steven T. Snyder, due to the sheer size of Deepin's codebase, it is impossible to really scrutinize all the code comprising it to be sure the Chinese government doesn't have backdoors. The project does remain fully open source allowing anyone to review, modify or change the code to meet their standards.
+
+
+== References ==

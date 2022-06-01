@@ -1,0 +1,17 @@
+Learnability is a quality of products and interfaces that allows users to quickly become familiar with them and able to make good use of all their features and capabilities
+
+
+== Software testing ==
+In software testing learnability, according to ISO/IEC 9126, is the capability of a software product to enable the user to learn how to use it. Learnability may be considered as an aspect of usability, and is of major concern in the design of complex software applications.
+Learnability is defined in the Standard glossary of terms used in software testing published by the International Software Testing Qualifications Board.
+
+
+== Computational learning theory ==
+In computational learning theory, learnability is the mathematical analysis of machine learning. It is also employed in language acquisition in arguments within linguistics.
+Frameworks include:
+
+Language identification in the limit proposed in 1967 by E. Mark Gold.  Subsequently known as Algorithmic learning theory.
+Probably approximately correct learning (PAC learning) proposed in 1984 by Leslie Valiant
+
+
+== References ==

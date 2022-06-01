@@ -1,0 +1,34 @@
+The Linux kernel is a free and open-source, monolithic, Unix-like operating system kernel. It was conceived and created in 1991 by Linus Torvalds.Linux kernels have different support level depending on version. Version 4.4, released in January 2016, was declared to have Long-Term Support (LTS). It has six years of support that way, but it was also defined to have Super Long Term Support (SLTS), i.e. Civil Infrastructure Platform will provide support (for 32-bit ARM and x86-64 only) until at least 2026, possibly until 2036. It is by now the oldest supported version.
+
+
+== Releases 5.x.y ==
+
+
+== Releases 4.x.y ==
+
+
+== Releases 3.x.y ==
+The jump from 2.6.x to 3.x wasn't because of a breaking update, but rather the first release of a new versioning scheme introduced as a more convenient system.
+
+
+== Releases 2.6.x.y ==
+Versions 2.6.16 and 2.6.27 of the Linux kernel were unofficially supported in a long-term support (LTS) fashion, before a 2011 working group in the Linux Foundation started a formal long-term support initiative.
+
+
+== Releases before 2.6.0 ==
+
+
+== See also ==
+Linux adoption
+Linux kernel
+History of Linux
+Timeline of free and open-source software
+
+
+== References ==
+
+
+== External links ==
+Official Linux kernel website
+Active kernel releases on the official Linux kernel website
+Linux versions in Linux Kernel Newbies

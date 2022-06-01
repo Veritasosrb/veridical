@@ -1,0 +1,10 @@
+LliureX (Valencian pronunciation: [ˈʎiwɾeks]) is a project of the Generalitat Valenciana whose objective is the introduction of the new technologies of information and communication based on free software in the education system in the Valencian Community.
+It is a Linux distribution that is used on over 110,000 PCs in schools in the Valencia region. Originally it was based on Debian but since version 7.09 it is based on Ubuntu.
+
+
+== References ==
+
+
+== External links ==
+Official site (in Valencian and Spanish)
+LliureX at DistroWatch

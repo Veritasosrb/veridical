@@ -1,0 +1,30 @@
+Blackboard Learn (previously the Blackboard Learning Management System) is a web-based virtual learning environment and learning management system developed by Blackboard Inc. The software features course management, customizable open architecture, and scalable design that allows integration with student information systems and authentication protocols. It may be installed on local servers, hosted by Blackboard ASP Solutions, or provided as Software as a Service hosted on Amazon Web Services. Its main purposes are stated to include the addition of online elements to courses traditionally delivered face-to-face and development of completely online courses with few or no face-to-face meetings.
+
+
+== History ==
+On January 21, 1997, Stephen Gilfus and Daniel Cane started a company called CourseInfo LLC and were developing a software product that would power online education and be scalable for wider institutional application. At the same time, Matthew Pittinsky and Michael Chasen formed Blackboard LLC and were contracted to help lead the formation of the Educause IMS standards group for online education technology. The two groups merged to form Blackboard Inc., which then developed the Blackboard Learning System.In May 2009 Blackboard learn purchased the privately held competing learning management systems company Angel Learning, inc.  ANGEL Learning.
+In 2015, the company announced a to the user experience update, called Ultra. 
+In October 2017, Blackboard partnered with OpenEd to integrate OER with Learning Management Systems.
+
+
+== Learn Ultra ==
+Ultra is an optional user interface sitting on top of the existing Learn 9.1 architecture, only available for SaaS installations. It is the largest change to Learn's front-end since its inception. It uses a single page application format, which significantly changes the user experience and the ways in which 3rd-party tools can be included.
+Blackboard has begun offering additional products such as Blackboard Collaborate Ultra (a video-classroom service), Blackboard Ally (an accessibility assistant), and a chat-bot support service. These are designed to integrate with Ultra to deliver contextually-relevant interactions.
+The interface added features which allow teachers to create assessments and course content within the application, such as assignments, grade books and learning modules. also added features like the ability to post announcements and discussion threads, the introduction of mail and chatrooms, and messages between students and teachers.
+
+
+== Criticism ==
+
+Blackboard Inc. has had several legal issues, including faulty patent rights claims. In addition, a number of educational institutions, teachers, and students have expressed concerns about the reliability of Blackboard. McMaster University in Hamilton, Ontario, Canada, has replaced their Blackboard system after multiple problems during one year of use. Citing numerous glitches and high costs, many universities are turning to the cheaper, open source alternative Moodle, including University of Montana, Vassar College, California State University, Long Beach, and many other schools. Rensselaer Polytechnic Institute's implementation of the system notably suffered sporadic outages in the Grade Book section during the finals of the Fall 2014 semester.
+In Spring 2020, during coronavirus pandemic, Fairfax County Public Schools, one of the largest school systems in the United States with 189,000 students, abandoned Blackboard Learn 24/7 after weeks of unsuccessful attempts to use it. The issues included poor security allowing live sessions to be hacked and disrupted, and inability for the system to cope with the volume of students and teachers even on the days when only elementary schools were using the system.
+
+
+== See also ==
+CourseInfo LLC – the precursor to Blackboard Inc.
+
+
+== References ==
+
+
+== External links ==
+Official website

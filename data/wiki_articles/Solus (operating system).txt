@@ -1,0 +1,85 @@
+Solus (previously known as Evolve OS) is an independently developed operating system for the x86-64 architecture based on the Linux kernel and a choice of the homegrown Budgie desktop environment, GNOME, MATE or KDE Plasma as the desktop environment. Its package manager, eopkg, is based on the PiSi package management system from Pardus Linux, and it has a semi-rolling release model, with new package updates landing in the stable repository every Friday. The developers of Solus have stated that Solus is intended exclusively for use on personal computers and will not include software that is only useful in enterprise or server environments.
+
+
+== History ==
+On September 20, 2015, Ikey Doherty announced that "Solus 1.0 will be codenamed Shannon, after the River Shannon in Ireland", indicating that "codenames for releases will continue this theme, using Irish rivers."In July 2016, Solus announced the intention to discard the concept of fixed point releases and to embrace a rolling release model.In January 2017, Doherty announced that Solus will adopt Flatpak to reassemble third party applications. In August, Doherty announced that Solus also will adopt "Snaps" (next to Flatpak).On June 13 the same year, it was announced that the developer team had been expanded with Stefan Ric, and Ikey Doherty – previously working for Intel on Clear Linux OS – started working full-time on Solus.On November 2, 2018, technology website Phoronix published an open letter from original founder Ikey Doherty confirming that he was stepping back from the project, assigning "any and all intellectual, naming and branding rights relating to the ownership of Solus" to the development team "with immediate and permanent effect, acknowledging them as the official owners and leadership of the project."On January 1, 2022, experience lead Josh Strobl announced his resignation from Solus, after 6 years of involvement with the project.
+
+
+== Releases and reception ==
+
+
+=== Point releases ===
+Solus 1.0 "Shannon" was released December 27, 2015. Jessie Smith reviewed the release as part of a feature story in DistroWatch Weekly, a weekly opinion column and summary of events from the distribution world. While he "ran into a number of minor annoyances" such as "Solus panicking and shutting itself down", he concluded that "Solus 1.0 represents a decent start".Solus 1.1 was released February 2, 2016. HecticGeek blogger Gayan has described Solus 1.1 as a "well optimized operating system", praising significantly faster boot and shutdown times than Ubuntu 15.10. Due to several usability issues encountered, he recommended to wait another year before trying it out again.Solus 1.2 was released on June 20, 2016. Michael Huff has described Solus in his review 'Finding Solace in Solus Linux' as a unique and original project for "those who’ve been reluctant to travel the Linux galaxy".Solus 1.2.0.5 was released on September 7, 2016. Michael Huff, a programmer and data analyst, wrote in his second review of Solus in Freedom Penguin that "we finally have the power and ease-of-use of a Mac in a Linux distribution" and "that the only people who need to use Solus are those who value their happiness in computing", praising the operating system as only one of few independent projects assured of "a tight cult following with the potential for mass appeal."Solus 1.2.1 was released on October 19, 2016. This is the last fixed point release of Solus and all future releases will be based on the snapshot model (the OS is now following the rolling-release model).
+
+
+=== Rolling releases ===
+Solus is considered a curated rolling release. It is a rolling release in the sense that once installed, end-users are guaranteed to continuously receive security and software updates for their Solus installation. Updates become available every Friday.
+Solus 2017.01.01.0, a snapshot following the recently adopted rolling release model, was released on January 1, 2017.Solus 2017.04.18.0, was released on April 18, 2017.Solus 3 was released on August 15, 2017.Solus 3.9999 (Solus 3 ISO Refresh) was released on September 20, 2018.Solus 4.0 "Fortitude" was released on March 17, 2019. Announcing the release, Solus Experience Lead, Joshua Strobl stated that Solus 4.0 delivered "a brand new Budgie experience, updated sets of default applications and theming, and hardware enablement".Solus 4.1 was released on January 25, 2020.Solus 4.2 was released on February 3, 2021.Solus 4.3 was released on July 11, 2021.
+
+
+== Editions ==
+Solus is currently available in four editions:
+
+Budgie flagship edition, a "feature-rich, luxurious desktop using the most modern technologies";
+GNOME edition, running the GNOME desktop environment, "a contemporary desktop experience";
+MATE edition using the MATE desktop environment, a "traditional desktop for advanced users and older hardware";
+KDE Plasma edition, "a sophisticated desktop experience for the tinkerers".
+
+
+=== Budgie ===
+Ikey Doherty stated that, regarding Budgie, he "wanted something that was a modern take on the traditional desktop, but not too traditional", aiming to keep a balance between aesthetics and functionality.
+
+
+=== Core team ===
+Technical lead: Beatrice T. Meyers [DataDrake]
+Global Maintainers: Friedrich von Gellhorn [Girtablulu], Joey Riches [joebonrichie], and Pierre-Yves [kyrios]
+
+
+== Features ==
+
+
+=== Curated rolling release ===
+Solus brings updates to its users by means of a curated rolling release model. It is a rolling release in the sense that once installed, end-users are guaranteed to continuously receive security and software updates for their Solus installation without having to worry that their operating system will reach end-of-life. The latter is typically the case with fixed point releases of operating systems such as Fedora and Ubuntu but also Microsoft Windows. Marius Nestor at Softpedia has argued that all operating systems should use the rolling release model in order to decrease development and maintenance workload for developers and to make the latest technologies available for end users as soon as these are ready for the market.Compared to other rolling release operating systems such as Arch Linux - which provides bleeding edge software, i.e. software so new that there is a relatively high risk that software breakages might occur and render the system partially or completely unusable, Solus takes a slightly more conservative approach to software updates, hence the term curated rolling release. In contrast to Arch, Software on Solus is commonly referred to as cutting edge, typically excluding beta software, and is released after a short period of testing (in the unstable software repository) to end users in order to provide a safer, more stable and reliable update experience. By prioritizing usability (curated rolling release) over availability (pure rolling release), Solus intends to make the operating system accessible to a wider target market than Arch Linux, which is mainly aimed at more advanced users possessing in-depth technical knowledge about their system.
+Solus is also a curated rolling release in allowing its users to participate in the actual curation process, broadly conceived as the process by which software is selected, maintained and updated (on the server side in the software repositories of the operating system as well as on the client side on the end users computer system). More specifically, and contrary to other operating systems with various 'enforced update mechanisms', a Solus user has the freedom to choose what gets updated and when updates are applied (if at all), except for mandatory security updates.
+
+
+=== Software availability ===
+Solus comes pre-installed with a wide range of software that includes the latest Firefox, Thunderbird, LibreOffice, Transmission and GNOME MPV. Additional software that is not installed by default can be downloaded using the included Software Center. Wireless chips and modems are supported through optional non-free firmware packages.
+Package management is done through eopkg. Michael Huff has quoted project founder and lead developer Ikey Doherty that Solus will not be defined by its package manager. In a previous interview with Gavin Thomas from Gadget Daily on February 8, 2016, Doherty stated that as an end user the goal is to actually not interact with the package manager, sharply outlining the project's direction in terms of user experience. According to Doherty, the goal is "to actually get rid of it, so the user doesn’t even know about it." In Solus, the package manager is not intended to be used as a tool to deploy but to build software, distinguishing it from less beginner-friendly practices on other Linux-based operating systems.
+
+
+=== Software developed by Solus ===
+Budgie desktop environment: a GTK 3 desktop that tightly integrates with the GNOME software stack, employing the underlying technology. Starting with version 11, it was announced that Budgie will no longer be written in GTK, and the GNOME software stack will be fully replaced, due to unsolvable disagreements with the GNOME team.Raven: a sidebar interface that serves as an applet panel, notifications center and houses the desktop customization settings.
+Budgie Menu: a quick category and search-based application launcher.
+Budgie-wm: the window manager of the Budgie Desktop.
+eopkg: (Evolve OS Package) a fork of the PiSi package manager.
+ypkg: a tool to convert the build process into a packaging operation.
+ferryd: the binary repository manager for Solus.
+Software Center: a graphical frontend to install software in Solus.
+Brisk Menu: a menu co-written with the Ubuntu MATE development team, featured in Solus MATE.
+
+
+== Security ==
+In July 2015, Solus announced integration of Clear Linux patches to deprecate insecure SSL ciphers, responding to a community post on Google+ by Arjan van de Ven.In response to security issues experienced by the Linux Mint project in late February 2016, Solus introduced improvements by providing a global Solus GPG key on its download section. Joshua Strobl, Communications Manager at Solus, announced the separation of official and community mirrors on the download page with official mirrors "to be regularly audited and updated" and "daily integrity checks against every ISO mirror" to be performed.
+Within its software center, Solus contains a wide variety of dedicated security software ranging from encryption software such as VeraCrypt to anonymization tools such as Tor.
+Solus integrates AppArmor instead of SELinux for restricting programs' capabilities.
+
+
+== Popularity ==
+Because of user privacy, the Solus project doesn't track users so there isn't a direct and reliable way to measure popularity.
+As of July 2021, the DistroWatch website, which records the frequency of page clicks on its own site, ranked Solus 13th in the 6-month page hit rankings, 6th among the most popular rolling release distributions. and achieved an average reader-supplied review score of 8.42 out of 10.
+
+
+== Critical reception ==
+Solus 3 was named one of the best Linux distributions of 2017 by OMG! Ubuntu!Matt Hartley praised Solus in his overview of the best Linux-based operating systems of 2017, as "Perhaps the most interesting distro in recent years...taking a unique approach to a logical user workflow, package management and how they work with the community. I see them doing great things in the future."In the more mainstream media Jason Evangelho covered Solus a few times for Forbes magazine. Solus received a lot of appraisal from Evangelho in his articles covering PC gaming and tech industry, most notable regarding gaming on Solus Linux and about the 4.0 release.
+
+
+== References ==
+
+Notes:
+
+
+== External links ==
+Official website
+Solus (operating system) at DistroWatch
+Solus on OpenSourceFeed gallery

@@ -1,0 +1,221 @@
+Interslavic (Medžuslovjansky / Меджусловјанскы) is a pan-Slavic auxiliary language. Its purpose is to facilitate communication between representatives of different Slavic nations, as well as to allow people who do not know any Slavic language to communicate with Slavs by being understandable to most, if not all Slavic speakers without them having to learn the language themselves. For Slavs and non-Slavs it can fulfill an educational role as well.
+Interslavic can be classified as a semi-constructed language. It is essentially a modern continuation of Old Church Slavonic, but also draws on the various improvised language forms Slavs have been using for centuries to communicate with Slavs of other nationalities, for example in multi-Slavic environments and on the Internet, providing them with a scientific base. Thus, both grammar and vocabulary are based on the commonalities between the Slavic languages, and non-Slavic elements are avoided. Its main focus lies on instant understandability rather than easy learning, a balance typical for naturalistic (as opposed to schematic) languages.The Interslavic project began in 2006 under the name Slovianski. In 2011, Slovianski underwent a thorough reform and merged with two other projects, with the result called "Interslavic", a name that was first proposed by the Czech Ignác Hošek in 1908.Interslavic is written using either the Latin or the Cyrillic script.
+
+
+== History ==
+
+Precursors of Interslavic have a long history and predate constructed languages like Volapük and Esperanto by centuries: the oldest description, written by the Croatian priest Juraj Križanić, goes back to the years 1659–1666.The history of Pan-Slavic language projects is closely connected with Pan-Slavism, an ideology that endeavors cultural and political unification of all Slavs, based on the conception that all Slavic people are part of a single Slavic nation. Along with this belief came also the need for a Slavic umbrella language. Old Church Slavonic had partly served this role in previous centuries, as an administrative language in a large part of the Slavic world, and it was still used on a large scale in Orthodox liturgy, where it played a role similar to Latin in the West. A strong candidate for a more modern language is Russian, the language of the largest (and during most of the 19th century the only) Slavic state and also mother tongue of more than half of the Slavs. However, the role of the Russian language as a lingua franca in Eastern Europe and the Balkans diminished after the collapse of the Soviet Union.
+
+In March 2006, the Slovianski project was started by a group of people from different countries, who felt the need for a simple and neutral Slavic language that the Slavs could understand without prior learning. The language they envisioned should be naturalistic and only consist of material existing in all or most Slavic languages, without any artificial additions. Initially, Slovianski was being developed in two different variants: a naturalistic version known as Slovianski-N (initiated by Jan van Steenbergen and further developed by Igor Polyakov), and a more simplified version known as Slovianski-P (initiated by Ondrej Rečnik and further developed by Gabriel Svoboda). The difference was that Slovianski-N had six grammatical cases, while Slovianski-P—like English, Bulgarian and Macedonian—used prepositions instead. Apart from these two variants (N stands for naturalism, P for pidgin or prosti "simple"), a schematic version, Slovianski-S, has been experimented with as well, but was abandoned in an early stage of the project. In 2009 it was decided that only the naturalistic version would be continued under the name Slovianski. Although Slovianski had three genders (masculine, feminine, neuter), six cases and full conjugation of verbs—features usually avoided in international auxiliary languages—a high level of simplification was achieved by means of simple, unambiguous endings and irregularity being kept to a minimum.Slovianski was mostly used in Internet traffic and in a news letter, Slovianska Gazeta. In February and March 2010 there was much publicity about Slovianski after articles had been dedicated to it on the Polish internet portal Interia.pl and the Serbian newspaper Večernje Novosti. Shortly thereafter, articles about Slovianski appeared in the Slovak newspaper Pravda, on the news site of the Czech broadcasting station ČT24, in the Serbian blogosphere and the Serbian edition of Reader's Digest, as well as other newspapers and internet portals in the Czech Republic, Slovakia, Hungary, Serbia, Montenegro, Bulgaria and Ukraine.
+
+Slovianski has played a role in the development of other, related projects as well. Rozumio (2008) and Slovioski (2009) were both efforts to build a bridge between Slovianski and Slovio. Originally, Slovioski, developed by Polish-American Steeven Radzikowski, was merely intended to reform Slovio, but gradually it developed into a separate language. Like Slovianski, it was a collaborative project that existed in two variants: a "full" and a simplified version.  In 2009 a new language was published, Neoslavonic ("Novoslovienskij", later "Novoslověnsky") by the Czech Vojtěch Merunka, based on Old Church Slavonic grammar but using part of Slovianski's vocabulary.In 2011, Slovianski, Slovioski and Novoslověnsky merged into one common project under the name Interslavic (Medžuslovjanski). Slovianski grammar and dictionary were expanded to include all options of Neoslavonic as well, turning it into a more flexible language based on prototypes rather than fixed rules. From that time Slovianski and Neoslavonic have no longer been developed as separate projects, even though their names are still frequently in use as synonyms or "dialects" of Interslavic.In the same year, the various simplified forms of Slovianski and Slovioski that were meant to meet the needs of beginners and non-Slavs, were reworked into a highly simplified form of Interslavic, Slovianto. Slovianto is intended to have stages of complexity: level 1 with plurals, tenses, and basic vocabulary; level 2 with grammatical gender and basic verb conjugation; and a to-be-done level 3 with noun declension.After the 2017 CISLa conference, the project of unifying the two standards of Interslavic has been commenced by Merunka and van Steenbergen, with a planned new, singular grammar and orthography. An early example of this endeavor is Merunka and van Steenbergen's joint publication on Slavic cultural diplomacy, released to coincide with the conference.
+
+
+== Community ==
+
+The number of people who speak Interslavic is difficult to establish; the lack of demographic data is a common problem among constructed languages, so that estimates are always rough. In 2012, the Bulgarian author G. Iliev mentioned a number of "several hundreds" of Slovianski speakers. In 2014, the language's Facebook page mentioned 4600 speakers. For comparison, 320,000 people claimed to speak Esperanto in the same year. Although these figures are notoriously unreliable, Amri Wandel considered them useful for calculating the number of Esperanto speakers worldwide, resulting in a number of 1,920,000 speakers. If applied on Interslavic, this method would give a number of 27,600 speakers. A more realistic figure is given in 2017 by Kocór e.a., who estimated the number of Interslavic speakers to be 2000.Interslavic has an active online community, including four Facebook groups with 13060, 856, 316 and 117 members respectively by 25 April 2021 and an Internet forum with around 482 members. Apart from that there are groups on VKontakte (1587 members), Discord (1186 members) and Telegram (389 members). Of course, not every person who has joined a group or organization, or has registered in a language course, is automatically a speaker of the language, but on the other hand, not every speaker is automatically a member. Besides, membership figures have traditionally been used for calculations of Esperanto speakers as well, even though not every member could actually speak the language. Considering the overlap between different groups, the Interslavic online community consists of at least 11,000 people, making it the constructed language with the largest online community after Esperanto.The project has two online news portals, a peer-reviewed expert journal focusing on issues of Slavic peoples in the wider sociocultural context of current times and a wiki united with a collection of texts and materials in Interslavic language somewhat similar to Wikisource. Since 2016, Interslavic is used in the scientific journal Ethnoentomology for paper titles, abstracts and image captions.In June 2017 an international conference took place in the Czech town of Staré Město near Uherské Hradiště, which was dedicated to Interslavic. The presentations were either held in Interslavic or translated into Interslavic. A second conference took place in 2018. In the same year, Vít Jedlička, president of the micronation Liberland expressed his intention to host a congress about Interslavic. A third conference was planned in Hodonín in 2020, but was postponed due to the COVID-19 pandemic.
+
+
+== Phonology ==
+The phonemes that were chosen for Interslavic were the most popular Slavic phonemes cross-linguistically.
+
+
+=== Consonants ===
+
+
+== Alphabet ==
+One of the main principles of Interslavic is that it can be written on any Slavic keyboard. Since the border between Latin and Cyrillic runs through the middle of Slavic territory, Interslavic allows the use of both alphabets. Because of the differences between, for instance, the Polish alphabet and other Slavic Latin alphabets, as well as between Serbian and other Cyrillic alphabets, orthographic variation is tolerated. Because Interslavic is not an ethnic language, there are no hard and fast rules regarding stress.The Latin and Cyrillic alphabets are as follows:
+(Pronunciation is approximate; the exact realization will depend on the accent of the speaker. For example, southern Slavs will typically substitute /i/ for y / ы)
+Apart from the basic alphabet above, the Interslavic Latin alphabet has a set of optional letters as well. They differ from the standard orthography by carrying a diacritic and are used to convey additional etymological information and link directly to Proto-Slavic and Old Church Slavonic. Pronunciation may not be distinct from the regular alphabet.
+
+The consonants ľ, ń, ŕ, ť, ď, ś and ź are softened or palatalized counterparts of l, n, r, t, d, s and z. The latter may also be pronounced like their softened/palatalized equivalents before i, ě, ę and possibly before e. This pronunciation is not mandatory, though: they may as well be written and pronounced hard.Cyrillic equivalents of the etymological alphabet and ligatures can also be encountered in some Interslavic texts, though they are not part of any officially sanctioned spelling.
+
+
+== Morphology ==
+Interslavic grammar is based on the greatest common denominator of that of the natural Slavic languages, and partly also a simplification thereof. It consists of elements that can be encountered in all or at least most of them.
+
+
+=== Nouns ===
+Interslavic is an inflecting language. Nouns can have three genders, two numbers (singular and plural), as well as six cases (nominative, accusative, genitive, dative, instrumental and locative). Since several Slavic languages also have a vocative, it is usually displayed in tables as well, even though strictly speaking the vocative is not a case. It occurs only in the singular of masculine and feminine nouns.There is no article. The complicated system of noun classes in Slavic has been reduced to four or five declensions:
+
+masculine nouns (ending in a – usually hard – consonant): dom "house", mųž "man"
+feminine nouns ending in -a: žena "woman", zemja "earth"
+feminine nouns ending in a soft consonant: kosť "bone"
+neuter nouns ending in -o or -e: slovo "word", morje "sea"
+Old Church Slavonic also had a consonantal declension that in most Slavic languages merged into the remaining declensions. Some Interslavic projects and writers preserve this declension, which consists of nouns of all three genders, mostly neuters:
+neuter nouns of the group -mę/-men-: imę/imene "name"
+neuter nouns of the group -ę/-ęt- (children and young animals): telę/telęte "calf"
+neuter nouns of the group -o/-es-: nebo/nebese "sky"
+masculine nouns of the group -en-: kameń/kamene "stone"
+feminine nouns with the ending -òv: cŕkòv/cŕkve "church"
+feminine nouns with the ending -i/-er-: mati/matere "mother"
+
+
+=== Adjectives ===
+Adjectives are always regular. They agree with the noun they modify in gender, case and number, and are usually placed before it. In the column with the masculine forms, the first relates to animate nouns, the second to inanimate nouns. A distinction is made between hard and soft stems, for example: dobry "good" and svěži "fresh":
+Some writers do not distinguish between hard and soft adjectives. One can write dobrego instead of dobrogo, svěžogo instead of svěžego.
+
+
+==== Comparison ====
+The comparative is formed with the ending -(ěj)ši: slabši "weaker", pòlnějši "fuller". The superlative is formed by adding the prefix naj- to the comparative: najslabši "weakest". Comparatives can also be formed with the adverbs bolje or vyše "more", superlatives with the adverbs najbolje or najvyše "most".: Adjectives: Degree of comparison 
+
+
+==== Adverbs ====
+Hard adjectives can be turned into an adverb with the ending -o, soft adjectives with the ending -e: dobro "well", svěže "freshly". Comparatives and superlatives can be adverbialized with the ending -ěje: slaběje "weaker".: Adjectives: Adverbs 
+
+
+=== Pronouns ===
+The personal pronouns are: ja "I", ty "you, thou", on "he", ona "she", ono "it", my "we", vy "you" (pl.), oni "they". When a personal pronoun of the third person is preceded by a preposition, n- is placed before it.: Pronouns 
+Other pronouns are inflected as adjectives:
+
+the possessive pronouns moj "my", tvoj "your, thy", naš "our", vaš "your" (pl.), svoj "my/your/his/her/our/their own", as well as čij "whose"
+the demonstrative pronouns toj "this, that", tutoj "this" and tamtoj "that"
+the relative pronoun ktory "which"
+the interrogative pronouns kto "who" and čto "what"
+the indefinite pronouns někto "somebody", něčto "something", nikto "nobody", ničto "nothing", ktokoli "whoever, anybody", čto-nebųď "whatever, anything", etc.
+
+
+=== Numerals ===
+The cardinal numbers 1–10 are: 1 – jedin/jedna/jedno, 2 – dva/dvě, 3 – tri, 4 – četyri, 5 – pęt́, 6 – šest́, 7 – sedm, 8 – osm, 9 – devęt́, 10 – desęt́.: Numerals Higher numbers are formed by adding -nadsęť for the numbers 11–19, -desęt for the tens, -sto for the hundreds. Sometimes (but not always) the latter is inflected: dvasto/tristo/pęt́sto and dvěstě/trista/pęt́sȯt are both correct.
+The inflection of the cardinal numerals is shown in the following table. The numbers 5–99 are inflected either as nouns of the kosť type or as soft adjectives.
+
+Ordinal numbers are formed by adding the adjective ending -y to the cardinal numbers, except in the case of pŕvy "first", drugy/vtory "second", tretji "third", četvŕty "fourth", stoty/sȯtny "hundredth", tysęčny "thousandth".
+Fractions are formed by adding the suffix -ina to ordinal numbers: tretjina "(one) third", četvŕtina "quarter", etc. The only exception is pol (polovina, polovica) "half".
+Interslavic has other categories of numerals as well:
+
+collective numerals: dvoje "pair, duo, duet", troje, četvero..., etc.
+multiplicative numerals: jediny "single", dvojny "double", trojny, četverny..., etc.
+differential numerals: dvojaky "of two different kinds", trojaky, četveraky..., enz.
+
+
+=== Verbs ===
+
+
+==== Aspect ====
+Like all Slavic languages, Interslavic verbs have grammatical aspect. A perfective verb indicates an action that has been or will be completed and therefore emphasizes the result of the action rather than its course. On the other hand, an imperfective verb focuses on the course or duration of the action, and is also used for expressing habits and repeating patterns.: Verbs: Aspect Verbs without a prefix are usually imperfective. Most imperfective verbs have a perfective counterpart, which in most cases is formed by adding a prefix:
+
+dělati ~ sdělati "to do"
+čistiti ~ izčistiti "to clean"
+pisati ~ napisati "to write"Because prefixes are also used to change the meaning of a verb, secondary imperfective forms based on perfective verbs with a prefix are needed as well. These verbs are formed regularly:
+
+-ati becomes -yvati (e.g. zapisati ~ zapisyvati "to note, to register, to record", dokazati ~ dokazyvati "to prove")
+-iti become -jati (e.g. napraviti ~ napravjati "to lead", pozvoliti ~ pozvaljati "to allow", oprostiti ~ oprašćati "to simplify")Some aspect pairs are irregular, for example nazvati ~ nazyvati "to name, to call", prijdti ~ prihoditi "to come", podjęti ~ podimati "to undertake".
+
+
+==== Stems ====
+The Slavic languages are notorious for their complicated conjugation patterns. To simplify these, Interslavic has a system of two conjugations and two verbal stems. In most cases, knowing the infinitive is enough to establish both stems:: Verbs: Stem 
+the first stem is used for the infinitive, the past tense, the conditional mood, the past passive participle and the verbal noun. It is formed by removing the ending -ti from the infinitive: dělati "to do" > děla-, prositi "to require" > prosi-, nesti "to carry" > nes-. Verbs ending in -sti can also have their stem ending on t or d, f.ex. vesti > ved- "to lead", gnesti > gnet- "to crush".
+the second stem is used for the present tense, the imperative and the present active participle. In most cases both stems are identical, and in most of the remaining cases the second stem can be derived regularly from the first. In particular cases they have to be learned separately. In the present tense, a distinction is made between two conjugations:
+the first conjugation includes almost all verbs that do not have the ending -iti, as well as monosyllabic verbs on -iti:
+verbs on -ati have the stem -aj-: dělati "to do" > dělaj-
+verbs on -ovati have the stem -uj-: kovati "to forge" > kuj-
+verbs on -nųti have the stem -n-: tęgnųti "to pull, to draw" > tęgn-
+monosyllabic verbs have -j-: piti "to drink" > pij-, čuti "to feel" > čuj-
+the second stem is identical to the first stem if the latter ends in a consonant: nesti "to carry" > nes-, vesti "to lead" > ved-
+the second conjugation includes all polysyllabic verbs on -iti and most verbs on -ěti: prositi "to require" > pros-i-, viděti "to see" > vid-i-There are also mixed and irregular verbs, i.e. verbs with a second stem that cannot be derived regularly from the first stem, for example: pisati "to write" > piš-, spati "to sleep" > sp-i-, zvati "to call" > zov-, htěti "to want" > hoć-. In these cases both stem have to be learned separately.
+
+
+==== Conjugation ====
+The various moods and tenses are formed by means of the following endings:: Verbs: Conjugation 
+Present tense: -ų, -eš, -e, -emo, -ete, -ųt (first conjugation); -jų, -iš, -i, -imo, -ite, -ęt (second conjugation)
+Past tense – simple (as in Russian): m. -l, f. -la, n. -lo, pl. -li
+Past tense – complex (as in South Slavic):
+Imperfect tense: -h, -še, -še, -hmo, -ste, -hų
+Perfect tense: m. -l, f. -la, n. -lo, pl. -li + the present tense of byti "to be"
+Pluperfect tense: m. -l, f. -la, n. -lo, pl. -li + the imperfect tense of byti
+Conditional: m. -l, f. -la, n. -lo, pl. -li + the conditional of byti
+Future tense: the future tense of byti + the infinitive
+Imperative: -Ø, -mo, -te after j, or -i, -imo, -ite after another consonant.The forms with -l- in the past tense and the conditional are actually participles known as the L-participle. The remaining participles are formed as follows:
+
+Present active participle: -ųći (first conjugation), -ęći (second conjugation)
+Present passive participle: -omy/-emy (first conjugation), -imy (second conjugation)
+Past active participle: -vši after a vowel, or -ši after a consonant
+Past passive participle: -ny after a vowel, -eny after a consonant. Monosyllabic verbs (except for those on -ati) have -ty. Verbs on -iti have the ending -jeny.The verbal noun is based on the past passive participle, replacing the ending -ny/-ty with -ńje/-t́je.
+
+
+==== Examples ====
+Whenever the stem of a verbs of the second conjugation ends in s, z, t, d, st or zd, an ending starting -j causes the following mutations:
+
+prositi "to require": pros-jų > prošų, pros-jeny > prošeny
+voziti "to transport": voz-jų > vožų, voz-jeny > voženy
+tratiti "to lose": trat-jų > traćų, trat-jeny > traćeny
+slěditi "to follow": slěd-jų > slědžų, slěd-jeny > slědženy
+čistiti "to clean": čist-jų > čišćų, čist-jeny > čišćeny
+jezditi "to go (by transport)": jezd-jų > ježdžų, jezd-jeny > ježdženy
+
+
+==== Alternative forms ====
+Because Interslavic is not a highly formalized language, a lot of variation occurs between various forms. Often used are the following alternative forms:
+
+In the first conjugation, -aje- is often reduced to -a-: ty dělaš, on děla etc.
+Instead of the 1st person singular ending -(j)ų, the ending -(e)m is sometimes used as well: ja dělam, ja hvalim, ja nesem.
+Instead of -mo in the 1st person plural, -me can be used as well: my děla(je)me, my hvalime.
+Instead of -hmo in the imperfect tense, -smo and the more archaic -hom can be used as well.
+Instead of the conjugated forms of byti in the conditional (byh, bys etc.), by is often used as a particle: ja by pisal(a), ty by pisal(a) etc.
+Verbal nouns can have the ending -ije instead of -je: dělanije, hvaljenije.
+
+
+==== Irregular verbs ====
+A few verbs have an irregular conjugation:
+
+byti "to be" has jesm, jesi, jest, jesmo, jeste, sųt in the present tense, běh, běše... in the imperfect tense, and bųdų, bųdeš... in the future
+dati "to give", jěsti "to eat" and věděti "to know" have the following present tense: dam, daš, da, damo, date, dadųt; jem, ješ...; věm, věš...
+idti "to go by foot, to walk" has an irregular L-participle: šel, šla, šlo, šli.
+
+
+== Vocabulary ==
+Words in Interslavic are based on comparison of the vocabulary of the modern Slavic languages. For this purpose, the latter are subdivided into six groups:
+
+Russian
+Ukrainian and Belarusian
+Polish
+Czech and Slovak
+Slovene, Serbo-Croatian (Croat, Serbian, Montenegrin and Bosnian)
+Bulgarian and MacedonianThese groups are treated equally. In some situations even smaller languages, like Cashubian, Rusyn and Sorbian languages are included. Interslavic vocabulary has been compiled in such way that words are understandable to a maximum number of Slavic speakers. The form in which a chosen word is adopted depends not only on its frequency in the modern Slavic languages, but also on the inner logic of Interslavic, as well as its form in Proto-Slavic: to ensure coherence, a system of regular derivation is applied.
+
+
+== Example text ==
+The Article 1 of the Universal Declaration of Human Rights in Interslavic written in Latin alphabet:
+
+Vsi ljudi rodet se svobodni i ravni v dostojnosti i pravah. Oni sut obdarjeni razumom i svěstju i imajut postupati jedin k drugomu v duhu bratstva.The Article 1 of the Universal Declaration of Human Rights in Interslavic written in Cyrillic script:
+
+Вси људи родет се свободни и равни в достојности и правах. Они сут обдарјени разумом и свєстју и имајут поступати једин к другому в духу братства.The Article 1 of the Universal Declaration of Human Rights in English:
+
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
+
+
+== In popular culture ==
+Interslavic is featured in Václav Marhoul's movie The Painted Bird (based on novel of the same title written by Polish-American writer Jerzy Kosiński), in which it plays the role of an unspecified Slavic language, making it the first movie to have it. Marhoul stated that he decided to use Interslavic (after searching on Google for "Slavic Esperanto") so that no Slavic nation would nationally identify with the villagers depicted as bad people in the movie.Several musicians and bands have recorded music in Interslavic, for example: the album Počva by the Czech pagan folk group Ďyvina, the song Idemo v Karpaty by the Ukrainian reggae band The Vyo, the song Masovo pogrebanje by the Croatian folk band Mito Matija and several albums recorded by the Polish YouTuber Melac. The film The Painted Bird also contains a song in Interslavic, titled Dušo moja.
+
+
+== See also ==
+Pan-Slavic language
+Zonal auxiliary language
+
+
+== References ==
+
+
+== Literature ==
+Barandovská-Frank, Věra. Panslawische Variationen. Brosch, Ciril i Fiedler, Sabine (ed.), Florilegium Interlinguisticum. Festschrift für Detlev Blanke zum 70. Geburtstag. Peter Lang Internationaler Verlag der Wissenschaften, Frankfurt am Main, 2011, ISBN 978-3-631-61328-3, pp. 209–236.
+Duličenko, Aleksandr D. Pravigo de la slava interlingvistiko: slava reciprokeco kaj tutslava lingvo en la historio de Slavoj. Grundlagenstudien aus Kybernetik und Geisteswissenschaft, no. 57:2, June 2016, Akademia Libroservo, ISSN 0723-4899, pp. 75–101.
+Kocór, Maria, et al. Zonal Constructed Language and Education Support of e-Democracy – The Interslavic Experience. Sokratis K. Katsikas & Vasilios Zorkadis eds., E-Democracy – Privacy-Preserving, Secure, Intelligent E-Government Services. 7th International Conference, E-Democracy 2017, Athens, Greece, December 14–15, 2017, Proceedings (Communications in Computer and Information Science no. 792, Springer International Publishing, 2017, ISBN 978-3-319-71116-4, 978-3-319-71117-1), pp. 15–30.
+Kuznetsov, Nikolai. The Interslavic Language: Way of Communication Among the Slavic Nations and Ethnic Groups. Journal of Ethnophilosophical Questions and Global Ethics 2.1 (2018): pp. 18-28.
+Meyer, Anna-Maria. Slavic constructed languages in the internet age. Language Problems & Language Planning, vol. 40 no. 3 (January 2016), pp. 287–315.
+Meyer, Anna-Maria. Wiederbelebung einer Utopie. Probleme und Perspektiven slavischer Plansprachen im Zeitalter des Internets. Bamberger Beiträge zur Linguistik 6, Bamberg: Univ. of Bamberg Press, 2014, ISBN 978-3-86309-233-7.
+Merunka, Vojtěch, Interslavic zonal constructed language: an introduction for English-speakers (Lukáš Lhoťan, 2018, ISBN 9788090700499).
+Merunka, Vojtěch. Neoslavonic zonal constructed language. České Budějovice, 2012, ISBN 978-80-7453-291-7.
+Merunka, Vojtěch; Heršak, Emil; Molhanec, Martin. Neoslavonic Language. Grundlagenstudien aus Kybernetik und Geisteswissenschaft, no. 57:2, June 2016, Akademia Libroservo, ISSN 0723-4899, pp. 114–134.
+Рупосова, Л.П., История межславянского языка. Вестник Московского государственного областного университета. Московский государственный областной университет, 2012 no. 1 (ISSN 2224-0209), pp. 51–56.
+Steenbergen, Jan van. Constructed Slavic languages in the 21st century. Grundlagenstudien aus Kybernetik und Geisteswissenschaft, no. 57:2, June 2016, Akademia Libroservo, ISSN 0723-4899, pp. 102–113.
+Steenbergen, Jan van. Język międzysłowiański jako lingua franca dla Europy Środkowej. Ilona Koutny, Ida Stria (eds.): Język / Komunikacja / Informacja nr XIII (2018). Poznań: Wydawnictwo Rys, 2018. ISBN 978-83-65483-72-0, ISSN 1896-9585, pp. 47–61.
+
+
+== External links ==
+Interslavic – official website
+Interslavic language portal
+Multilingual Interslavic dictionary
+Interslavic news site
+Interslavic wiki
+Professional peer-reviewed journal in Interslavic language — SLOVJANI.info
+CISLa - Conference on InterSlavic Language

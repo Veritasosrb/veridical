@@ -1,0 +1,99 @@
+Ubuntu Studio is a recognized flavor of the Ubuntu Linux distribution, which is geared to general multimedia production. The original version, based on Ubuntu 7.04, was released on 10 May 2007.
+
+
+== Features ==
+
+
+=== Real-time kernel ===
+The real-time kernel, first included with Ubuntu Studio 8.04, was modified for intensive audio, video or graphics work. The 8.10 Ubuntu Studio release lacks this real-time kernel. It has been reimplemented in the 9.04 Ubuntu Studio release and stabilized with the release of 9.10. 10.04 Ubuntu Studio, in contrast, does not include the real-time kernel by default. As of version 10.10 of the Ubuntu Studio, the real-time kernel is no longer available in the repositories.
+
+
+=== Low-latency kernel ===
+As of Ubuntu Studio 12.04, the default kernel is linux-lowlatency, which in essence is a generic Ubuntu Linux kernel, with a tweaked configuration to allow for stable operation for audio applications at lower latencies. Since much of the real-time patch has now been implemented into the vanilla kernel, and considering the difficulties in maintaining linux-rt, Ubuntu Studio decided on using linux-lowlatency in its place.
+The scheduler allows applications to request immediate CPU time, which can drastically reduce audio latency.
+In 9.10, the "Ubuntu Studio Controls" provided under System>Administration permit the user to "Enable Nice", allowing the use of wireless networking and proprietary graphics cards drivers while maintaining low audio latency free of XRUNs (audio drop-outs) in JACK.  A more negative value entered for nice reserves more CPU time for real-time audio processes.
+
+
+=== Appearance and sound theme ===
+Ubuntu Studio also includes custom artwork and a blue-on-black theme, as opposed to Ubuntu's default purple and orange.  As with the main distribution of Ubuntu, if an accelerated graphics card and appropriate driver are used, the advanced desktop effects can be enabled.  More advanced Compiz effects are available in the Synaptic Package Manager (i.e., Ubuntu repositories).  In Karmic 9.10, a fresh sound theme replaces the default Ubuntu theme, with a reverberating melody at startup, and an occasional knock or ping from a button or prompt.  Xfce (instead of GNOME) was the default user interface until v20.04. From Ubuntu Studio 20.10, the default user interface became KDE.
+
+
+=== Access to Ubuntu repositories ===
+An important advantage of Ubuntu Studio over most other Linux distributions employing the real-time kernel is access to the same repositories available to the main Ubuntu distributions through the Update Manager, Synaptic Package Manager, as well as through the Add/Remove Applications prompt.  This allows for much more frequent operating system updates, and access to a much wider range of software.
+
+
+== Installation ==
+In the past there has been no live version available of Ubuntu Studio, and no graphical installer. Since the 12.04 release, Ubuntu Studio has been available as a Live DVD.  The disk image is about 1.8 GB, too large to fit on a standard CD, and as a result the recommended installation medium for Ubuntu Studio is a DVD or USB flash drive. Ubuntu Studio can also be installed on a pre-existing Ubuntu installation by installing the "ubuntustudio-desktop" package from Advanced Packaging Tool.
+In 9.10, the package "ubuntustudio-audio," shown during installation (and also available in the Synaptic Package Manager), cannot be installed without a working Internet connection.
+An Internet connection is required after installation to maintain system components.
+
+
+== Software included ==
+
+
+=== Audio ===
+a2jmidid – a2jmidid is a daemon for exposing legacy ALSA sequencer applications in JACK MIDI system.
+Ardour – version 4 of the hard disk recorder and digital audio workstation application (Works with JACK).
+Audacious – a lightweight audio player.
+Audacity – a digital audio editor application.
+BEAST – music composition and modular synthesis application.
+Creox – A real-time guitar effects program (works with JACK).
+FluidSynth with GUI QSynth – Software Wavetable Synthesizer (Works with JACK).
+Hydrogen – an advanced drum machine (Works with JACK).
+JACK Audio Connection Kit – a sound server daemon that provides low latency connections between applications for both audio and MIDI data.
+Jack Rack – Virtual rackmount of LADSPA DSP effects plugins (Works with JACK).
+JAMin – the JACK Audio Connection Kit Audio Mastering interface (Works with JACK).
+LilyPond – a program for engraving sheet music
+MusE – a MIDI/Audio sequencer using JACK and ALSA
+MuseScore – a music scorewriter for Linux, Microsoft Windows, and Mac
+Patchage – GUI access to patch MIDI and Audio software together for JACK.
+Pure Data – a programming environment for multimedia (Works with Jack).
+Tapiir – a software multitap delay with realtime audio I/O. (works with JACK).
+Timemachine – Records the last 30 seconds of sound to the hard drive, so a 'one off' sound can be captured (Works with JACK).
+TiMidity++ – a software synthesizer that is able to convert from MIDI to various formats.
+Xwax – a vinyl record emulator.
+Yoshimi – based on ZynAddSubFX but improves audio and MIDI capabilities. JACK performance is also improved.Installable from the Software-Center
+Mixxx – a digital DJ - style mixing program.
+Rosegarden – a digital audio workstation program (works with JACK). Not included since release 12.
+ZynAddSubFX – a complex yet easy to use subtractive, additive, FM synthesizer with DSP effects, and exceptional software synthesizer. Works with JACK.
+
+
+=== Video ===
+Pitivi – a video editing program
+Kino – a non-linear digital video editor
+OpenShot - a simple, linear video editing program
+Kdenlive - non-linear video editor by KDE (not referenced on website)
+Stopmotion – a stop-motion animation movie creator
+VLC media player – a media player, was removed before 7.04 Feisty
+Xjadeo – a simple video player that gets sync from JACK transport
+
+
+=== Graphics ===
+Agave – a color scheme generator
+Blender – a 3D animation program
+Enblend – an image compositing program
+FontForge – a typeface (font) editor program
+GIMP – a raster graphics editor
+Hugin – photo stitching and HDR merging program
+Inkscape – a vector graphics editor
+Krita – a free and open-source painting application
+Scribus – a desktop publishing application
+Synfig – a 2D vector graphics and timeline-based animation program
+
+
+== See also ==
+Planet CCRMA – a set of Red Hat packages of multimedia production software
+Dyne:bolic – a multimedia creation oriented Live CD
+Puredyne – a multimedia oriented Live CD
+Long-term support (LTS) release.
+
+
+== References ==
+
+
+== External links ==
+Ubuntu Studio homepage
+Ubuntu Studio applications
+Ubuntu Wiki
+Boing Boing - Ubuntu studio - Linux for multimedia creation (21 July 2007)
+Ubuntu Studio at DistroWatch

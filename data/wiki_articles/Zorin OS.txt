@@ -1,0 +1,41 @@
+Zorin OS is a Linux distribution based on Ubuntu. It uses a GNOME 3 or XFCE 4 desktop environment as default, although the desktop is heavily customized in order to help Windows and macOS users transition to Linux easily.  Wine and PlayOnLinux can be easily installed in Zorin OS, allowing users to run compatible Windows software for ease of transition from Windows. Zorin OS's creators maintain 3 free editions of the operating system, and a "Pro" edition for purchase.The current releases are Zorin OS 16 Pro, Zorin OS 16 Pro Lite, Zorin OS 16 Core, Zorin OS 16 Core Lite, Zorin OS 15.3 Education and Zorin OS 15.3 Education Lite. The new editions continue to use the Ubuntu-based Linux kernel and GNOME or XFCE interface.
+
+
+== Features ==
+Zorin OS is fully graphical, with a graphical installer. For stability and security, it follows the long-term releases of the main Ubuntu system. It uses its own software repositories as well as Ubuntu's repositories. These repositories are accessible through the common "apt-get" commands via the Linux terminal, or a GUI-based software manager that provides an appstore-like experience for users who don't wish to use the terminal.
+The OS also comes with a number of desktop layouts or themes to modify the desktop environment - The themes let users change the interface to resemble those of Microsoft Windows, macOS, or Ubuntu and allow the interface to be familiar regardless of the previous system a user has come from. As with all GNOME-based desktop environments, the look and feel of the desktop can be modified easily using GNOME extensions.
+
+
+== Free vs Pro Editions ==
+The Zorin team offers various flavors of Zorin OS available to users. There are two free versions called "Core" and "Lite", with "Pro" versions of these available for download with a purchase through the project's website.
+The Pro versions offer extra layout themes for different operating systems, including both a Windows 11 and "Windows Classic" themes, and comes preinstalled with popular FOSS programs such as Blender, in-house software for managing passwords, casting content to Miracast-compatible screens, and more. These programs could also be installed individually for free.
+Finally, the Pro editions of Zorin OS also provide a collection of commissioned wallpapers to choose from, and installation technical support.
+Zorin OS Pro can be installed on multiple computers with one license, except for businesses and schools that must purchase a license for each individual PC the OS is installed onto.
+
+
+== About ==
+The Zorin OS company is based in Dublin, Ireland. The project was started in 2008 by co-founders Artyom and Kyrill Zorin.
+
+
+== History ==
+Zorin OS was initially released on 1 July 2009. Earlier versions required users to do a clean install, but since version 12.4, the system's update manager can be used to upgrade existing installations.
+
+
+=== Version history ===
+
+
+== Security ==
+Zorin OS comes with the Uncomplicated Firewall installed, although it is not enabled by default.
+
+
+== Reception ==
+Zorin OS has been praised for its intuitive and familiar layouts, functionality, and installation process; as well as for making it easy to use a Windows-similar layout, install NVIDIA drivers, and navigate an easy and intuitive software center.
+
+
+== Notes and references ==
+
+
+== External links ==
+Official website 
+Zorin OS at DistroWatch
+Zorin OS on OpenSourceFeed Gallery

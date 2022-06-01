@@ -1,0 +1,9 @@
+The Artificial Intelligence of Things (AIoT) is the combination of Artificial intelligence (AI) technologies with the Internet of things (IoT) infrastructure to achieve more efficient IoT operations, improve human-machine interactions and enhance data management and analytics.In 2018, KPMG published a foresight study on the future of AI including scenarios until 2040. The analysts describe a scenario in detail where a community of things would see each device also contain its own AI that could link autonomously to other AIs to, together, perform tasks intelligently. Value creation would be controlled and executed in real-time using swarm intelligence.
+
+
+== See also ==
+Artificial intelligence
+Internet of things
+
+
+== References ==

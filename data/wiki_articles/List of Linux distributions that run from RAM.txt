@@ -1,0 +1,23 @@
+This is a list of Linux distributions that can be run entirely from a computer's RAM, meaning that once the OS has been loaded to the RAM, the media it was loaded from can be completely removed, and the distribution will run the PC through the RAM only. This ability allows them to be very fast, since reading and writing data from/to RAM is much faster than on a hard disk drive or solid state drive. Many of these operating systems will load from a removable media such as a Live CD or a Live USB stick. A "frugal" install can also often be completed, allowing loading from a hard disk drive instead.
+This feature is implemented in live-initramfs and allows the user to run a live distro that does not run from ram by default by adding toram to the kernel boot parameters.Additionally some distributions can be configured to run from RAM, such as Ubuntu using the  toram option included in the Casper scripts.
+
+
+== Table ==
+
+
+== See also ==
+tmpfs; by mounting a tmpfs and running files that are placed on this, files and programs can be run from RAM, even on Linux distros that do not run completely in RAM
+Clustered file system; network file systems are another way to avoid needing to use a (slow) harddisk (at least faster if using a E-IDE harddisk)
+initrd ("initial ramdisk"), a scheme for loading a temporary root file system into memory in the boot process of the Linux kernel.
+Lightweight Linux distribution
+List of live CDs
+List of tools to create Live USB systems
+SYSLINUX, a suite of lightweight IBM PC MBR bootloaders for starting up computers with the Linux kernel.
+Windows PE, a non-Linux operating system that can also be run from RAM.
+
+
+== References ==
+
+
+== External links ==
+Using a liveCD as your Linux Desktop at the Wayback Machine (archived 7 February 2013)
