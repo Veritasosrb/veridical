@@ -5,13 +5,16 @@ from sqlite3 import Error
 import sys
 sys.path.insert(1,os.getcwd())
 from helper import processDocument
+
+FILE_PATH = os.path.join(sys.path[1],'databases') + os.sep
     
 try:
-    conn = sqlite3.connect('reports.db')
+    conn = sqlite3.connect(FILE_PATH + 'reports.db')
 except Error as e:
     print(e)
 else:
     sqlCursor = conn.cursor()
+
 
 # MongoDB connection
 client = MongoClient('localhost',27017)
