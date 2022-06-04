@@ -1,5 +1,6 @@
 # Predictive Coding and Technology Assisted Review (TAR)
 
+
 ## Problem Statement
 Use of Predictive Coding and Technology Assisted Review (TAR) for document review since manual reviews of millions of documents are extremely costly, time consuming, error prone, full of biases/prejudices.
 
