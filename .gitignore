@@ -1,0 +1,12 @@
+__pycache__/
+env/
+code_gen_plbart_src/__pycache__/
+code_gen_plbart_src/models/
+Code2Pseudocode/__pycache__/
+Code2Pseudocode/models/
+relevantretriever/__pycache__/
+relevantretriever/codesearch-codebert-latefusion-allpl/
+relevantretriever/environ/
+relevantretriever/csnet_py_val_code_embeds.pt
+relevantretriever/csnet_py_val_docstring_embeds.pt
+relevantretriever/csnet_py_val_ret.csv
