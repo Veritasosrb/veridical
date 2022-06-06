@@ -1,0 +1,39 @@
+<map id="com.tia.bmm.server.main.MainMenu.main" name="com.tia.bmm.server.main.MainMenu.main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,647,179,688"/>
+<area shape="rect" id="node2" href="$d7/d7d/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie_list.html#aa0f4c3a259c2b50cb6dd86a297826ac8" title=" " alt="" coords="238,165,418,207"/>
+<area shape="rect" id="node3" href="$da/dca/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre_list.html#a79cd9edb6f713216ef907c7a1ca00c20" title=" " alt="" coords="227,231,429,272"/>
+<area shape="rect" id="node11" href="$da/dca/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre_list.html#a501fbd7ca8bee5c6ce651197c321f3f1" title=" " alt="" coords="493,296,691,337"/>
+<area shape="rect" id="node18" href="$da/dca/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre_list.html#a2858d1585f152d003c49aacbbc60c272" title=" " alt="" coords="235,809,421,851"/>
+<area shape="rect" id="node21" href="$dc/da0/classcom_1_1tia_1_1bmm_1_1server_1_1booking_1_1_my_server.html#a701d447837f147cf450d6b88edb0a470" title=" " alt="" coords="233,613,423,655"/>
+<area shape="rect" id="node30" href="$d4/d9e/classcom_1_1tia_1_1bmm_1_1server_1_1user_1_1_user_list.html#a80cb042676ca23d3fbd23fa1633c464a" title=" " alt="" coords="243,744,413,785"/>
+<area shape="rect" id="node32" href="$d7/d7d/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie_list.html#a083de16c94baa39d0cab4aa1102c3983" title=" " alt="" coords="238,443,418,484"/>
+<area shape="rect" id="node34" href="$d4/d9e/classcom_1_1tia_1_1bmm_1_1server_1_1user_1_1_user_list.html#a51a97b3d7c0cf809c30f0086d64f807d" title=" " alt="" coords="243,679,413,720"/>
+<area shape="rect" id="node36" href="$d6/da5/classcom_1_1tia_1_1bmm_1_1server_1_1admin_1_1_admin.html#a0bf6d89a4c1b5b04811ceb9c1bbe9886" title=" " alt="" coords="238,875,418,916"/>
+<area shape="rect" id="node37" href="$da/dca/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre_list.html#ac848eb6e345b247976208cba415a8d50" title=" " alt="" coords="235,940,421,981"/>
+<area shape="rect" id="node4" href="$da/dca/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre_list.html#a34a4031767b241e14850626a5b82ae9c" title=" " alt="" coords="479,5,705,47"/>
+<area shape="rect" id="node5" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#a3aa41b12e9b68f28c011ddbbd91916ce" title=" " alt="" coords="760,165,940,207"/>
+<area shape="rect" id="node8" href="$da/dca/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre_list.html#a11ed7b410b1ceaed743494db408f2cff" title=" " alt="" coords="477,231,707,272"/>
+<area shape="rect" id="node9" href="$d9/ddb/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre.html#a7d2e896d0907035193e11e53d6ec58eb" title=" " alt="" coords="757,231,943,272"/>
+<area shape="rect" id="node6" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#ad7a45b31dd418b191289f13e68d45096" title=" " alt="" coords="999,165,1179,207"/>
+<area shape="rect" id="node7" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#a6eeb3237fadae77e1fc1d1466d02f5cb" title=" " alt="" coords="999,355,1179,396"/>
+<area shape="rect" id="node10" href="$d9/ddb/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre.html#a079c3bcfad970bde006f602defe49fc6" title=" " alt="" coords="757,296,943,337"/>
+<area shape="rect" id="node12" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#a07eff711b146256671cc044923b429d3" title=" " alt="" coords="755,697,945,739"/>
+<area shape="rect" id="node13" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#af20527e485b38f9b824da440f9907011" title=" " alt="" coords="993,973,1184,1015"/>
+<area shape="rect" id="node14" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#adaaefa14d2da4c3dbf4e0c2b21aaacbb" title=" " alt="" coords="993,668,1184,709"/>
+<area shape="rect" id="node15" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#a2ab8b5db51d4918b3ae586899e9f2966" title=" " alt="" coords="993,1083,1184,1124"/>
+<area shape="rect" id="node16" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#ad2ca9fb2be91212f1e621fa529b62345" title=" " alt="" coords="993,811,1184,852"/>
+<area shape="rect" id="node17" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#a54c6bb58e93a72e24cbba6a929b3aed3" title=" " alt="" coords="993,887,1184,928"/>
+<area shape="rect" id="node19" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#a30cfc0cc2cbcfe047a637fea1f6e44a1" title=" " alt="" coords="497,1039,687,1080"/>
+<area shape="rect" id="node20" href="$d5/da1/classcom_1_1tia_1_1bmm_1_1server_1_1address_1_1_address.html#ab4968435414b4e23792e69dabbaa72ac" title=" " alt="" coords="755,1229,945,1271"/>
+<area shape="rect" id="node22" href="$d9/d2e/classcom_1_1tia_1_1bmm_1_1server_1_1user_1_1_user.html#a6f53cfb900f83910c007a966bdd618b6" title=" " alt="" coords="507,679,677,720"/>
+<area shape="rect" id="node23" href="$da/d57/classcom_1_1tia_1_1bmm_1_1server_1_1booking_1_1_booking.html#a447864da63969714d2e23e8329af699a" title=" " alt="" coords="497,613,687,655"/>
+<area shape="rect" id="node24" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#a4aa8a4b90a046a7c0ec374308270ae41" title=" " alt="" coords="760,479,940,520"/>
+<area shape="rect" id="node25" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#a14bfec7e511ab221f432983ad47b2846" title=" " alt="" coords="760,413,940,455"/>
+<area shape="rect" id="node26" href="$d0/d85/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_seat.html#aab350484da0d222fc9ddc224e998896d" title=" " alt="" coords="760,945,940,987"/>
+<area shape="rect" id="node27" href="$d0/d85/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_seat.html#a555824e84b1308164084d0730a166420" title=" " alt="" coords="760,1011,940,1052"/>
+<area shape="rect" id="node28" href="$d3/dd3/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_movie.html#ac3f2a20666529336a10d82af701273c3" title=" " alt="" coords="760,763,940,804"/>
+<area shape="rect" id="node29" href="$d0/d85/classcom_1_1tia_1_1bmm_1_1server_1_1movie_1_1_seat.html#af0229e29cc08ff967675345e5d26371e" title=" " alt="" coords="760,828,940,869"/>
+<area shape="rect" id="node31" href="$d4/d9e/classcom_1_1tia_1_1bmm_1_1server_1_1user_1_1_user_list.html#a66e9eaef6c276b0a39299d918a92b1c1" title=" " alt="" coords="507,809,677,851"/>
+<area shape="rect" id="node33" href="$da/dca/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre_list.html#a35e07a87e4d839ea581f760b53bd68d7" title=" " alt="" coords="499,413,685,455"/>
+<area shape="rect" id="node35" href="$d9/d2e/classcom_1_1tia_1_1bmm_1_1server_1_1user_1_1_user.html#afd7b67a7b3a90763e372d4e1b3286345" title=" " alt="" coords="507,744,677,785"/>
+</map>

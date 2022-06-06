@@ -1,0 +1,11 @@
+digraph "com.tia.bmm.server.theatre.Theatre.Theatre"
+{
+ // INTERACTIVE_SVG=YES
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="com.tia.bmm.server.theatre.\lTheatre.Theatre",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid"];
+  Node2 [label="com.tia.bmm.server.theatre.\lTheatre.setTheatreName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/ddb/classcom_1_1tia_1_1bmm_1_1server_1_1theatre_1_1_theatre.html#af296aef9ca178a04a0f669cab02d4d52",tooltip=" "];
+}

@@ -1,0 +1,1226 @@
+17-May-2022 14:44:01 [INFO] - Command: doxygen /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/doxygen_template.Doxyfile(ProcessUtils.java:40)
+17-May-2022 14:44:05 [INFO] - Here is the standard output + error of the command:
+Notice: Output directory '/home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/op' does not exist. I have created it for you.
+Searching for include files...
+Searching for example files...
+Searching for images...
+Searching for dot files...
+Searching for msc files...
+Searching for dia files...
+Searching for files to exclude
+Searching INPUT for files to process...
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/client
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/server
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/server/address
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/server/admin
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/server/booking
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/server/main
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/server/movie
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/server/theatre
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/server/user
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/bin/com/tia/bmm/testing
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/client
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/address
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/admin
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/booking
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/main
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/theatre
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/user
+Searching for files in directory /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/testing
+Reading and parsing tag files
+Parsing files
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/client/ChatClient.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/client/ChatClient.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/address/Address.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/address/Address.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/admin/Admin.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/admin/Admin.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/admin/InvalidAdminDetails.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/admin/InvalidAdminDetails.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/booking/Booking.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/booking/Booking.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/booking/MyServer.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/booking/MyServer.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/main/MainMenu.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/main/MainMenu.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/Movie.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/Movie.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieList.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieList.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieStatus.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieStatus.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieType.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieType.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/Seat.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/Seat.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/SeatStatus.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/SeatStatus.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/SeatType.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/SeatType.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/theatre/Theatre.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/theatre/Theatre.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/theatre/TheatreList.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/theatre/TheatreList.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/user/User.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/user/User.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/user/UserList.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/user/UserList.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/testing/AdminTest.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/testing/AdminTest.java...
+Reading /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/testing/loginAsUserTest.java...
+Parsing file /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/testing/loginAsUserTest.java...
+Building group list...
+Building directory list...
+Building namespace list...
+Building file list...
+Building class list...
+Computing nesting relations for classes...
+Associating documentation with classes...
+Building example list...
+Searching for enumerations...
+Searching for documented typedefs...
+Searching for members imported via using declarations...
+Searching for included using directives...
+Searching for documented variables...
+Building interface member list...
+Building member list...
+Searching for friends...
+Searching for documented defines...
+Computing class inheritance relations...
+Computing class usage relations...
+Flushing cached template relations that have become invalid...
+Computing class relations...
+Add enum values to enums...
+Searching for member function documentation...
+Creating members for template instances...
+Building page list...
+Search for main page...
+Computing page relations...
+Determining the scope of groups...
+Sorting lists...
+Determining which enums are documented
+Computing member relations...
+Building full member lists recursively...
+Adding members to member groups.
+Computing member references...
+Inheriting documentation...
+Generating disk names...
+Adding source references...
+Adding xrefitems...
+Sorting member lists...
+Setting anonymous enum type...
+Computing dependencies between directories...
+Generating citations page...
+Counting members...
+Counting data structures...
+Resolving user defined references...
+Finding anchors and sections in the documentation...
+Transferring function references...
+Combining using relations...
+Adding members to index pages...
+Correcting members for VHDL...
+Generating style sheet...
+Generating search indices...
+Generating example documentation...
+Generating file sources...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/client/ChatClient.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/address/Address.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/admin/Admin.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/admin/InvalidAdminDetails.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/booking/Booking.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/booking/MyServer.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/main/MainMenu.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/Movie.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieList.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieStatus.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieType.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/Seat.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/SeatStatus.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/SeatType.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/theatre/Theatre.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/theatre/TheatreList.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/user/User.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/user/UserList.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/testing/AdminTest.java...
+Parsing code for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/testing/loginAsUserTest.java...
+Generating file documentation...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/client/ChatClient.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/address/Address.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/admin/Admin.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/admin/InvalidAdminDetails.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/booking/Booking.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/booking/MyServer.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/main/MainMenu.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/Movie.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieList.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieStatus.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/MovieType.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/Seat.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/SeatStatus.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/movie/SeatType.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/theatre/Theatre.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/theatre/TheatreList.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/user/User.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/server/user/UserList.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/testing/AdminTest.java...
+Generating docs for file src/main/resources/testdata/bookMyMovieTia-main/src/com/tia/bmm/testing/loginAsUserTest.java...
+Generating page documentation...
+Generating group documentation...
+Generating class documentation...
+Generating namespace index...
+Generating docs for namespace com
+Generating docs for namespace com::tia
+Generating docs for namespace com::tia::bmm
+Generating docs for namespace com::tia::bmm::client
+Generating docs for compound com::tia::bmm::client::ChatClient...
+Generating docs for namespace com::tia::bmm::server
+Generating docs for namespace com::tia::bmm::server::address
+Generating docs for compound com::tia::bmm::server::address::Address...
+Generating caller graph for function com.tia.bmm.server.address.Address.Address
+Generating call graph for function com.tia.bmm.server.address.Address.Address
+Generating call graph for function com.tia.bmm.server.address.Address.addAddress
+Generating caller graph for function com.tia.bmm.server.address.Address.addAddress
+Generating call graph for function com.tia.bmm.server.address.Address.displayAddress
+Generating caller graph for function com.tia.bmm.server.address.Address.displayAddress
+Generating caller graph for function com.tia.bmm.server.address.Address.getCity
+Generating caller graph for function com.tia.bmm.server.address.Address.getLandmark
+Generating caller graph for function com.tia.bmm.server.address.Address.getPinCode
+Generating caller graph for function com.tia.bmm.server.address.Address.getState
+Generating caller graph for function com.tia.bmm.server.address.Address.getStreetNo
+Generating caller graph for function com.tia.bmm.server.address.Address.setCity
+Generating caller graph for function com.tia.bmm.server.address.Address.setLandmark
+Generating caller graph for function com.tia.bmm.server.address.Address.setPinCode
+Generating caller graph for function com.tia.bmm.server.address.Address.setState
+Generating caller graph for function com.tia.bmm.server.address.Address.setStreetNo
+Generating docs for namespace com::tia::bmm::server::admin
+Generating docs for compound com::tia::bmm::server::admin::Admin...
+Generating caller graph for function com.tia.bmm.server.admin.Admin.loginAsAdmin
+Generating docs for compound com::tia::bmm::server::admin::InvalidAdminDetails...
+Generating docs for namespace com::tia::bmm::server::booking
+Generating docs for compound com::tia::bmm::server::booking::Booking...
+Generating call graph for function com.tia.bmm.server.booking.Booking.handleBooking
+Generating caller graph for function com.tia.bmm.server.booking.Booking.handleBooking
+Generating docs for compound com::tia::bmm::server::booking::MyServer...
+Generating call graph for function com.tia.bmm.server.booking.MyServer.chatWithClient
+Generating caller graph for function com.tia.bmm.server.booking.MyServer.chatWithClient
+Generating docs for namespace com::tia::bmm::server::main
+Generating docs for compound com::tia::bmm::server::main::MainMenu...
+Generating call graph for function com.tia.bmm.server.main.MainMenu.main
+Generating docs for namespace com::tia::bmm::server::movie
+Generating docs for compound com::tia::bmm::server::movie::Movie...
+Generating call graph for function com.tia.bmm.server.movie.Movie.Movie
+Generating call graph for function com.tia.bmm.server.movie.Movie.displayMovie
+Generating caller graph for function com.tia.bmm.server.movie.Movie.displayMovie
+Generating caller graph for function com.tia.bmm.server.movie.Movie.getMovieId
+Generating caller graph for function com.tia.bmm.server.movie.Movie.getMovieName
+Generating caller graph for function com.tia.bmm.server.movie.Movie.getMovieType
+Generating caller graph for function com.tia.bmm.server.movie.Movie.getRating
+Generating caller graph for function com.tia.bmm.server.movie.Movie.getShowAtFour
+Generating caller graph for function com.tia.bmm.server.movie.Movie.setMovieId
+Generating caller graph for function com.tia.bmm.server.movie.Movie.setMovieName
+Generating caller graph for function com.tia.bmm.server.movie.Movie.setMovieType
+Generating caller graph for function com.tia.bmm.server.movie.Movie.setRating
+Generating docs for compound com::tia::bmm::server::movie::MovieList...
+Generating caller graph for function com.tia.bmm.server.movie.MovieList.addMovie
+Generating call graph for function com.tia.bmm.server.movie.MovieList.displayMovieList
+Generating caller graph for function com.tia.bmm.server.movie.MovieList.displayMovieList
+Generating docs for compound com::tia::bmm::server::movie::MovieStatus...
+Generating docs for compound com::tia::bmm::server::movie::MovieType...
+Generating docs for compound com::tia::bmm::server::movie::Seat...
+Generating call graph for function com.tia.bmm.server.movie.Seat.Seat
+Generating caller graph for function com.tia.bmm.server.movie.Seat.getSeatNo
+Generating caller graph for function com.tia.bmm.server.movie.Seat.getSeatStatus
+Generating caller graph for function com.tia.bmm.server.movie.Seat.setSeatNo
+Generating caller graph for function com.tia.bmm.server.movie.Seat.setSeatStatus
+Generating docs for compound com::tia::bmm::server::movie::SeatStatus...
+Generating docs for compound com::tia::bmm::server::movie::SeatType...
+Generating docs for namespace com::tia::bmm::server::theatre
+Generating docs for compound com::tia::bmm::server::theatre::Theatre...
+Generating call graph for function com.tia.bmm.server.theatre.Theatre.Theatre
+Generating caller graph for function com.tia.bmm.server.theatre.Theatre.getMovies
+Generating caller graph for function com.tia.bmm.server.theatre.Theatre.getTheatreName
+Generating caller graph for function com.tia.bmm.server.theatre.Theatre.setTheatreName
+Generating docs for compound com::tia::bmm::server::theatre::TheatreList...
+Generating call graph for function com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre
+Generating caller graph for function com.tia.bmm.server.theatre.TheatreList.addMovieInTheatre
+Generating call graph for function com.tia.bmm.server.theatre.TheatreList.addTheatre
+Generating caller graph for function com.tia.bmm.server.theatre.TheatreList.addTheatre
+Generating caller graph for function com.tia.bmm.server.theatre.TheatreList.checkTheatreIdPresent
+Generating call graph for function com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre
+Generating caller graph for function com.tia.bmm.server.theatre.TheatreList.displayMoviesInTheatre
+Generating call graph for function com.tia.bmm.server.theatre.TheatreList.displayTheatre
+Generating caller graph for function com.tia.bmm.server.theatre.TheatreList.displayTheatre
+Generating call graph for function com.tia.bmm.server.theatre.TheatreList.displayTheatreList
+Generating caller graph for function com.tia.bmm.server.theatre.TheatreList.displayTheatreList
+Generating caller graph for function com.tia.bmm.server.theatre.TheatreList.removeTheatre
+Generating docs for namespace com::tia::bmm::server::user
+Generating docs for compound com::tia::bmm::server::user::User...
+Generating call graph for function com.tia.bmm.server.user.User.User
+Generating caller graph for function com.tia.bmm.server.user.User.getEmailId
+Generating caller graph for function com.tia.bmm.server.user.User.getMobNo
+Generating caller graph for function com.tia.bmm.server.user.User.setEmailId
+Generating caller graph for function com.tia.bmm.server.user.User.setMobNo
+Generating docs for compound com::tia::bmm::server::user::UserList...
+Generating call graph for function com.tia.bmm.server.user.UserList.createUser
+Generating caller graph for function com.tia.bmm.server.user.UserList.createUser
+Generating call graph for function com.tia.bmm.server.user.UserList.displayUsers
+Generating caller graph for function com.tia.bmm.server.user.UserList.displayUsers
+Generating caller graph for function com.tia.bmm.server.user.UserList.getUl
+Generating call graph for function com.tia.bmm.server.user.UserList.loginAsUser
+Generating caller graph for function com.tia.bmm.server.user.UserList.loginAsUser
+Generating caller graph for function com.tia.bmm.server.user.UserList.setUl
+Generating docs for namespace com::tia::bmm::testing
+Generating docs for compound com::tia::bmm::testing::AdminTest...
+Generating call graph for function com.tia.bmm.testing.AdminTest.testLoginAsAdmin
+Generating docs for compound com::tia::bmm::testing::loginAsUserTest...
+Generating call graph for function com.tia.bmm.testing.loginAsUserTest.setUp
+Generating call graph for function com.tia.bmm.testing.loginAsUserTest.testLoginAsUser
+Generating graph info page...
+Generating directory documentation...
+Generating index page...
+Generating page index...
+Generating module index...
+Generating namespace index...
+Generating namespace member index...
+Generating annotated compound index...
+Generating alphabetical compound index...
+Generating hierarchical class index...
+Generating graphical class hierarchy...
+Generating member index...
+Generating file index...
+Generating file member index...
+Generating example index...
+finalizing index lists...
+writing tag file...
+Running plantuml with JAVA...
+Running dot...
+Generating dot graphs using 9 parallel threads...
+Running dot for graph 1/185
+Running dot for graph 2/185
+Running dot for graph 3/185
+Running dot for graph 4/185
+Running dot for graph 5/185
+Running dot for graph 6/185
+Running dot for graph 7/185
+Running dot for graph 8/185
+Running dot for graph 9/185
+Running dot for graph 10/185
+Running dot for graph 11/185
+Running dot for graph 12/185
+Running dot for graph 13/185
+Running dot for graph 14/185
+Running dot for graph 15/185
+Running dot for graph 16/185
+Running dot for graph 17/185
+Running dot for graph 18/185
+Running dot for graph 19/185
+Running dot for graph 20/185
+Running dot for graph 21/185
+Running dot for graph 22/185
+Running dot for graph 23/185
+Running dot for graph 24/185
+Running dot for graph 25/185
+Running dot for graph 26/185
+Running dot for graph 27/185
+Running dot for graph 28/185
+Running dot for graph 29/185
+Running dot for graph 30/185
+Running dot for graph 31/185
+Running dot for graph 32/185
+Running dot for graph 33/185
+Running dot for graph 34/185
+Running dot for graph 35/185
+Running dot for graph 36/185
+Running dot for graph 37/185
+Running dot for graph 38/185
+Running dot for graph 39/185
+Running dot for graph 40/185
+Running dot for graph 41/185
+Running dot for graph 42/185
+Running dot for graph 43/185
+Running dot for graph 44/185
+Running dot for graph 45/185
+Running dot for graph 46/185
+Running dot for graph 47/185
+Running dot for graph 48/185
+Running dot for graph 49/185
+Running dot for graph 50/185
+Running dot for graph 51/185
+Running dot for graph 52/185
+Running dot for graph 53/185
+Running dot for graph 54/185
+Running dot for graph 55/185
+Running dot for graph 56/185
+Running dot for graph 57/185
+Running dot for graph 58/185
+Running dot for graph 59/185
+Running dot for graph 60/185
+Running dot for graph 61/185
+Running dot for graph 62/185
+Running dot for graph 63/185
+Running dot for graph 64/185
+Running dot for graph 65/185
+Running dot for graph 66/185
+Running dot for graph 67/185
+Running dot for graph 68/185
+Running dot for graph 69/185
+Running dot for graph 70/185
+Running dot for graph 71/185
+Running dot for graph 72/185
+Running dot for graph 73/185
+Running dot for graph 74/185
+Running dot for graph 75/185
+Running dot for graph 76/185
+Running dot for graph 77/185
+Running dot for graph 78/185
+Running dot for graph 79/185
+Running dot for graph 80/185
+Running dot for graph 81/185
+Running dot for graph 82/185
+Running dot for graph 83/185
+Running dot for graph 84/185
+Running dot for graph 85/185
+Running dot for graph 86/185
+Running dot for graph 87/185
+Running dot for graph 88/185
+Running dot for graph 89/185
+Running dot for graph 90/185
+Running dot for graph 91/185
+Running dot for graph 92/185
+Running dot for graph 93/185
+Running dot for graph 94/185
+Running dot for graph 95/185
+Running dot for graph 96/185
+Running dot for graph 97/185
+Running dot for graph 98/185
+Running dot for graph 99/185
+Running dot for graph 100/185
+Running dot for graph 101/185
+Running dot for graph 102/185
+Running dot for graph 103/185
+Running dot for graph 104/185
+Running dot for graph 105/185
+Running dot for graph 106/185
+Running dot for graph 107/185
+Running dot for graph 108/185
+Running dot for graph 109/185
+Running dot for graph 110/185
+Running dot for graph 111/185
+Running dot for graph 112/185
+Running dot for graph 113/185
+Running dot for graph 114/185
+Running dot for graph 115/185
+Running dot for graph 116/185
+Running dot for graph 117/185
+Running dot for graph 118/185
+Running dot for graph 119/185
+Running dot for graph 120/185
+Running dot for graph 121/185
+Running dot for graph 122/185
+Running dot for graph 123/185
+Running dot for graph 124/185
+Running dot for graph 125/185
+Running dot for graph 126/185
+Running dot for graph 127/185
+Running dot for graph 128/185
+Running dot for graph 129/185
+Running dot for graph 130/185
+Running dot for graph 131/185
+Running dot for graph 132/185
+Running dot for graph 133/185
+Running dot for graph 134/185
+Running dot for graph 135/185
+Running dot for graph 136/185
+Running dot for graph 137/185
+Running dot for graph 138/185
+Running dot for graph 139/185
+Running dot for graph 140/185
+Running dot for graph 141/185
+Running dot for graph 142/185
+Running dot for graph 143/185
+Running dot for graph 144/185
+Running dot for graph 145/185
+Running dot for graph 146/185
+Running dot for graph 147/185
+Running dot for graph 148/185
+Running dot for graph 149/185
+Running dot for graph 150/185
+Running dot for graph 151/185
+Running dot for graph 152/185
+Running dot for graph 153/185
+Running dot for graph 154/185
+Running dot for graph 155/185
+Running dot for graph 156/185
+Running dot for graph 157/185
+Running dot for graph 158/185
+Running dot for graph 159/185
+Running dot for graph 160/185
+Running dot for graph 161/185
+Running dot for graph 162/185
+Running dot for graph 163/185
+Running dot for graph 164/185
+Running dot for graph 165/185
+Running dot for graph 166/185
+Running dot for graph 167/185
+Running dot for graph 168/185
+Running dot for graph 169/185
+Running dot for graph 170/185
+Running dot for graph 171/185
+Running dot for graph 172/185
+Running dot for graph 173/185
+Running dot for graph 174/185
+Running dot for graph 175/185
+Running dot for graph 176/185
+Running dot for graph 177/185
+Running dot for graph 178/185
+Running dot for graph 179/185
+Running dot for graph 180/185
+Running dot for graph 181/185
+Running dot for graph 182/185
+Running dot for graph 183/185
+Running dot for graph 184/185
+Running dot for graph 185/185
+Patching output file 1/134
+Patching output file 2/134
+Patching output file 3/134
+Patching output file 4/134
+Patching output file 5/134
+Patching output file 6/134
+Patching output file 7/134
+Patching output file 8/134
+Patching output file 9/134
+Patching output file 10/134
+Patching output file 11/134
+Patching output file 12/134
+Patching output file 13/134
+Patching output file 14/134
+Patching output file 15/134
+Patching output file 16/134
+Patching output file 17/134
+Patching output file 18/134
+Patching output file 19/134
+Patching output file 20/134
+Patching output file 21/134
+Patching output file 22/134
+Patching output file 23/134
+Patching output file 24/134
+Patching output file 25/134
+Patching output file 26/134
+Patching output file 27/134
+Patching output file 28/134
+Patching output file 29/134
+Patching output file 30/134
+Patching output file 31/134
+Patching output file 32/134
+Patching output file 33/134
+Patching output file 34/134
+Patching output file 35/134
+Patching output file 36/134
+Patching output file 37/134
+Patching output file 38/134
+Patching output file 39/134
+Patching output file 40/134
+Patching output file 41/134
+Patching output file 42/134
+Patching output file 43/134
+Patching output file 44/134
+Patching output file 45/134
+Patching output file 46/134
+Patching output file 47/134
+Patching output file 48/134
+Patching output file 49/134
+Patching output file 50/134
+Patching output file 51/134
+Patching output file 52/134
+Patching output file 53/134
+Patching output file 54/134
+Patching output file 55/134
+Patching output file 56/134
+Patching output file 57/134
+Patching output file 58/134
+Patching output file 59/134
+Patching output file 60/134
+Patching output file 61/134
+Patching output file 62/134
+Patching output file 63/134
+Patching output file 64/134
+Patching output file 65/134
+Patching output file 66/134
+Patching output file 67/134
+Patching output file 68/134
+Patching output file 69/134
+Patching output file 70/134
+Patching output file 71/134
+Patching output file 72/134
+Patching output file 73/134
+Patching output file 74/134
+Patching output file 75/134
+Patching output file 76/134
+Patching output file 77/134
+Patching output file 78/134
+Patching output file 79/134
+Patching output file 80/134
+Patching output file 81/134
+Patching output file 82/134
+Patching output file 83/134
+Patching output file 84/134
+Patching output file 85/134
+Patching output file 86/134
+Patching output file 87/134
+Patching output file 88/134
+Patching output file 89/134
+Patching output file 90/134
+Patching output file 91/134
+Patching output file 92/134
+Patching output file 93/134
+Patching output file 94/134
+Patching output file 95/134
+Patching output file 96/134
+Patching output file 97/134
+Patching output file 98/134
+Patching output file 99/134
+Patching output file 100/134
+Patching output file 101/134
+Patching output file 102/134
+Patching output file 103/134
+Patching output file 104/134
+Patching output file 105/134
+Patching output file 106/134
+Patching output file 107/134
+Patching output file 108/134
+Patching output file 109/134
+Patching output file 110/134
+Patching output file 111/134
+Patching output file 112/134
+Patching output file 113/134
+Patching output file 114/134
+Patching output file 115/134
+Patching output file 116/134
+Patching output file 117/134
+Patching output file 118/134
+Patching output file 119/134
+Patching output file 120/134
+Patching output file 121/134
+Patching output file 122/134
+Patching output file 123/134
+Patching output file 124/134
+Patching output file 125/134
+Patching output file 126/134
+Patching output file 127/134
+Patching output file 128/134
+Patching output file 129/134
+Patching output file 130/134
+Patching output file 131/134
+Patching output file 132/134
+Patching output file 133/134
+Patching output file 134/134
+lookup cache used 351/65536 hits=1737 misses=398
+finished...
+(ProcessUtils.java:52)
+17-May-2022 14:44:15 [INFO] - Exit code :0(ProcessUtils.java:64)
+17-May-2022 14:44:15 [INFO] - Command: python3 /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/pythonScripts/functionDependencyFinder.py /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/op/html /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/pythonScripts/functionDependency.json(ProcessUtils.java:119)
+17-May-2022 14:44:15 [INFO] - Here is the standard output + error of the command:
+Function dependency: 
+{
+    "com.tia.bmm.server.user.UserList.setUl": [
+        "com.tia.bmm.testing.loginAsUserTest.setUp"
+    ],
+    "com.tia.bmm.server.user.UserList.loginAsUser": [
+        "com.tia.bmm.testing.loginAsUserTest.testLoginAsUser"
+    ],
+    "com.tia.bmm.server.user.User.getEmailId": [
+        "com.tia.bmm.server.user.UserList.loginAsUser",
+        "com.tia.bmm.server.user.UserList.displayUsers"
+    ],
+    "com.tia.bmm.server.user.User.getMobNo": [
+        "com.tia.bmm.server.user.UserList.loginAsUser",
+        "com.tia.bmm.server.user.UserList.displayUsers"
+    ],
+    "com.tia.bmm.server.user.UserList.getUl": [
+        "com.tia.bmm.server.user.UserList.loginAsUser",
+        "com.tia.bmm.server.user.UserList.createUser",
+        "com.tia.bmm.server.user.UserList.displayUsers"
+    ],
+    "com.tia.bmm.server.admin.Admin.loginAsAdmin": [
+        "com.tia.bmm.testing.AdminTest.testLoginAsAdmin"
+    ],
+    "com.tia.bmm.server.movie.Seat.setSeatNo": [
+        "com.tia.bmm.server.movie.Seat.Seat"
+    ],
+    "com.tia.bmm.server.movie.Seat.setSeatStatus": [
+        "com.tia.bmm.server.movie.Seat.Seat"
+    ],
+    "com.tia.bmm.server.address.Address.Address": [
+        "com.tia.bmm.server.address.Address.addAddress"
+    ],
+    "com.tia.bmm.server.address.Address.getCity": [
+        "com.tia.bmm.server.address.Address.displayAddress"
+    ],
+    "com.tia.bmm.server.address.Address.getLandmark": [
+        "com.tia.bmm.server.address.Address.displayAddress"
+    ],
+    "com.tia.bmm.server.address.Address.getPinCode": [
+        "com.tia.bmm.server.address.Address.displayAddress"
+    ],
+    "com.tia.bmm.server.address.Address.getState": [
+        "com.tia.bmm.server.address.Address.displayAddress"
+    ],
+    "com.tia.bmm.server.address.Address.getStreetNo": [
+        "com.tia.bmm.server.address.Address.displayAddress"
+    ],
+    "com.tia.bmm.server.address.Address.setCity": [
+        "com.tia.bmm.server.address.Address.Address"
+    ],
+    "com.tia.bmm.server.address.Address.setLandmark": [
+        "com.tia.bmm.server.address.Address.Address"
+    ],
+    "com.tia.bmm.server.address.Address.setPinCode": [
+        "com.tia.bmm.server.address.Address.Address"
+    ],
+    "com.tia.bmm.server.address.Address.setState": [
+        "com.tia.bmm.server.address.Address.Address"
+    ],
+    "com.tia.bmm.server.address.Address.setStreetNo": [
+        "com.tia.bmm.server.address.Address.Address"
+    ],
+    "com.tia.bmm.server.movie.Movie.getShowAtFour": [
+        "com.tia.bmm.server.movie.Movie.Movie"
+    ],
+    "com.tia.bmm.server.movie.Movie.setMovieId": [
+        "com.tia.bmm.server.movie.Movie.Movie"
+    ],
+    "com.tia.bmm.server.movie.Movie.setMovieName": [
+        "com.tia.bmm.server.movie.Movie.Movie"
+    ],
+    "com.tia.bmm.server.movie.Movie.setMovieType": [
+        "com.tia.bmm.server.movie.Movie.Movie"
+    ],
+    "com.tia.bmm.server.movie.Movie.setRating": [
+        "com.tia.bmm.server.movie.Movie.Movie"
+    ],
+    "com.tia.bmm.server.movie.Movie.getMovieId": [
+        "com.tia.bmm.server.movie.Movie.displayMovie"
+    ],
+    "com.tia.bmm.server.movie.Movie.getMovieName": [
+        "com.tia.bmm.server.movie.Movie.displayMovie"
+    ],
+    "com.tia.bmm.server.user.User.setEmailId": [
+        "com.tia.bmm.server.user.User.User"
+    ],
+    "com.tia.bmm.server.user.User.setMobNo": [
+        "com.tia.bmm.server.user.User.User"
+    ],
+    "com.tia.bmm.server.theatre.Theatre.setTheatreName": [
+        "com.tia.bmm.server.theatre.Theatre.Theatre"
+    ]
+}
+(ProcessUtils.java:131)
+17-May-2022 14:44:16 [INFO] - Exit code :0(ProcessUtils.java:143)
+17-May-2022 14:44:17 [INFO] - Mocking Get Commits API with response key : 1428623 and status code : 200(JiraServiceMock.java:25)
+17-May-2022 14:44:19 [INFO] - List Commits: [e48963c8473b3b1c5b019d96b7de863a76d0332a, 7910139204c3315849b7948620d50dfe11f1f35e](RepositoryAnalyzer.java:27)
+17-May-2022 14:44:19 [INFO] - Command: python3 /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/pythonScripts/gitHistory.py https://github.com/mantriaditi10/bookMyMovieTia /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/pythonScripts/functionDependency.json /home/jineshparakh/Documents/Github/veridical/testImpactAnalyzer/pythonScripts/gitHistory.json e48963c8473b3b1c5b019d96b7de863a76d0332a,7910139204c3315849b7948620d50dfe11f1f35e(ProcessUtils.java:83)
+17-May-2022 14:44:27 [INFO] - Here is the standard output + error of the command:
+['e48963c8473b3b1c5b019d96b7de863a76d0332a', '7910139204c3315849b7948620d50dfe11f1f35e']
+{
+    "commitHash": "7910139204c3315849b7948620d50dfe11f1f35e",
+    "authorName": "Aditi Mantri",
+    "commiterName": "Aditi Mantri",
+    "changedFiles": [
+        {
+            "fileName": "Admin.class",
+            "oldPath": "bin/com/tia/bmm/server/Admin.class",
+            "newPath": "bin/com/tia/bmm/server/Admin.class",
+            "changeType": "ADD",
+            "changedMethods": []
+        },
+        {
+            "fileName": "InvalidAdminDetails.class",
+            "oldPath": "bin/com/tia/bmm/server/InvalidAdminDetails.class",
+            "newPath": "bin/com/tia/bmm/server/InvalidAdminDetails.class",
+            "changeType": "ADD",
+            "changedMethods": []
+        },
+        {
+            "fileName": "MainMenu.class",
+            "oldPath": "bin/com/tia/bmm/server/MainMenu.class",
+            "newPath": "bin/com/tia/bmm/server/MainMenu.class",
+            "changeType": "ADD",
+            "changedMethods": []
+        },
+        {
+            "fileName": "Admin.java",
+            "oldPath": null,
+            "newPath": "src/com/tia/bmm/server/Admin.java",
+            "changeType": "ADD",
+            "changedMethods": [
+                {
+                    "methodName": "Admin::loginAsAdmin",
+                    "dependentMethods": [
+                        "com.tia.bmm.testing.AdminTest.testLoginAsAdmin"
+                    ]
+                }
+            ]
+        },
+        {
+            "fileName": "InvalidAdminDetails.java",
+            "oldPath": null,
+            "newPath": "src/com/tia/bmm/server/InvalidAdminDetails.java",
+            "changeType": "ADD",
+            "changedMethods": [
+                {
+                    "methodName": "InvalidAdminDetails::InvalidAdminDetails",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "InvalidAdminDetails::toString",
+                    "dependentMethods": []
+                }
+            ]
+        },
+        {
+            "fileName": "MainMenu.java",
+            "oldPath": null,
+            "newPath": "src/com/tia/bmm/server/MainMenu.java",
+            "changeType": "ADD",
+            "changedMethods": [
+                {
+                    "methodName": "MainMenu::main",
+                    "dependentMethods": []
+                }
+            ]
+        }
+    ]
+}
+{
+    "commitHash": "e48963c8473b3b1c5b019d96b7de863a76d0332a",
+    "authorName": "Aditi Mantri",
+    "commiterName": "Aditi Mantri",
+    "changedFiles": [
+        {
+            "fileName": "Address.class",
+            "oldPath": "bin/com/tia/bmm/server/address/Address.class",
+            "newPath": "bin/com/tia/bmm/server/address/Address.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "Booking.class",
+            "oldPath": "bin/com/tia/bmm/server/booking/Booking.class",
+            "newPath": "bin/com/tia/bmm/server/booking/Booking.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "MyServer.class",
+            "oldPath": "bin/com/tia/bmm/server/booking/MyServer.class",
+            "newPath": "bin/com/tia/bmm/server/booking/MyServer.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "Movie.class",
+            "oldPath": "bin/com/tia/bmm/server/movie/Movie.class",
+            "newPath": "bin/com/tia/bmm/server/movie/Movie.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "MovieList.class",
+            "oldPath": "bin/com/tia/bmm/server/movie/MovieList.class",
+            "newPath": "bin/com/tia/bmm/server/movie/MovieList.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "Seat.class",
+            "oldPath": "bin/com/tia/bmm/server/movie/Seat.class",
+            "newPath": "bin/com/tia/bmm/server/movie/Seat.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "Theatre.class",
+            "oldPath": "bin/com/tia/bmm/server/theatre/Theatre.class",
+            "newPath": "bin/com/tia/bmm/server/theatre/Theatre.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "TheatreList.class",
+            "oldPath": "bin/com/tia/bmm/server/theatre/TheatreList.class",
+            "newPath": "bin/com/tia/bmm/server/theatre/TheatreList.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "User.class",
+            "oldPath": "bin/com/tia/bmm/server/user/User.class",
+            "newPath": "bin/com/tia/bmm/server/user/User.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "UserList.class",
+            "oldPath": "bin/com/tia/bmm/server/user/UserList.class",
+            "newPath": "bin/com/tia/bmm/server/user/UserList.class",
+            "changeType": "MODIFY",
+            "changedMethods": []
+        },
+        {
+            "fileName": "Address.java",
+            "oldPath": "src/com/tia/bmm/server/address/Address.java",
+            "newPath": "src/com/tia/bmm/server/address/Address.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "Address::setState",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.Address"
+                    ]
+                },
+                {
+                    "methodName": "Address::setLandmark",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.Address"
+                    ]
+                },
+                {
+                    "methodName": "Address::setPinCode",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.Address"
+                    ]
+                },
+                {
+                    "methodName": "Address::setCity",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.Address"
+                    ]
+                },
+                {
+                    "methodName": "Address::getPinCode",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.displayAddress"
+                    ]
+                },
+                {
+                    "methodName": "Address::getState",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.displayAddress"
+                    ]
+                },
+                {
+                    "methodName": "Address::Address",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.addAddress"
+                    ]
+                },
+                {
+                    "methodName": "Address::getCity",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.displayAddress"
+                    ]
+                },
+                {
+                    "methodName": "Address::setStreetNo",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.Address"
+                    ]
+                },
+                {
+                    "methodName": "Address::displayAddress",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Address::getStreetNo",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.displayAddress"
+                    ]
+                },
+                {
+                    "methodName": "Address::getLandmark",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.address.Address.displayAddress"
+                    ]
+                }
+            ]
+        },
+        {
+            "fileName": "Booking.java",
+            "oldPath": "src/com/tia/bmm/server/booking/Booking.java",
+            "newPath": "src/com/tia/bmm/server/booking/Booking.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "Booking::handleBooking",
+                    "dependentMethods": []
+                }
+            ]
+        },
+        {
+            "fileName": "MyServer.java",
+            "oldPath": "src/com/tia/bmm/server/booking/MyServer.java",
+            "newPath": "src/com/tia/bmm/server/booking/MyServer.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "MyServer::chatWithClient",
+                    "dependentMethods": []
+                }
+            ]
+        },
+        {
+            "fileName": "Movie.java",
+            "oldPath": "src/com/tia/bmm/server/movie/Movie.java",
+            "newPath": "src/com/tia/bmm/server/movie/Movie.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "Movie::setMovieName",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.movie.Movie.Movie"
+                    ]
+                },
+                {
+                    "methodName": "Movie::getShowAtFour",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.movie.Movie.Movie"
+                    ]
+                },
+                {
+                    "methodName": "Movie::setRating",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.movie.Movie.Movie"
+                    ]
+                },
+                {
+                    "methodName": "Movie::getRating",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Movie::setShowAtFour",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Movie::setMovieType",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.movie.Movie.Movie"
+                    ]
+                },
+                {
+                    "methodName": "Movie::setMovieId",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.movie.Movie.Movie"
+                    ]
+                },
+                {
+                    "methodName": "Movie::Movie",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Movie::displayMovie",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Movie::getMovieId",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.movie.Movie.displayMovie"
+                    ]
+                },
+                {
+                    "methodName": "Movie::getMovieType",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Movie::getMovieName",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.movie.Movie.displayMovie"
+                    ]
+                }
+            ]
+        },
+        {
+            "fileName": "MovieList.java",
+            "oldPath": "src/com/tia/bmm/server/movie/MovieList.java",
+            "newPath": "src/com/tia/bmm/server/movie/MovieList.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "MovieList::displayMovieList",
+                    "dependentMethods": []
+                }
+            ]
+        },
+        {
+            "fileName": "Seat.java",
+            "oldPath": "src/com/tia/bmm/server/movie/Seat.java",
+            "newPath": "src/com/tia/bmm/server/movie/Seat.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "Seat::getSeatStatus",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Seat::getSeatNo",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Seat::Seat",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Seat::setSeatStatus",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.movie.Seat.Seat"
+                    ]
+                },
+                {
+                    "methodName": "Seat::setSeatNo",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.movie.Seat.Seat"
+                    ]
+                },
+                {
+                    "methodName": "Seat::Seat",
+                    "dependentMethods": []
+                }
+            ]
+        },
+        {
+            "fileName": "Theatre.java",
+            "oldPath": "src/com/tia/bmm/server/theatre/Theatre.java",
+            "newPath": "src/com/tia/bmm/server/theatre/Theatre.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "Theatre::getMovies",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Theatre::setMovies",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Theatre::Theatre",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Theatre::getTheatreName",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "Theatre::setTheatreName",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.theatre.Theatre.Theatre"
+                    ]
+                },
+                {
+                    "methodName": "Theatre::Theatre",
+                    "dependentMethods": []
+                }
+            ]
+        },
+        {
+            "fileName": "TheatreList.java",
+            "oldPath": "src/com/tia/bmm/server/theatre/TheatreList.java",
+            "newPath": "src/com/tia/bmm/server/theatre/TheatreList.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "TheatreList::displayTheatre",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "TheatreList::displayTheatreList",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "TheatreList::addMovieInTheatre",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "TheatreList::displayMoviesInTheatre",
+                    "dependentMethods": []
+                }
+            ]
+        },
+        {
+            "fileName": "User.java",
+            "oldPath": "src/com/tia/bmm/server/user/User.java",
+            "newPath": "src/com/tia/bmm/server/user/User.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "User::User",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "User::setEmailId",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.user.User.User"
+                    ]
+                },
+                {
+                    "methodName": "User::User",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "User::getEmailId",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.user.UserList.loginAsUser",
+                        "com.tia.bmm.server.user.UserList.displayUsers"
+                    ]
+                }
+            ]
+        },
+        {
+            "fileName": "UserList.java",
+            "oldPath": "src/com/tia/bmm/server/user/UserList.java",
+            "newPath": "src/com/tia/bmm/server/user/UserList.java",
+            "changeType": "MODIFY",
+            "changedMethods": [
+                {
+                    "methodName": "UserList::displayUsers",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "UserList::createUser",
+                    "dependentMethods": []
+                },
+                {
+                    "methodName": "UserList::getUl",
+                    "dependentMethods": [
+                        "com.tia.bmm.server.user.UserList.loginAsUser",
+                        "com.tia.bmm.server.user.UserList.createUser",
+                        "com.tia.bmm.server.user.UserList.displayUsers"
+                    ]
+                },
+                {
+                    "methodName": "UserList::setUl",
+                    "dependentMethods": [
+                        "com.tia.bmm.testing.loginAsUserTest.setUp"
+                    ]
+                },
+                {
+                    "methodName": "UserList::loginAsUser",
+                    "dependentMethods": [
+                        "com.tia.bmm.testing.loginAsUserTest.testLoginAsUser"
+                    ]
+                }
+            ]
+        }
+    ]
+}
+(ProcessUtils.java:95)
+17-May-2022 14:44:28 [INFO] - Exit code :0(ProcessUtils.java:107)

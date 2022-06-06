@@ -1,0 +1,126 @@
+{%extends 'layout.html'%}
+
+<!-- Styling the document -->
+{%block head%}
+
+<style>
+    .centered {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .content {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+</style>
+{%endblock%}
+
+{%block body%}
+<!-- The top jumbotron to carry the name of the app and the details -->
+<div class="jumbotron jumbotron-fluid" style="background-color: black; color: white">
+    <div class="container">
+        <h1 class="display-4" style="text-align: center">
+            Testcase Identification Utility<sup>(&beta;)</sup>
+        </h1>
+        <p class="lead" style="text-align: center">
+            An NLP based Testcase Identification utility to recommend suitable testcases to be run for code changes
+        </p>
+    </div>
+</div>
+<div class="content">
+    <div class="col-auto">
+        <table style="align-self: center;">
+            <tr>
+                <td></td>
+                <td>
+                    <form>
+                        <div class="center" style="text-align: center">
+                            <button type="submit" class="btn btn-outline-success" id="basic-submit">Predict Relevant
+                                Testcases</button>
+                        </div>
+                    </form>
+                </td>
+            </tr>
+            </tr>
+            <tr>
+                <td>
+                </td>
+                <td>
+                </td>
+                <td>
+                </td>
+            </tr>
+            <tr>
+                <td><br><br><br>
+                </td>
+                <td><br><br><br>
+                </td>
+                <td><br><br><br>
+                </td>
+            </tr>
+
+            <tr>
+                <td> <a type="button" class="btn btn-info" target="_blank"
+                        href="https://docs.google.com/presentation/d/1e9b24M_4cdScK1-17-SjiZFroQXPXL_Sq6-kCGE07WQ/edit">PPT
+                        Link</a>
+
+                </td>
+                <td>
+                </td>
+                <td> <a type="button" class="btn btn-info" target="_blank"
+                        href="https://docs.google.com/presentation/d/1e9b24M_4cdScK1-17-SjiZFroQXPXL_Sq6-kCGE07WQ/edit">Diagrams</a>
+
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<!-- Copyright and footer -->
+<footer class="footer fixed-bottom">
+    <div class="container-fluid fixed-bottom" style="color: white; background-color: black">
+        <div class="row justify-content-center">
+            <div class="col-auto">
+                <p>
+                    Built with &hearts; by
+                    Group 51 for Veritas BE Project'22
+                </p>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Copyright and footer ends -->
+{%endblock%}
+<!--  JavaScript -->
+{%block script%}
+<!-- </script> -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script>
+    $(function () {
+        $('#basic-submit').on('click', function (e) {
+            e.preventDefault();
+            var x = { "j1": "k1" };
+
+            var data = JSON.stringify(x)
+            console.log(data)
+            $.ajax({
+                type: "POST",
+                url: "/runModel",
+                data: data,
+                contentType: "application/json",
+                dataType: 'json',
+                success: function (response) {
+                    console.log(response)
+                    window.location.href = "/results";
+                }
+            });
+        });
+    });
+</script>
+{%endblock%}

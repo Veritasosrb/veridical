@@ -1,0 +1,77 @@
+[
+	{
+		"name": "AdminTest",
+		"components": ["server-side", "Login"],
+		"labels": ["Admin Login", "Admin Credentials"]
+	},
+	{
+		"name": "loginAsUserTest",
+		"components": ["client-side", "Login"],
+		"labels": ["User Login", "User Credentials"]
+	},
+	{
+		"name": "userRegistrationTest",
+		"components": ["server-side", "input validation"],
+		"labels": ["valid email", "10 digit mobile number", "valid gender"]
+	},
+	{
+		"name": "mainMenuValidation",
+		"components": ["server-side", "input validation"],
+		"labels": ["Valid Main Menu number"]
+	},
+	{
+		"name": "adminMenuValidation",
+		"components": ["server-side", "input validation"],
+		"labels": ["Valid Admin Menu number"]
+	},
+	{
+		"name": "movieManagementMenuValidation",
+		"components": ["server-side", "input validation"],
+		"labels": ["Valid Movie Management Menu Number"]
+	},
+	{
+		"name": "theatreManagementMenuValidation",
+		"components": ["server-side", "input validation"],
+		"labels": ["Valid Theatre Management Menu Number"]
+	},
+	{
+		"name": "addNewMovieTest",
+		"components": ["server-side", "movie input validation"],
+		"labels": ["Valid Movie Type"]
+	},
+	{
+		"name": "addNewTheatreTest",
+		"components": ["server-side", "theatre input validation"],
+		"labels": ["Valid Theatre Address", "6 digit pin code"]
+	},
+	{
+		"name": "updateMoviePlayingStatusTest",
+		"components": ["server-side", "input validation"],
+		"labels": ["Valid Theatre ID", "Valid Movie status"]
+	},
+	{
+		"name": "clientSocketConnectionTest",
+		"components": ["socket connection", "client-side", "server-side"],
+		"labels": ["establishing server client connection"]
+	},
+	{
+		"name": "clientMenuValidationTest",
+		"components": ["client-side", "input validation"],
+		"labels": ["Valid Client Menu option"]
+	},
+	{
+		"name": "bookTicketTest",
+		"components": ["client-side", "input validation"],
+		"labels": ["Valid existing movie id", "Valid existing theatre id"]
+	},
+	{
+		"name": "ticketDetailsSelectionTest",
+		"components": ["client-side", "input validation"],
+		"labels": ["Valid Seat Type", "Valid Seat Selection"]
+	},
+	{
+		"name": "clientServerChatTest",
+		"components": ["client-side", "server-side", "socket connection"],
+		"labels": ["client-server complaint portal"]
+	}
+]
