@@ -1,0 +1,14 @@
+# TAR 2.0 backend ignore files
+PICT-2022-TAR-2.0/backend/env
+PICT-2022-TAR-2.0/backend/mainapp/__pycache__
+PICT-2022-TAR-2.0/backend/veritas/__pycache__
+PICT-2022-TAR-2.0/backend/mainapp/migrations
+PICT-2022-TAR-2.0/backend/db.sqlite3
+PICT-2022-TAR-2.0/backend/ml/components
+PICT-2022-TAR-2.0/backend/ml/__pycache__
+PICT-2022-TAR-2.0/backend/ml/scripts/__pycache__
+
+# TAR 2.0 frontend ignore files 
+PICT-2022-TAR-2.0/frontend/node_modules
+PICT-2022-TAR-2.0/frontend/build
+PICT-2022-TAR-2.0/frontend/public/dataset
