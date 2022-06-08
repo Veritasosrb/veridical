@@ -1,0 +1,80 @@
+Linux Lite is a Linux distribution, based on Debian and Ubuntu and created by a team led by Jerry Bezencon. The distribution offers a lightweight desktop experience with a customized Xfce desktop environment. It includes a set of Lite applications to make things easier for a novice Linux user.
+Linux Lite was created to make the transition from MS Windows to a Linux-based operating system as smooth as possible (especially to users of no-longer supported versions). Linux Lite follows the Unix philosophy in regards to software selection and programming as it applies to the modern era - Write programs that do one thing and do it well.
+
+
+== Hardware Specifications ==
+
+
+=== Minimum Recommended Specifications ===
+CPU: 1 GHz processor
+RAM: 768MB ram
+STORAGE: 8gb
+RESOLUTION: VGA screen 1024x768 resolution
+MEDIA: DVD drive or USB port for the ISO image
+
+
+=== Preferred Specifications ===
+CPU: 1.5 GHz processor
+RAM: 1024MB ram
+STORAGE: 20gb
+RESOLUTION: VGA, DVI or HDMI screen 1366x768
+MEDIA: DVD drive or USB port for the ISO image
+
+
+== Available Software ==
+Linux Lite aims to provide a sense of familiarity to user experienced in MS Windows by providing basic software and features available in MS Windows. The following software is included as part of the operating system:
+Firefox
+Mozilla Thunderbird
+VLC media player
+GIMP
+LibreOfficeThe following software additional to the operating system is offered:
+
+Chromium (web browser)
+Dropbox (service)
+Kodi (software)
+Skype (64-bit only)
+Spotify
+Steam
+Teamviewer
+Tor Browser
+Virtualbox
+
+
+== History ==
+Linux Lite began in 2013 with the release of Linux Lite 1.0.0, code-named "Amethyst", based on Ubuntu. It was initially developed and designed to attract Windows users to a Linux based operating system. The idea was to dispel myths that Linux was hard to use.
+
+
+== Releases ==
+Linux Lite started out with a number system made up of the following - 1.0.0 The '1' represented the base code from Ubuntu i.e. '1' meant the Ubuntu 12.04 LTS base. The second number '0' represented the interim Ubuntu LTS release i.e. '0' meant 12.04.1 The third number '0' represented any point releases thereafter. For the 2.x Series, the third number was dropped as point releases were not required.
+
+
+== Software developed by Linux Lite ==
+Lite Info: an application that retrieves hardware information from the user's computer and shares it with the community.
+Lite Kernel: custom built Linux kernel built by Linux Lite.
+Lite Manual: a user guide.
+Lite Software: offers additional software for users to install.
+Lite Themes: system, icon, font and mouse themes.
+Lite Tweaks: a utility to provide users the ability to clean and fix their system.
+Lite Upgrade: provides a way for users to update their system.
+Lite User Manager: add and remove users.
+Lite Welcome: a dialog window that appears when a user's computer boots for the first time.
+		
+		
+		
+		
+
+
+== See also ==
+Lubuntu
+Debian
+Ubuntu
+
+
+== References ==
+
+
+== External links ==
+Official website
+Linux Lite at DistroWatch
+Video on YouTube
+Linux Lite on OpenSourceFeed Gallery

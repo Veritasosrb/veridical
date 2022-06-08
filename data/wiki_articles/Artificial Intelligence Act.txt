@@ -1,0 +1,10 @@
+The Artificial Intelligence Act is a proposed regulation by the European Commission which aims to introduce a common regulatory and legal framework for artificial intelligence. It applies to all sectors (except for military), and to all types of artificial intelligence.
+The proposed regulation classifies artificial intelligence applications by their risk, and regulates them according to their risk. Low-risk applications are not regulated at all, self-assessment by the application provider is, however, encouraged. Medium and high-risk systems would require compulsory self-assessment before put on the market, and some especially critical applications (for example in the medical sector) would require an independent assessment by third parties.
+The proposal also would put a ban on certain types of applications, namely biometric mass surveillance, applications that subliminally manipulate persons, applications that exploit vulnerabilities of certain groups in a harmful way, and social credit scoring. For the first three, some limited exceptions in the context of law-enforcement exist, but social scoring would be banned completely.The act also proposes the introduction of a European Artificial Intelligence Board which will encourage national cooperation and ensure that the regulation is respected.
+
+
+== References ==
+
+
+== External links ==
+Text of Commission's proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION LEGISLATIVE ACTS

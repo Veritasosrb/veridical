@@ -1,0 +1,54 @@
+The Degtyaryov machine gun (Russian: Пулемёт Дегтярёвa Пехотный, romanized: Pulemyot Degtyaryova Pekhotny literally: "Degtyaryov's infantry machine gun") or DP-27 is a light machine gun firing the 7.62×54mmR cartridge that was primarily used by the Soviet Union, with service trials starting in 1927, followed by general deployment in 1928.
+Besides being the standard Soviet infantry light machine gun (LMG) during World War II, with various modifications it was used in aircraft as a flexible defensive weapon, and it equipped almost all Soviet tanks in WWII as either a flexible bow machine gun or a co-axial machine gun controlled by the gunner. It was improved in 1943 producing the DPM, but it was replaced in 1946 with the RP-46 which improved on the basic DP design by converting it to use belt feed. The DP machine gun was supplemented in the 1950s by the more modern RPD machine gun and entirely replaced in Soviet service by the general purpose PK machine gun in the 1960s.
+
+
+== Design ==
+The DP-27 is a light machine gun designed for the Soviet Red Army in the 1920s under the leadership of Vasily Degtyaryov (1880-1949), the first test model being the DP-26. Two test guns were manufactured and fired 5,000 rounds each from September 27–29, 1926, during which weaknesses were discovered in the extractor and firing pin mechanisms. After design improvements, two more guns were made and tested in December 1926, firing 40,000 rounds under adverse conditions, resulting in only .6% stoppages. However, changes to the bolt carrier and the chamber locking mechanism were still required. After this redesign the improved gun, now called the DP-27, was tested by the Red Army at the Kovrov plant on January 17–21 of 1927, passing all tests and being approved for manufacture. A full year of service testing followed, after which the primary requested change was the addition of the large flash suppressor that is now considered one of the recognition features of the design. With further refinements, the DP was to be the primary light machine gun of the Red Army during WWII.
+The DP-27 was designed to fire the same 7.62×54mmR (R indicating rimmed) ammunition as the main Soviet infantry battle rifle, the Mosin-Nagant, much simplifying ammunition logistics for Soviet infantry units. Of typical Russian design philosophy, the DP-27 was a sturdy and simple gun that was easy and cheap to manufacture, and could be relied upon to perform even in the most adverse conditions; it was capable of withstanding being buried in dirt, mud, or sand and still operating consistently. However, being magazine fed, it had a rate of fire similar to other light machine guns, like the Bren light machine gun, but low when compared to its main wartime rivals, the German MG 34/MG 42 series, firing at a rate of 550rpm as compared to the 800-1,500rpm of the German general-purpose machine guns.
+The operating mechanism of the DP-27 is gas-operated, using a Kjellmann-Friberg flap locking design to lock the bolt against the chamber until the round had left the barrel, aided by a recoil spring. Ammunition came in the form of a 47-round circular pan magazine that attached to the top of the receiver. Because of the shape of its magazine, the DP-27 was nicknamed the "record player".Its main parts were a removable barrel with an integrated flash suppressor and gas cylinder, a receiver with the rear sight, a perforated barrel shroud/guide with the front sight, the bolt and locking flaps, the bolt carrier and gas piston rod, a recoil spring, stock and trigger mechanism group, a bipod for firing from prone positions, and the previously-mentioned pan magazine.  In total, the first versions contained only 80 parts, indicating both the simplicity and ease of manufacture of the design. Early versions had 26 transverse cooling fins machined into the barrel, but it was found that these had little cooling effect and so were deleted in 1938, further easing manufacture.
+The design had several weaknesses that would eventually be addressed in later variants. The pan magazines were prone to damage, while also being difficult and time-consuming to reload.  The bipod mechanism was weak and likely to fail if not handled with care. The recoil spring's location near the barrel led to overheating, causing it to lose proper spring temper. Typical of light machine guns of the era, the 47-round magazines made sustained fire impossible. In contrast, the German MG-34/MG-42 were continuous belt-fed general-purpose machine guns and provided a sustained fire capability the DP series could not match.
+
+
+== Designation ==
+The Degtyaryov machine gun was accepted for Red Army service in 1927 with the official designation 7,62-мм ручной пулемет обр. 1927 г (7.62mm Hand-Held Machine Gun Model 1927). It was called the ДП-27 (DP-27) or just DP in use, besides the aforementioned soldier slang name of "Record Player" due to the disc-shaped magazine.
+For reasons that are unclear, it is often called the DP-28 in the west, even though no Soviet sources ever used that designation. It is possible, since the Soviets generally named equipment referring to the first year of use, that western sources became confused between the initial service testing date of 1927 and the general service distribution date of 1928 and assumed it would be called the DP-28.
+
+
+== History ==
+Despite its numerous problems, the DP had a reputation as a relatively effective light support weapon. It was nicknamed the "Record player" (proigryvatel') by Red Army troops because the disc-shaped pan magazine resembled a gramophone record and its top cover revolved while the weapon was fired. Many were captured by the Finnish army in the Winter War and the Continuation War and partially replaced the Lahti-Saloranta M/26. The DP received the nickname Emma in Finnish service after a popular waltz, again due to the magazine's resemblance to a record player. In the summer of 1944, the Finnish army had about 3400 Finnish-made Lahti-Salorantas and 9000 captured Soviet-made Degtyarevs on the front. Captured examples were operated by the Volkssturm, the late-war German civilian army, and in German service the Degtyarev received the designation Leichtes Maschinengewehr 120(r).
+The Chinese Nationalists received 5,600 DPs from the USSR and used them in the Second Sino-Japanese War and the Chinese Civil War. The North Korean and Chinese Communists used the DP in the Korean War and copied the DPM as the Type 53.
+All variants of the DP machine gun were given or sold to Viet Minh in the First Indochina War by the USSR and Chinese Communists. Similarly, in the Vietnam war to the NVA and VietcongDPMs have also been recovered from Taliban fighters during NATO intervention in Afghanistan while DPs or DPMs have been spotted in 2014 in the Northern Mali conflict.
+
+
+== Variants ==
+
+DPM, modernized version adopted in 1943–44, with a more robust bipod fastened to the cooling jacket and the recoil spring housed in a tube projecting from the rear of the receiver which necessitated a pistol grip for this model of the weapon (manufactured in China as the Type 53)
+DA, for mounting and loading in aircraft (Дегтярёва авиационный, Degtyaryova Aviatsionny; ДА). Also used in tandem mounts known as DA-2. Employed in the early versions of the Tupolev TB-3 bomber and in the Polikarpov R-5 and Polikarpov Po-2 army cooperation aircraft. The DA weighted 7.1 kg empty and 11.5 kg with standard ammunition load. Its rate of fire was 600 rounds per minute. It was built between 1928 and March 1930 with 1,200 units delivered. It was soon superseded by the ShKAS, which had a much higher rate of fire.
+DT and DTM, for mounting and loading in armoured fighting vehicles (Дегтярёва танковый, Degtyaryova Tankovy; ДТ and ДТМ)
+DTM-4, (ДТМ-4) quad mounted variant.
+RP-46 (Ротный пулемет - company machine gun): metallic-belt fed version adopted in 1946 with a heavier barrel to allow prolonged sustained fire. About 500 rounds could be fired continuously before the barrel had to be swapped or allowed to cool down. Also had a user-adjustable gas system, with three holes of varying diameters  provided, to cope with varying environmental conditions and residue buildup. Although the empty weight of the RP-46 exceeded that of DP by 2.5 kg, when considered together with a single ammo box of 250 rounds, the RP-46 weighed 10 kg less than the DP together with the same amount of ammunition in DP pans. The RP-46 remained in Soviet service for 15 years before it was replaced (together with the SGM) by the PK machine gun. The RP-46 was later manufactured in China as the Type 58 and in North Korea as the Type 64. The RP-46 could still fire from DP-style magazines by removing its belt-feeding system.
+
+
+== Users ==
+
+
+== See also ==
+Bren light machine gun
+Kucher Model K1
+Lahti-Saloranta M/26
+Lewis Gun
+List of Russian weaponry
+
+
+== References ==
+
+Smith, Joseph E. (1969). Small Arms of the World (11 ed.). Harrisburg, Pennsylvania: The Stackpole Company.
+
+
+== External links ==
+The Battles of the Winter War
+Modern Firearms – Degtyarev DP DPM RP-46
+Soviet DT-28 Repair and Operation Manual(in Russian)
+Degtyarov machine gun variants(in Russian)
+Degtyaryov machine gun with Japanese Type 11 magazine hopper
+"75 лет ручному пулемёту Дегтярёва" (PDF). 22 April 2010. Archived from the original (PDF) on 2014-08-15. Retrieved 2015-09-03.

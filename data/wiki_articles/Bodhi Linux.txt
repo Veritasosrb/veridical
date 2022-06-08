@@ -1,0 +1,44 @@
+Bodhi Linux is a light-weight Linux distribution based on Ubuntu that uses an Enlightenment DR17-based fork called Moksha window manager. The philosophy for the distribution is to provide a minimal base system so that users can populate it with the software they want. Thus, by default it only includes software that is essential to most Linux users, including a file browser (PCManFM), a web browser (GNOME Web) and a terminal emulator (Terminology). It does not include software or features that its developers deem unnecessary. To make populating systems with software easy, Bodhi Linux developers maintain an online database of lightweight software that can be installed in one click via apturl.
+
+
+== Performance ==
+System requirements include 512 MB RAM, 5 GB hard disk space, and a 500 MHz processor. 32-bit processors without PAE capability are supported on same terms as PAE-enabled ones. Only difference between the Bodhi versions is that an older kernel is used.
+By using an Enlightenment DR17-based fork called Moksha Desktop, Bodhi provides rich desktop effects and animations that do not require high end computer hardware. The rationale for forking the project from DR17 was due to its established performance & functionality while E19 possessed "optimizations that break existing features users enjoy and use" as per Jeff Hoogland's statement. The Enlightenment window manager, as well as the tools developed specifically for Bodhi Linux, were written in C programming language and Python.
+
+
+== Support ==
+Bodhi Linux is derived from the Ubuntu long term support releases (14.04, 16.04, 18.04...), so support follows the same pattern: Security bug fixes are released on a daily basis throughout the five-year period. As opposed to Ubuntu, Bodhi has no short-term support release. An installed Bodhi Linux can be upgraded to the latest state via command line or package manager.
+
+
+== Release cycle ==
+Releases are numbered x.y.z, where
+
+x represents a major release,
+y represents an update (or point) release and
+z represents a bug fix release.The major release (x.y.z; e.g. version 2.y.z > 3.0.0) follows the Ubuntu long term support with a delay of a few months. The goal is to deliver a new major release in July every other year following the new Ubuntu LTS, which is expected in April. New functionality is not added after the release.
+The update/point release (x.y.z; e.g. version 2.3.z > 2.4.0) is similar to point releases in Ubuntu (12.04.1, 12.04.2,...). Once more frequent, they are used for delivering new software versions and other improvements which are not related to security. Between 2011 and 2013 there was ARM support.Beginning with version 2.4.0 update frequency was reduced to three times a year. Every four months - in January, May and September for now - a new update should come out. Bodhi Linux 2.4.0 (planned for release in August 2013) appeared a little late in mid-September, when it [was] ready. A bug fix release (x.y.z; e.g. version 2.4.0 > 2.4.1) is meant for correcting errors with the default configuration.
+The Bodhi Linux 3.0.0 branch was released in February 2015 with an additional legacy version for older hardware.
+
+
+== R_Pi Bodhi Linux ==
+The R_Pi Bodhi Linux build was built directly on top of Raspbian and incorporates all of the changes and improvements to produce optimized ″hard float″ code for the Raspberry Pi (armhf or ARM HF). Technically, R_Pi Bodhi Linux is built with compilation settings adjusted to produce optimized ″hard float″ code for the Raspberry Pi (armhf or ARM HF). The hard float application binary interface of the ARM11, a 32-bit RISC microprocessor ARM architecture with ARMv6 architectural additions, provides enormous performance gains for many use cases. However, this has required significant effort to port elements of Debian Wheezy to ARMv6 CPU, as official builds require ARMv7. This should significantly enhance performance for applications that make heavy use of floating point arithmetic operations, as previous less efficient "soft float" settings, that is, native ARMv6 architecture floating point arithmetic operations simulated by software. Because of the effort to build a working release, the ARMHF release is not officially supported anymore at the moment.
+
+
+== Reception ==
+Jack Germain from LinuxInsider wrote a positive review of Bodhi Linux 5.0.0, noting that Bodhi Linux is "elegant and lightweight", and that this distribution "can be a productive computing platform".
+
+
+== See also ==
+Enlightenment Foundation Libraries
+Enlightenment (window manager)
+Minimalism (computing)
+
+
+== References ==
+
+
+== External links ==
+Official website
+Bodhi Linux at DistroWatch
+Bodhi Linux documentation/wiki
+Bodhi Linux at SourceForge.net

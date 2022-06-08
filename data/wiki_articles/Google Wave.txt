@@ -1,0 +1,112 @@
+Google Wave, later known as Apache Wave, was a software framework for real-time collaborative editing online. Originally developed by Google and announced on May 28, 2009, it was renamed to Apache Wave when the project was adopted by the Apache Software Foundation as an incubator project in 2010.
+Wave is a web-based computing platform and communications protocol designed to merge key features of communications media, such as email, instant messaging, wikis, and social networking. Communications using the system can be synchronous or asynchronous. Software extensions provide contextual spelling and grammar checking, automated language translation and other features.Initially released only to developers, a preview release of Google Wave was extended to 100,000 users in September 2009, each allowed to invite additional users. Google accepted most requests submitted starting November 29, 2009, soon after the September extended release of the technical preview. On May 19, 2010, it was released to the general public.On August 4, 2010, Google announced the suspension of stand-alone Wave development and the intent of maintaining the web site at least for the remainder of the year, and on November 22, 2011, announced that existing Waves would become read-only in January 2012 and all Waves would be deleted in April 2012. Development was handed over to the Apache Software Foundation which started to develop a server-based product called Wave in a Box. Apache Wave never reached a full release and was discontinued on January 15, 2018.
+
+
+== History ==
+
+
+=== Origin of name ===
+The science fiction television series Firefly provided the inspiration for the project's name. In the series, a wave is an electronic communication, often consisting of a video call or video message.  During the developer preview, a number of references were made to the series, such as Lars Rasmussen replying to a message with "shiny", a word used in the series to mean cool or good, and the crash message of Wave being a popular quotation from the series: "Curse your sudden but inevitable betrayal!" Another common error message, "Everything's shiny, Cap'n. Not to fret!" is a quote from Kaylee Frye in the 2005 motion-picture Firefly continuation, Serenity, and it is matched with a sign declaring that "This wave is experiencing some turbulence and might explode. If you don't want to explode..." which is another reference to the opening of the film.
+During an event in Amsterdam, Netherlands, it became apparent that the 60-strong team that was then working on Wave in Sydney used Joss Whedon-related references to describe, among others, the sandbox version of Wave called Dollhouse after the TV-series by Firefly producer Joss Whedon, which was aired on Fox in the U.S. The development of external extensions was codenamed "Serenity", after the spaceship used in Firefly and Serenity.
+
+
+=== Free Software ===
+Google released most of the source code as free software, allowing the public to develop its features through extensions.  Google allowed third parties to build their own Wave services (be it private or commercial) because it wanted the Wave protocol to replace the e-mail protocol. Initially, Google was the only Wave service provider, but it was hoped that other service providers would launch their own Wave services, possibly designing their own unique web-based clients as is common with many email service providers.  The possibility also existed for native Wave clients to be made, as demonstrated with their CLI-based console client.Google released initial free software components of Wave:
+the operational transformation (OT) code,
+the underlying wave model, and
+a basic client/server prototype that uses the wave protocolIn addition, Google provided some detail about later phases of the free software release:
+wave model code that is a simplified version of Google's production code and is tied to the OT code; this code will evolve into the shared code base that Google will use and expects that others will too
+a testing and verification suite for people who want to do their own implementation (for example, for porting the code to other languages)
+
+
+== Features ==
+Google Wave was a new Internet communications platform. It was written in Java using OpenJDK and its web interface used the Google Web Toolkit. Google Wave worked like previous messaging systems such as email and Usenet, but instead of sending a message along with its entire thread of previous messages, or requiring all responses to be stored in each user's inbox for context, message documents (referred to as waves) that contain complete threads of multimedia messages (blips) were perpetually stored on a central server. Waves were shared with collaborators who could be added or removed from the wave at any point during a wave's existence.
+Waves, described by Google as "equal parts conversation and document", were hosted XML documents that allowed seamless and low latency concurrent modifications. Any participant of a wave could reply anywhere within the message, edit any part of the wave, and add participants at any point in the process. Each edit/reply was a blip and users can reply to individual blips within waves. Recipients were notified of changes/replies in all waves in which they were active and, upon opening a wave, could review those changes in chronological order. In addition, waves were live. All replies/edits were visible in real-time, letter-by-letter, as they were typed by the other collaborators. Multiple participants could edit a single wave simultaneously in Google Wave. Thus, waves could function not only as e-mails and threaded conversations but also as an instant messaging service when many participants were online at the same time. A wave could repeatedly shift roles between e-mail and instant messaging depending on the number of users editing it concurrently. The ability to show messages as they are typed could be disabled, similar to conventional instant messaging.The ability to modify a wave at any location let users create collaborative documents, edited in a manner akin to wikis. Waves could easily link to other waves. In many respects, it was a more advanced forum. It could be read and known to exist by only one person, or by two or more and could also be public, available for reading and writing to everyone on the Wave.
+The history of each wave was stored within it. Collaborators could use a playback feature to observe the order in which it was edited, blips that were added, and who was responsible for what in the wave. The history could also be searched by a user to view and/or modify specific changes, such as specific kinds of changes or messages from a single user.
+
+
+== Reception ==
+During the initial launch of Google Wave, invitations were widely sought by users and were sold on auction sites. Those who received invitations and decided to test Google Wave could not communicate with their contacts on their regular email accounts. The initial spread of Wave was very restricted.
+Google Wave initially received positive press coverage for its design and potential uses.
+
+
+== End of development of Google Wave ==
+On August 4, 2010, Google announced Wave would no longer be developed as a stand-alone product due to a lack of interest. Google's statement surprised many in the industry and user community.
+Google later clarified the Wave service would be available until Google Docs was capable of accessing saved waves.Response to the news of the end of development came from Wave users in the form of a website. Since their announcement in early August, the website has recorded over 49,000 supporter registrations urging Google Wave's continuation.In retrospect, the lack of success of Google Wave was attributed among other things to its complicated user interface resulting from a product that merged features of email, instant messengers and wikis but ultimately failed to do anything significantly better than the existing solutions.Chris Dawson of online technology magazine Zdnet discussed inconsistencies in the reasoning of Google in deciding to end support for Wave, mentioning its "deep involvement" in developing social media networks, to which many of Wave's capabilities are ideally suited.
+
+
+== Apache Wave ==
+Google Wave was accepted by the Apache Software Foundation's Incubator program under the project name Apache Wave. The Google Wave Developer blog was updated with news of the change on December 6, 2010. A Wave Proposal page with details on the project's goals was created on the Apache Foundation's Incubator Wiki.
+
+
+=== Wave in a Box ===
+
+Wave in a Box is the current server implementation of Apache Wave.  Currently, there are no demo servers available.
+
+
+=== Crisis and SwellRT ===
+
+In 2016, several discussions took place within the Apache Wave community, aiming to tackle the stagnation and crisis state of the project. The Apache Software Foundation mentor of Apache Wave, Upayavira, was concerned on the project stagnation, but framed SwellRT (a fork which re-engineered Wave into a backend-as-a-service for building apps) as Wave's potential savior. Eventually, Wave was approved to continue within Apache incubator program, and a copy of SwellRT codebase was placed in the Apache Wave repository in order to grant the Wave community access to it. In this regard, Intellectual Property of SwellRT was transferred to the Apache Foundation in 2017. Still this was not sufficient to resurrect Wave's developer community, and SwellRT continued as independent project.
+
+
+=== Retirement ===
+The Wave project retired on January 15, 2018, having never left incubator status.
+
+
+== Extension programming interface ==
+
+Google Wave is extensible through an application programming interface (API). It provides extensions in the form of Gadgets and Robots, and is embeddable by dropping interactive windows into a given wave on external sites, such as blog sites.The last version of robots API is 2.0.Google Wave also supports extension installers, which bundle back-end elements (robots and gadgets) and front-end user interface elements into an integrated package. Users may install extensions directly within the Wave client using an extension installer.
+
+
+=== Extensions ===
+Google Wave extensions are add-ins that may be installed on Google Wave to enhance its functionality. They may be Internet bots (robots) to automate common tasks, or gadgets to extend or change user interaction features, e.g., posting blips on microblog feeds or providing RSVP recording mechanisms.Over 150 Google Wave extensions have been developed either in the form of Gadgets or Robots.
+
+
+==== Robots ====
+A robot is an automated participant on a wave. It can read the contents of a wave in which it participates, modify its contents, add or remove participants, and create new blips or new waves. Robots perform actions in response to events. For example, a robot might publish the contents of a wave to a public blog site and update the wave with user comments.
+Robots may be added as participants to the Wave itself. In theory, a robot can be added anywhere a human participant can be involved.
+
+
+==== Gadgets ====
+Gadget extensions are applications that run within the wave, and to which all participants have access. Robots and Gadgets can be used together, but they generally serve different purposes. A gadget is an application users could participate with, many of which are built on Google's OpenSocial platform. A good comparison would be iGoogle gadgets or Facebook applications.
+The gadget is triggered based on the user action. They can be best described as applications installed on a mobile phone. For example, a wave might include a sudoku gadget that lets the wave participants compete to see who can solve the puzzle first.
+Gadgets may be added to individual waves and all the participants share and interact with the gadget.
+
+
+== Federation protocol ==
+
+Google Wave provides federation using an extension of Extensible Messaging and Presence Protocol (XMPP), the free Wave Federation Protocol. Being an open protocol, anyone can use it to build a custom Wave system and become a wave provider.  The use of an open protocol is intended to parallel the openness and ease of adoption of the e-mail protocol and, like e-mail, allow communication regardless of provider. Google hoped that waves would replace e-mail as the dominant form of Internet communication.  In this way, Google intended to be only one of many wave providers  and to also be used as a supplement to e-mail, instant messaging, FTP, etc.
+A key feature of the protocol is that waves are stored on the service provider's servers instead of being sent between users. Waves are federated; copies of waves and wavelets are distributed by the wave provider of the originating user to the providers of all other participants in a particular wave or wavelet so all participants have immediate access to up-to-date content. The originating wave server is responsible for hosting, processing, and concurrency control of waves.  The protocol allows private reply wavelets within parent waves, where other participants have no access or knowledge of them.Security for the communications is provided via Transport Layer Security authentication, and encrypted connections and waves/wavelets are identified uniquely by a service provider's domain name and ID strings. User-data is not federated, that is, not shared with other wave providers.
+
+
+=== Adoption of Wave Protocol and Wave Federation Protocol ===
+Besides Apache Wave itself, there are other open-source variants of servers and clients with different percentage of Wave Federation and Wave Protocol support. Wave was re-engineered into a backend-as-a-service solution by the SwellRT project. Wave has been adopted in different forms for corporate applications by Novell for Novell Pulse, or by SAP for Cloudave, and community projects such as PyOfWave or Kune.
+
+
+==== Compatible third-party servers ====
+The following servers are compatible with the Google Wave protocol:
+
+Kune is a free/open source platform for social networking, collaborative work and web publishing, focusing on work groups and organizations rather than in individuals. It provides lists, tasks, documents, galleries, etc., while using waves underneath. It focuses on free culture and social movements needs.
+Novell Vibe, formerly known as Novell Pulse.
+Rizzoma is a platform for collaborative work in real time. It allows communication within a certain context permitting a chat to instantly become a document where topics of a discussion organized into branches of mind-map diagram and minor details are collapsed to avoid distraction. The user is able to sign in using a Google or Facebook account and choose whether your topics are private or public.
+SAP StreamWork is a collaboration decision making service.
+SwellRT is a backend-as-a-service for building collaborative and federated apps. It is a fork which re-engineered Apache Wave, and was adopted within the Apache Wave project.
+
+
+== See also ==
+Slack
+Microsoft Loop
+Microsoft Teams
+Microsoft SharePoint Workspace
+Real-time text
+
+
+== References ==
+
+
+== External links ==
+Apache Wave
+Google Wave Developer Blog
+Full Video of the Google Wave Developer Preview at Google I/O 2009
+Google Wave overview video
+Google Wave Federation Protocol (WebArchive)

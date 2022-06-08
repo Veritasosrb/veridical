@@ -1,0 +1,130 @@
+This page provides general information about notable Linux distributions in the form of a categorized list. Distributions are organized into sections by the major distribution or package management system they are based on.
+
+
+== RPM-based ==
+
+Red Hat Linux and SUSE Linux were the original major distributions that used the .rpm file format, which is today used in several package management systems. Both of these were later divided into commercial and community-supported distributions. Red Hat Linux was divided into a community-supported but Red Hat-sponsored distribution named Fedora, and a commercially supported distribution called Red Hat Enterprise Linux, whereas SUSE was divided into openSUSE and SUSE Linux Enterprise
+
+
+=== CentOS/RHEL-based ===
+
+
+=== Fedora-based ===
+
+Fedora is a community supported distribution. It aims to provide the latest software while maintaining a completely Free Software system.
+
+
+=== openSUSE-based ===
+
+
+=== urpmi-based ===
+
+
+=== apt-rpm based ===
+
+
+=== Independent RPM distributions ===
+Distributions using .rpm packages, excluding derivatives of zypp, Fedora, urpmi, and apt-rpm.
+
+
+== DEB-based ==
+
+Debian Linux is a distribution that emphasizes free software. It supports many hardware platforms. Debian and distributions based on it use the .deb package format and the dpkg package manager and its frontends (such as apt or synaptic).
+
+
+=== Debian-based ===
+
+
+==== Debian-based (security-oriented) ====
+
+
+=== MEPIS-based ===
+
+
+=== Knoppix-based ===
+
+Knoppix, itself, is based on Debian. It is a live distribution, with automated hardware configuration and a wide choice of software, which is decompressed as it loads from the drive.
+
+
+=== Ubuntu-based ===
+
+Ubuntu is a distribution based on Debian, designed to have regular releases, a consistent user experience and commercial support on both desktops and servers.
+
+
+==== Official distributions ====
+These Ubuntu variants simply install a set of packages different from the original Ubuntu, but since they draw additional packages and updates from the same repositories as Ubuntu, all of the same software is available for each of them.
+
+
+==== Discontinued official distributions ====
+
+
+==== Third-party distributions ====
+Unofficial variants and derivatives are not controlled or guided by Canonical Ltd. and generally have different goals in mind.
+
+
+== Pacman-based ==
+Pacman is a package manager that is capable of resolving dependencies and automatically downloading and installing all necessary packages. It is primarily developed and used by Arch Linux and its derivatives.
+
+
+== Portage-based ==
+
+Gentoo is a distribution designed to have highly optimized and frequently updated software. Distributions based on Gentoo use the Portage package management system with emerge or one of the alternative package managers.
+
+
+== Slackware-based ==
+
+
+=== Slax-based ===
+
+
+== Source based ==
+
+
+== Rollback ==
+
+
+== Mobile device ==
+
+
+== Router ==
+
+
+== Embedded systems ==
+
+
+== Minimalist ==
+
+
+== Historical ==
+
+
+== Security-oriented ==
+
+
+== Entertainment ==
+
+
+== Not categorized ==
+The following distributions have not been categorized under the preceding sections.
+
+
+== See also ==
+
+Comparison of Linux distributions
+Comparison of netbook-oriented Linux distributions
+DistroWatch
+Linux on PowerPC
+Linux on IBM Z
+List of live CDs
+List of router or firewall distributions
+
+
+== References ==
+
+
+== External links ==
+Linux free distros (Free Software Foundation)
+Repository tracking
+The LWN.net Linux Distribution List – Categorized list with information about each entry.
+Distrowatch – Announcements, information, links and popularity ranking for many Linux distributions.
+Linux Distros – Information and ISO files for many oldest Linux distributions.

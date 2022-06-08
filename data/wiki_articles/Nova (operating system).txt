@@ -1,0 +1,31 @@
+Nova is a Cuban state-sponsored Linux distribution launched in February 2009. It was developed in Havana at the University of Information Science (UCI) by students and professors to provide free and open-source software (FOSS) to inexperienced users and Cuban institutions. While the initial version was Gentoo-based, the developers switched to Ubuntu beginning with Version 2.1.In May 2016 discussions about a new version 6.0 were underway. However, by 2016 Distrowatch had marked Nova as discontinued. and its website, www.nova.cu had been taken down. Nova re-entered development later, and version 6.0 was released in March 2018.In early 2018 its repositories and download server (repo.nova.cu) was shut down temporarily, with users being told to switch to CentOS, after which Nova resumed development a couple months later. By early 2019 the distribution website was again active and DistroWatch listed it as under active development.
+
+
+== Goal and adoption ==
+The goal of Nova was to achieve "sovereignty and technological independence" and to have it installed on all computers in Cuba where Microsoft Windows is still the most widely used operating system. The system was central to the Cuban government's desire to replace Windows. Hector Rodriguez, Director of UCI, said that "[t]he free software movement is closer to the ideology of the Cuban people, above all for the independence and sovereignty." Other cited reasons to develop the system include the United States embargo against Cuba which made it hard for Cubans to buy and update Windows, as well as potential security issues feared by the Cuban government because of the U.S. government's access to Microsoft's source code.Cuba was planning to convert to Nova as its main operating system; once the migration is complete it was intended to be installed in 90% of all work places. In early 2011 the UCI announced that they would migrate more than 8,000 computers to the new operating system. Beginning in 2011, new computers were intended to come installed with both Windows and Nova.
+
+
+== Software ==
+The first version of Nova, called Baire, was based on Gentoo Linux, while Nova 2.1 Desktop Edition was based on Ubuntu. Nova Escritorio is UCI's office suite meant to replace Microsoft Office.
+
+
+== Versions ==
+
+
+== See also ==
+
+Canaima (operating system)
+GendBuntu
+Inspur
+LiMux
+Linux adoption
+Red Flag Linux
+Red Star OS, an operating system developed by North Korea
+Ubuntu Kylin
+
+
+== References ==
+
+
+== External links ==
+ Media related to Nova (operating system) at Wikimedia Commons

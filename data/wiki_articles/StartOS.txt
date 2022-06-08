@@ -1,0 +1,36 @@
+StartOS (formerly Ylmf OS) is a discontinued Chinese Linux distribution. StartOS is an operating system which is free and open-source software.
+In the beginning it was based on Ubuntu, but starting from version 4.0 it adopted custom package management (called YPK) and system installer, though the underlying live medium is still built using Ubuntu's Casper tool.  Its user interface closely resembles that of Microsoft Windows XP.  The distribution was originally not available in the English language, though shortly after the initial release in late 2009 an English-language version of Ylmf OS was released.Despite the very similar likeness to Windows XP's Luna theme—the default theme for Windows XP—Microsoft does not appear to be planning to take any sort of action against the operating system or its developers.Ylmf OS 4.0 looks similar to Windows Vista, but also has a Mac OS X cursor scheme.
+
+
+== Versions ==
+1.0 (based on Fedora 11)
+1.15 (based on Ubuntu 9.04)
+1.5 (based on Ubuntu 9.10)
+2.0 (based on Ubuntu 9.10)
+3.0 (based on Ubuntu 10.04 LTS)
+4.0 (based on Xiange Linux, not available on the English Web site, but can be installed in English)
+5.0 (beta, now called "StartOS")
+5.1 (2013, based on Ubuntu 14.04 LTS ?)
+6.0 (2013, beta)
+
+
+== Gallery ==
+
+		
+		
+		
+
+
+== See also ==
+Linux Deepin
+Zorin OS
+
+
+== References ==
+
+
+== External links ==
+ Media related to StartOS at Wikimedia Commons
+
+Official Web site (in Chinese)
+(Ylmf OS 5.0 beta release code-named Braveheart)

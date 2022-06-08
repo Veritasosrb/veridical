@@ -1,0 +1,28 @@
+A light-weight Linux distribution is one that uses lower memory and/or has less processor-speed requirements than a more "feature-rich" Linux distribution. The lower demands on hardware ideally result in a more responsive machine, and/or allow devices with fewer system resources (e.g. older or embedded hardware) to be used productively. The lower memory and/or processor-speed requirements are achieved by avoiding software bloat, i.e. by leaving out features that are perceived to have little or no practical use or advantage, or for which there is no or low demand.
+The perceived weight of a Linux distribution is strongly influenced by the desktop environment included with that distribution. Accordingly, many Linux distributions offer a choice of editions. For example, Canonical hosts several variants ("flavors") of the Ubuntu distribution that include desktop environments other than the default Unity or Gnome. These variants include the Xubuntu and Lubuntu distributions for the comparatively light-weight Xfce and LXDE / LXQt desktop environments.
+The demands that a desktop environment places on a system may be seen in a comparison of the minimum system requirements of Ubuntu 10.10 and Lubuntu 10.10 desktop editions, where the only significant difference between the two was their desktop environment. Ubuntu 10.10 included the Unity desktop, which had minimum system requirements of a 2 GHz processor with 2 GB of RAM, while Lubuntu 10.10 included LXDE, which required at least a Pentium II with 128 MB of RAM.
+
+
+== Overview of some distributions ==
+ArchBang – inspired by CrunchBang Linux but based on the Arch Linux distribution instead of Debian.
+DebianDog - Debian Live CD shaped after Puppy Linux. It is packaged with JWM and IceWM, or Openbox and Xfce. Debian structure and behaviour are untouched.
+Parabola GNU/Linux-libre - an Arch-based lightweight system endorsed by the Free Software Foundation.
+postmarketOS – a derivative of Alpine Linux designed primarily for smartphones
+SparkyLinux - a lightweight system based on Debian.
+Void Linux - an independent Linux distribution based on the XBPS package manager
+Zorin OS – also has "Zorin OS Lite" and "Zorin OS Education Lite" editions.
+
+
+== Comparison ==
+
+
+== See also ==
+
+Minimalism (computing)
+Software bloat
+Comparison of lightweight web browsers
+List of Linux distributions that run from RAM
+List of live CDs
+
+
+== References ==

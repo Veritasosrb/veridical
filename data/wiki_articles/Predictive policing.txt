@@ -1,0 +1,51 @@
+Predictive policing refers to the usage of mathematical, predictive analytics, and other analytical techniques in law enforcement to identify potential criminal activity. A report published by the RAND Corporation identified four general categories predictive policing methods fall into: methods for predicting crimes, methods for predicting offenders, methods for predicting perpetrators' identities, and methods for predicting victims of crime.
+
+
+== Methodology ==
+Predictive policing uses data on the times, locations and nature of past crimes, to provide insight to police strategists concerning where, and at what times, police patrols should patrol, or maintain a presence, in order to make the best use of resources or to have the greatest chance of deterring or preventing future crimes. This type of policing detects signals and patterns in crime reports to anticipate if crime will spike, when a shooting may occur, where the next car will be broken into, and who the next crime victim will be. Algorithms are produced by taking into account these factors, which consist of large amounts of data that can be analyzed. The use of algorithms creates a more effective approach that speeds up the process of predictive policing since it can quickly factor in different variables to produce an automated outcome. From the predictions the algorithm generates, they should be coupled with a prevention strategy, which typically sends an officer to the predicted time and place of the crime. The use of automated predictive policing supplies a more accurate and efficient process when looking at future crimes because there is data to back up decisions, rather than just the instincts of police officers. By having police use information from predictive policing, they are able to anticipate the concerns of communities, wisely allocate resources to times and places, and prevent victimization.Police may also use data accumulated on shootings and the sounds of gunfire to identify locations of shootings. The city of Chicago uses data blended from population mapping crime statistics, and whether to improve monitoring and identify patterns.
+
+
+== Other approaches ==
+Rather than predicting crime, predictive policing can be used to prevent it. The "AI Ethics of Care" approach recognizes that some locations have greater crime rates as a result of negative environmental conditions. Artificial intelligence can be used to minimize crime by addressing the identified demands.
+
+
+== History ==
+
+
+=== Iraq ===
+At the end of destructive and violent combat operations in April 2003, Improvised Explosive Devices (IED) were placed throughout the streets of Iraq to monitor and rebuttal against US military action with predictive policing. However, the amount of space the IEDs covered were too big for Iraq to take action against each American in the area. This problem introduced the concept of Actionable Hot Spots. Areas that had a lot of action, but were too large to control the areas. This caused Iraq military difficulties in determining the best location to focus surveillance, position snipers, and patrol the routes being observed and placed with the IEDs. 
+
+
+=== China ===
+In China, Suzhou Police Bureau has adopted Predictive Policing since 2013. During 2015–2018, several cities in China have adopted predictive policing. China has used Predictive Policing to identify and target people for sent to Xinjiang internment camps.The  integrated joint operations platform (IJOP) predictive policing system is operated by the Central Political and Legal Affairs Commission.
+
+
+=== Europe ===
+In Europe there has been significant pushback against predictive policing and the broader use of artificial intelligence in policing on both a national and European Union level.The Danish POL-INTEL project has been operational since 2017 and is based on the Gotham system from Palantir Technologies. The Gotham system has also been used by German state police and Europol.Predictive policing has been used in the Netherlands.
+
+
+=== United States ===
+
+In the United States, the practice of predictive policing has been implemented by police departments in several states such as California, Washington, South Carolina, Alabama, Arizona, Tennessee, New York, and Illinois.In New York, the NYPD has begun implementing a new crime tracking program called Patterinzr. The goal of the Patternizr was to help aid police officers in identifying commonalities in crimes committed by the same offenders or same group of offenders. With the help of the Patternizr, officers are able to save time and be more efficient as the program generates the possible "pattern" of different crimes. The officer then has to manually search through the possible patterns to see if the generated crimes are related to the current suspect. If the crimes do match, the officer will launch a deeper investigation into the pattern crimes. 
+
+
+== Concerns ==
+Predictive policing faces issues that affect its effectiveness. Obioha mentions several concerns raised about predictive policing. High costs and limited use prevent more widespread use, especially among poorer countries. Another issue that affects predictive policing is that it relies on human input to determine patterns. Flawed data can lead to biased and possibly racist results.  Technology cannot predict crime, it can only weaponize proximity to policing. Though it is claimed to be unbiased data, communities of color and low income are the most targeted.  It should also be noted that not all crime is reported, making the data faulty and inaccurate.
+
+
+== See also ==
+Quantitative methods in criminology
+Carding (police policy)
+Crime analysis
+Jurimetrics
+"The Minority Report"
+Pre-crime
+Crime hotspots
+Racial profiling
+
+
+== Further reading ==
+Ludwig, Jens, and Sendhil Mullainathan. 2021. "Fragile Algorithms and Fallible Decision-Makers: Lessons from the Justice System." Journal of Economic Perspectives, 35 (4): 71-96.
+
+
+== References ==

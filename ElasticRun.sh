@@ -1,0 +1,1 @@
+docker run -d -p 9200:9200 --name "document" -e "discovery.type=single-node" -m "1g" elasticsearch:7.9.2

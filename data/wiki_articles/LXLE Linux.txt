@@ -1,0 +1,19 @@
+LXLE is a Linux distribution based upon the most recent Ubuntu/Lubuntu LTS release, using the LXDE desktop environment. LXLE is a lightweight distro, with  a focus on visual aesthetics, that works well on both old and new hardware.
+
+
+== Reception ==
+In a January 2014 review in Full Circle Magazine, Gabriele Tettamanzi noted that LXLE has some minor localization issues but otherwise described it as a nice "light and fast" desktop "rich" with software and "stable".Jesse Smith reviewed LXLE 12.04.3 for DistroWatch Weekly:
+Running the LXLE distribution this past week was, in my opinion, a breath of fresh air. The project's strengths are not in new technologies or revolutionary ideas, but rather in the way the developers present existing concepts in polished ways. The distribution takes a solid base (Lubuntu), a fast and familiar desktop environment (LXDE), all the modern conveniences and applications a user is likely to want and puts them together in a manner I found very pleasant and intuitive. The fact the distribution can present to us desktops with slightly different layouts and controls is a nice bonus, but really what LXLE excels at is being a "just works" desktop operating system. There is little glamor, but the interface looks good, there is a stable core, but the applications are fairly up to date. Multimedia, Flash, Java, developer tools, productivity and networking were all right at my fingertips from the moment the system finished installing. And the installation took less than fifteen minutes. There are two package managers, an easy point-n-click front-end and the more detail oriented Synaptic for experienced users.
+Jesse Smith also reviewed LXDE 14.04, concluding, "Generally speaking, I enjoyed my time with LXLE. The distribution got off to a good start with a smooth installation process and the project features clear documentation and release notes, letting people know exactly what to expect from the distribution. I like the LXDE desktop as I feel it does an excellent job of balancing user friendliness, performance and features."In reviewing LXLE 18.04.3, Marius Nestor of Softpedia said, "LXLE features unique Expose, Aero Snap, and Quick Launch apps, random or interval wallpaper changers, theme consistency throughout the system, as well as numerous other tweaks and additions you won't find in other distros. The system is very fast and boots in less than one minute, and it's perfect to revive that old PC."
+
+
+== Releases ==
+
+
+== References ==
+
+
+== External links ==
+Official website
+LXLE Linux on SourceForge
+LXLE at DistroWatch

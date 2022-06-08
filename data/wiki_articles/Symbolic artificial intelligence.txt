@@ -1,0 +1,106 @@
+In the history of artificial intelligence, symbolic artificial intelligence is the term for the collection of all methods in artificial intelligence research that are based on high-level symbolic (human-readable) representations of problems, logic and search. Symbolic AI used tools such as logic programming, production rules, semantic nets and frames, and it developed applications such as expert systems. 
+John Haugeland gave the name GOFAI ("Good Old-Fashioned Artificial Intelligence") to symbolic AI in his 1985 book Artificial Intelligence: The Very Idea, which explored the philosophical implications of artificial intelligence research. In robotics the analogous term is GOFR ("Good Old-Fashioned Robotics").Subsymbolic artificial intelligence is the set of alternative approaches which do not use explicit high level symbols, such as mathematical optimization, statistical classifiers and neural networks.Symbolic AI was the dominant paradigm of AI research from the mid-1950s until the middle 1990s. 
+However, the symbolic approach would eventually be abandoned in favor of subsymbolic approaches, largely because of technical limits.
+Researchers in the 1960s and the 1970s were convinced that symbolic approaches would eventually succeed in creating a machine with artificial general intelligence and considered this the goal of their field. It was succeeded by highly mathematical Statistical AI which is largely directed at specific problems with specific goals, rather than general intelligence. Research into general intelligence is now studied in the exploratory sub-field of artificial general intelligence.
+
+
+== Origins ==
+The first symbolic AI program was the Logic theorist, written by Allen Newell, Herbert Simon and Cliff Shaw in 1955-56.
+The symbolic approach was succinctly expressed in the "physical symbol systems hypothesis" proposed by  Newell and Simon in the middle 1960s:
+
+"A physical symbol system has the necessary and sufficient means of general intelligent action."
+
+
+== Dominant paradigm 1955-1990 ==
+During the 1960s, symbolic approaches achieved great success at simulating intelligent behavior in small demonstration programs. AI research was centered in three institutions in the 1960s: Carnegie Mellon University, Stanford, MIT and (later) University of Edinburgh. Each one developed its own style of research. Earlier approaches based on cybernetics or artificial neural networks were abandoned or pushed into the background. 
+
+
+=== Cognitive simulation ===
+Herbert Simon and Allen Newell studied human problem-solving skills and attempted to formalize them, and their work laid the foundations of the field of artificial intelligence, as well as cognitive science, operations research and management science. Their research team used the results of psychological experiments to develop programs that simulated the techniques that people used to solve problems. This tradition, centered at Carnegie Mellon University would eventually culminate in the development of the Soar architecture in the middle 1980s.
+
+
+=== Logic-based ===
+
+Unlike Simon and Newell, John McCarthy felt that machines did not need to simulate human thought, but should instead try to find the essence of abstract reasoning and problem-solving, regardless of whether people used the same algorithms.
+His laboratory at Stanford (SAIL) focused on using formal logic to solve a wide variety of problems, including knowledge representation, planning and learning.
+Logic was also the focus of the work at the University of Edinburgh and elsewhere in Europe which led to the development of the programming language Prolog and the science of logic programming.
+
+
+=== Anti-logic or "scruffy" ===
+
+Researchers at MIT (such as Marvin Minsky and Seymour Papert) found that solving difficult problems in vision and natural language processing required ad hoc solutions—they argued that no simple and general principle (like logic) would capture all the aspects of intelligent behavior. Roger Schank described their "anti-logic" approaches as "scruffy" (as opposed to the "neat" paradigms at CMU and Stanford).Commonsense knowledge bases (such as Doug Lenat's Cyc) are an example of "scruffy" AI, since they must be built by hand, one complicated concept at a time.
+
+
+=== Knowledge-based ===
+When computers with large memories became available around 1970, researchers from all three traditions began to build knowledge into AI applications. The knowledge revolution was driven by the realization that enormous amounts of knowledge would be required by many simple AI applications.
+
+
+== Techniques ==
+A symbolic AI system can be realized as a microworld, for example blocks world. The microworld represents the real world in the computer memory. It is described with lists containing symbols, and the intelligent agent uses operators to bring the system into a new state. The production system is the software which searches in the state space for the next action of the intelligent agent. The symbols for representing the world are grounded with sensory perception. In contrast to neural networks, the overall system works with heuristics, meaning that domain-specific knowledge is used to improve the state space search.
+
+
+== Success with expert systems 1975–1990 ==
+
+This "knowledge revolution" led to the development and deployment of expert systems (introduced by Edward Feigenbaum), the first truly successful form of AI software.
+A key component of the system architecture for all expert systems is the knowledge base, which stores facts and rules that illustrate AI.
+These use a network of production rules. Production rules connect symbols in a relationship similar to an If-Then statement. The expert system processes the rules to make deductions and to determine what additional information it needs, i.e. what questions to ask, using human-readable symbols. Since symbolic AI works based on set rules and has increasing computing power, it can solve more and more complex problems. In 1996, this allowed IBM’s Deep Blue, with the help of symbolic AI, to win in a game of chess against the world champion at that time, Garry Kasparov.
+
+
+== Abandoning the symbolic approach 1990s ==
+
+
+=== Dreyfus' critique ===
+
+An early critic of symbolic AI was philosopher Hubert Dreyfus. Beginning in the 1960s Dreyfus' critique of AI targeted the philosophical foundations of the field in a series of papers and books. He  predicted it would only be suitable for toy problems, and thought that building more complex systems or scaling up the idea towards useful software would not be possible.
+
+
+=== AI Winters ===
+
+The same argument was given in the Lighthill report, which started the AI Winter in the mid 1970s.
+
+
+== Subsymbolic AI ==
+
+
+=== Robotics ===
+Opponents of the symbolic approach in the 1980s included roboticists such as Rodney Brooks, who aims to produce autonomous robots without symbolic representation (or with only minimal representation) and computational intelligence researchers, who apply techniques such as neural networks and optimization to solve problems in machine learning and control engineering.
+
+
+=== Uncertain reasoning ===
+Symbols can be used when the input is definite and falls under certainty. But when there is uncertainty involved, for example in formulating predictions, the representation is done using artificial neural networks.
+
+
+== Synthesizing symbolic and subsymbolic ==
+Recently, there have been structured efforts towards integrating the symbolic and connectionist AI approaches under the umbrella of neural-symbolic computing. As argued by Valiant and many others, the effective construction of rich computational cognitive models demands the combination of sound symbolic reasoning and efficient (machine) learning models.
+
+
+== See also ==
+Artificial intelligence § Evaluating approaches to AI
+History of artificial intelligence
+Physical symbol systems hypothesis
+Homoiconicity
+Symbolic computation
+Synthetic intelligence
+
+
+== Notes ==
+
+
+== Citations ==
+
+
+=== References ===
+Crevier, Daniel (1993). AI: The Tumultuous Search for Artificial Intelligence. New York, NY: BasicBooks. ISBN 0-465-02997-3..
+Dreyfus, Hubert L (1981). "From micro-worlds to knowledge representation: AI at an impasse" (PDF). Mind Design. MIT Press, Cambridge, MA: 161–204.
+Artur S. d'Avila Garcez, Tarek R. Besold, Luc De Raedt, Peter Földiák, Pascal Hitzler, Thomas Icard, Kai-Uwe Kühnberger, Luís C. Lamb, Risto Miikkulainen, Daniel L. Silver. Neural-Symbolic Learning and Reasoning: Contributions and Challenges. AAAI Spring Symposia 2015. Stanford: AAAI Press.{{cite conference}}:  CS1 maint: uses authors parameter (link)
+Haugeland, John (1985), Artificial Intelligence: The Very Idea, Cambridge, Mass: MIT Press, ISBN 0-262-08153-9
+Hayes-Roth, Frederick; Murray, William; Adelman, Leonard. "Expert systems". AccessScience. doi:10.1036/1097-8542.248550.
+Honavar, Vasant; Uhr, Leonard (1994). Symbolic Artificial Intelligence, Connectionist Networks & Beyond (Technical report). Iowa State University Digital Repository, Computer Science Technical Reports. 76. p. 6.
+Honavar, Vasant (1995). Symbolic Artificial Intelligence and Numeric Artificial Neural Networks: Towards a Resolution of the Dichotomy. The Springer International Series In Engineering and Computer Science. Springer US. pp. 351–388. doi:10.1007/978-0-585-29599-2_11.
+Howe, J. (November 1994). "Artificial Intelligence at Edinburgh University: a Perspective". Archived from the original on 15 May 2007. Retrieved 30 August 2007.
+Kolata, G. (1982). "How can computers get common sense?". Science. 217 (4566): 1237–1238. Bibcode:1982Sci...217.1237K. doi:10.1126/science.217.4566.1237. PMID 17837639.
+Maker, Meg Houston (2006). "AI@50: AI Past, Present, Future". Dartmouth College. Archived from the original on 3 January 2007. Retrieved 16 October 2008.
+McCorduck, Pamela (2004), Machines Who Think (2nd ed.), Natick, MA: A. K. Peters, Ltd., ISBN 1-56881-205-1.
+Nilsson, Nils (1998). Artificial Intelligence: A New Synthesis. Morgan Kaufmann. ISBN 978-1-55860-467-4. Archived from the original on 26 July 2020. Retrieved 18 November 2019.
+Russell, Stuart J.; Norvig, Peter (2003), Artificial Intelligence: A Modern Approach (2nd ed.), Upper Saddle River, New Jersey: Prentice Hall, ISBN 0-13-790395-2.
+Xifan Yao and Jiajun Zhou and Jiangming Zhang and Claudio R. Boer (2017). From Intelligent Manufacturing to Smart Manufacturing for Industry 4.0 Driven by Next Generation Artificial Intelligence and Further On. 2017 5th International Conference on Enterprise Systems (ES). IEEE. doi:10.1109/es.2017.58.

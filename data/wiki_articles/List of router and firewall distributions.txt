@@ -1,0 +1,8 @@
+This is a list of router and firewall distributions, which are operating systems designed for use as routers and/or firewalls.
+
+
+== See also ==
+List of router firmware projects
+
+
+== References ==

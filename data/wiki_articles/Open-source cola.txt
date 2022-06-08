@@ -1,0 +1,32 @@
+Open-source cola is any cola soft drink produced according to a published and shareable recipe. Unlike the secretive Coca-Cola formula, the recipes are openly published and their re-use is encouraged. The texts of OpenCola and Cube-Cola recipes are published under the GNU General Public License (GPL).
+
+
+== Recipe ==
+The colas are produced as a flavour concentrate or syrup that is then mixed with bulk ingredients to produce the drink. Completed flavour concentrates are sold by some of the open cola producers. The bulk ingredients include those such as sweeteners (sugar or artificial), caffeine and the source of acidity, phosphoric or citric acid. As these are added later, after the flavour blending stage, sugar and caffeine levels per batch can be tailored to a market's particular taste.
+Coca-Cola's own flavouring syrup is known in-house as "Merchandise 7X", which is cross-referenced in the open recipes.A typical recipe is based on eight essential oils, listed here in approximate order of decreasing volume:
+orange oil
+lime oil
+cassia oil
+lemon oil
+nutmeg oil
+coriander oil
+lavender oil
+neroli oilThese are based on the "Pemberton formula." Although claimed as the Coca-Cola recipe, this has been refuted by The Coca-Cola Company. This recipe is also similar to the Merory and Beal recipes. One ingredient that is missing from these recipes is the eponymous kola nut, although this did appear in Reed's recipe.
+The use of lavender oil is considered something of a personal taste. Neroli is frequently omitted altogether, owing to its high cost and relatively small contribution to the overall flavour. Neroli alone may represent a third of the concentrate ingredients cost.As well as the basic list of flavouring ingredients, there are other ingredients such as food grade gum arabic and a considerable degree of "art" in its manufacture. The precise quality and sourcing of ingredients makes an appreciable difference, particularly in the process of emulsifying the concentrate. Small quantities of alcohol may be used to facilitate this process; as an open recipe, this is under the control of the manufacturer who may avoid such ingredients if halal or similar rules would require it.
+
+
+== Open colas ==
+Examples include OpenCola, produced as a promotion by the Opencola software company; Cube-Cola, an open cola produced by the Cube Microplex cinema in Bristol.Tøyen-Cola from Norway is one of the Cube-Cola offsprings.
+
+
+== Ubuntu Cola ==
+A cola often confused with open-source colas is Ubuntu Cola. Although its name may lead to confusion with the open-source Ubuntu operating system distro, Ubuntu Cola is not an open-source cola.
+
+
+== See also ==
+
+List of brand name soft drink products
+List of soft drink flavors
+
+
+== References ==
