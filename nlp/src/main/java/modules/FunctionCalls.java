@@ -308,7 +308,22 @@ public class FunctionCalls extends DrawClass {
 				+ "Application	All-open\n" + "popup	usable\n" + "popup	unusable\n" + "logout	usable\n"
 				+ "logout	unusable\n" + "Continue	usable\n" + "Continue	unusable\n" + "email_header	correct\n"
 				+ "email_header	incorrect\n" + "email_body	correct\n" + "email_body	incorrect\n"
-				+ "appliance_details		correct\n" + "appliance_details	incorrect\n");
+				+ "appliance_details		correct\n" + "appliance_details	incorrect\n" + "actions unusable\n "
+				+ "email correct\n" + "email incorrect\n" + "actions usable\n " + "advanced_query unusable\n"
+				+ "advanced_query usable\n " + "advanced_search unusable\n " + "advanced_search usable\n"
+				+ "appliance_uid unusable\n " +" appliance_uid usable\n " +"checkbox unusable\n" 
+				+ "checkbox usable\n " + "create_dashboard unusable\n " + "create_dashboard usable\n" 
+				+ "dca_tab unusable\n " + "dca_tab usable\n " + "ellipses unusable\n " + "ellipses usable\n" 
+				+ "history_tab unusable\n " + "history_tab usable\n " + "manage_alerts unusable\n" + "manage_alerts usable\n"
+				+ "mark_as_favourite unusable\n" + "mark_as_favourite usable\n" + "overview_tab unusable\n" + "overview_tab usable\n"
+				+ "performance_tab unusable\n" + "performance_tab usable\n" + "recommendation_tab unusable\n"
+				+ "recommendation_tab usable\n" + "registration_tab unusable\n" + "registration_tab usable\n"
+				+ "save unusable\n" + "save usable\n" + "save_query unusable\n" + "save_query usable\n"
+				+ "storage_tab unusable\n" + "storage_tab usable\n" + "support_tab unusable\n" + "support_tab usable\n"
+				+ "telemetery_tab unusable\n" + "telemetery_tab usable\n" + "telemetry_tab unusable\n"
+				+ "telemetry_tab usable\n" + "turn_off unusable\n" + "turn_off usable\n" + "turn_on unusable\n"
+				+  "turn_on usable\n" + "uid unusable\n" + "uid usable\n" + "vertical_ellipsis_menu unusable\n "
+				+"vertical_ellipsis_menu usable");
 
 		// Storing the input into map temporary stored in Scanner object
 		while (s.hasNext()) {
