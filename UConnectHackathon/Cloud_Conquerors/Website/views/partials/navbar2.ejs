@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="navstyle.css" />
+
+<main>
+  <div class="big-wrapper light">
+    <header>
+      <div class="container">
+        <div class="logo">
+          <img src="./img/logo.png" alt="Logo" />
+          <h3>Giving You Wings!!</h3>
+        </div>
+
+        <div class="links">
+          <ul>
+            <li><a href="/alljobs">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">ContactUs</a></li>
+            <li>
+             <div class="usericon"> <img id="usericon" src="./img/user (1).png" alt="Logo" style="width: 40px;padding-left: 90px;"/>
+                <div class="dropdown-content">
+                    <a href="/logout">Log-Out</a>
+                    <a href="/profile">My profile</a>
+                  </div>  </div>   
+                
+            </li>
+
+            <li><div id="google_Translate_element">Translate</div></li>
+          </ul>
+        </div>
+
+        
+        </div>
+      </div>
+    </header>
+  </div>
+  <script src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script>
+  function  googleTranslateElementInit(){
+    new google.translate.TranslateElement(
+      {pageLanguage: 'en'},
+      'google_Translate_element'
+    );
+  }
+</script>
+</main>
