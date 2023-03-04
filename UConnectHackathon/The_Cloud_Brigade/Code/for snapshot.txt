@@ -1,0 +1,5 @@
+//for snapshot
+aws ec2 create-volume –-region ap-south-1 –-snapshotid mysnapshot-id
+//using LVM(logical volume manager)
+Aws ec2 detach-volume --volume-id oldvolume-id instance-id myec2instance-id
+aws ec2 attach-volume -volume-id newvolume-id --instance-id myec2instance-id --device /dev/sof
