@@ -1,0 +1,107 @@
+id,CustomerName,Service1,Service2,Domain
+14,Aguie Tourot,API Gateway,HealthAPIx,Develpors
+31,Elmer Innot,API Gateway,HealthAPIx,Analyst
+34,Jobye Dicken,API Gateway,Local SSD,ML Engineers
+52,Asa Emblen,API Gateway,Compute Engine,ML Engineers
+28,Federico Casaro,API Gateway,HealthAPIx,Analyst
+100,Carlin Dyers,API Gateway,HealthAPIx,ML Engineers
+12,Janine Bartocci,API Gateway,HealthAPIx,ML Engineers
+35,Kira Compton,API Gateway,HealthAPIx,Cloud Technologist
+43,Pearl Gunningham,API Gateway,HealthAPIx,ML Engineers
+56,Nevile MacAlpin,API Gateway,IoT Core,Cloud Technologist
+96,Torrence Robertet,API Gateway,IoT Core,Cloud Technologist
+6,Amalie Webster,API Gateway,HealthAPIx,ML Engineers
+38,Hillary Bryson,API Gateway,HealthAPIx,Developers
+54,Russell Whelpdale,API Gateway,Local SSD,Analyst
+64,Arthur Broz,API Gateway,Local SSD,Developers
+44,Gussie Cayton,API Gateway,Looker,Developers
+3,Bendix Gillebride,BigQuery,Looker,Cloud Technologist
+77,Fayth Capey,BigQuery,IoT Core,Analyst
+33,Abagail Quincee,BigQuery,vertex Ai workbench,Cloud Technologist
+16,Terrijo Mayers,BigQuery,Local SSD,Cloud Technologist
+69,Gale Longcaster,BigQuery,Local SSD,Analyst
+7,Kissie Crispin,BigQuery,HealthAPIx,ML Engineers
+20,Alvina Vials,BigQuery,Looker,Analyst
+82,Becki Howse,BigQuery,Looker,ML Engineers
+9,Garrott Norkutt,BigQuery,Looker,ML Engineers
+76,Celesta Arnaudin,BigQuery,Looker,Analyst
+83,Noach Burkill,BigQuery,Looker,ML Engineers
+80,Jamima Bending,BigQuery,Looker,ML Engineers
+85,Gerhard Kid,BigQuery,Compute Engine,Cloud Technologist
+4,Abel Goosnell,Cloud CDN,Media CDN,ML Engineers
+36,Marcille Ewbach,Cloud CDN,vertex Ai workbench,Cloud Technologist
+47,Culver Coleiro,Cloud CDN,IoT Core,Cloud Technologist
+50,Esta Doel,Cloud CDN,Looker,ML Engineers
+70,Ernestine Raggitt,Cloud CDN,Media CDN,Developers
+87,Nari Botton,Cloud CDN,Media CDN,Analyst
+99,Andros Jecks,Cloud CDN,Media CDN,Developers
+84,Shaine Donoghue,Cloud CDN,Media CDN,Developers
+86,Krystal Gorham,Cloud CDN,Media CDN,Cloud Technologist
+93,Tully Lovat,Cloud CDN,Media CDN,Analyst
+97,Sharl Dockrill,Cloud CDN,Media CDN,Cloud Technologist
+19,Tobye McCroft,Cloud CDN,Media CDN,Cloud Technologist
+27,Randee Izatson,Cloud CDN,Local SSD,Analyst
+92,Ingrim Coad,Cloud CDN,Compute Engine,ML Engineers
+94,Jacob Isaksson,Cloud CDN,Looker,Analyst
+17,Erastus Ziemecki,Cloud CDN,Media CDN,ML Engineers
+62,Fey Ossipenko,Cloud CDN,Media CDN,ML Engineers
+91,Kelley LeEstut,Cloud CDN,Looker,Analyst
+98,Minerva Beeho,Cloud CDN,Local SSD,ML Engineers
+25,Milena Van der Krui,Cloud Run,Compute Engine,ML Engineers
+30,Ranice Dawtry,Cloud Run,IoT Core,Cloud Technologist
+81,Belinda Sterling,Cloud Run,IoT Core,ML Engineers
+42,Lila Howgill,Cloud Run,HealthAPIx,Cloud Technologist
+65,Shelley Olyonov,Cloud Run,Compute Engine,Cloud Technologist
+66,Esmeralda Lokier,Cloud Run,Compute Engine,ML Engineers
+24,Lyndsey Oliva,Cloud Run,Compute Engine,Developers
+15,Lilli Ochterlony,Cloud Run,Compute Engine,Analyst
+18,Rhianon Doutch,Cloud Run,Compute Engine,Developers
+32,Clarice Meekings,Cloud Run,Local SSD,Developers
+8,Cad Haygreen,Cloud Run,HealthAPIx,Cloud Technologist
+39,Erasmus Goodreid,Cloud Run,Local SSD,Analyst
+46,Lesya Spilsburie,Cloud Storage,Local SSD,Cloud Technologist
+57,Carri Kilminster,Cloud Storage,Looker,Cloud Technologist
+75,Matty Fulstow,Cloud Storage,HealthAPIx,Analyst
+11,George Skechley,Cloud Storage,Local SSD,ML Engineers
+59,Gelya Berrill,Cloud Storage,Local SSD,Analyst
+72,Lavena Pick,Cloud Storage,Local SSD,Cloud Technologist
+68,Janifer Nott,Cloud Storage,Local SSD,Cloud Technologist
+41,Terry D'Angeli,Cloud Storage,Local SSD,Cloud Technologist
+88,Melodee Aspinal,Cloud Storage,Local SSD,Analyst
+10,Caz Sedgemore,Cloud Storage,vertex Ai workbench,ML Engineers
+40,Dallis Gennrich,Cloud Storage,IoT Core,Developers
+74,Aundrea Stutter,Cloud Storage,HealthAPIx,ML Engineers
+49,Walden Spawell,Edge TPU,Media CDN,Analyst
+71,Waverley Belchambers,Edge TPU,vertex Ai workbench,ML Engineers
+79,Kaleena Oaten,Edge TPU,Local SSD,ML Engineers
+67,Urbanus Stephen,Edge TPU,HealthAPIx,Analyst
+2,Radcliffe Nolin,Edge TPU,IoT Core,ML Engineers
+89,Quinlan Willmot,Edge TPU,IoT Core,ML Engineers
+48,Husein Gymblett,Edge TPU,IoT Core,Cloud Technologist
+60,Bidget Crayk,Edge TPU,IoT Core,ML Engineers
+55,Lanny Witherden,Edge TPU,HealthAPIx,Cloud Technologist
+51,Thorin Zupo,Vertex AI,vertex Ai workbench,Cloud Technologist
+78,Dinny McTerry,Vertex AI,vertex Ai workbench,ML Engineers
+95,Nickey Taborre,Vertex AI,vertex Ai workbench,Developers
+13,Zacharie Baily,Vertex AI,vertex Ai workbench,Analyst
+22,Webster Loosemore,Vertex AI,vertex Ai workbench,Developers
+45,Lonnie Flanner,Vertex AI,vertex Ai workbench,Developers
+58,Archibaldo Stealy,Vertex AI,vertex Ai workbench,Cloud Technologist
+23,Jodie Farron,Vertex AI,Compute Engine,Analyst
+21,Gene Bizzey,Vertex AI,IoT Core,Analyst
+26,Elbertina Froom,Vertex AI,Media CDN,ML Engineers
+37,Marielle Iacomi,Vertex AI,Local SSD,ML Engineers
+61,Melva Frenchum,Vertex AI,IoT Core,Analyst
+63,Shir Dri,Vertex AI,Looker,ML Engineers
+5,Alvis Wingatt,Vertex AI,Media CDN,ML Engineers
+1,Nichole Braniff,Vertex AI,Looker,Cloud Technologist
+29,Kristine Loade,Vertex AI,vertex Ai workbench,ML Engineers
+53,Alli Fernyhough,Vertex AI,Media CDN,Cloud Technologist
+73,Trumann Heugel,Vertex AI,Looker,Cloud Technologist
+90,Kevan Shirtliff,Vertex AI,Local SSD,ML Engineers
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
