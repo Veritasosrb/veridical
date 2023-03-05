@@ -5,3 +5,11 @@ How to use our model:
 2. Change the filepaths in code to destination where downloaded files are stored locally.
 3. Use command 'streamlit run filepath\filepath\filepath.py'
 4. The running app opens on your browser.
+
+
+Existing customers have a specific motive to use certain product / service while beginners are exploring and learning new things , who will eventually be using our product for a specific purpose.
+
+The idea is having a system for a cloud based application that helps in customer retention and also encouraging use of cloud environment by the amateurs.Both these goals will be fulfilled in a gamified way.
+
+Cross selling is achieved by recommendation systems which encourage customers to buy similar products.Thinking from a customer point of view , studying customer’s behavioural psychology and applying these inferences would help largely.So the solution would focus on getting profit through more customer engagement and through customer loyalty.
+
