@@ -1,5 +1,9 @@
 # Team: Coding_Legos
 
+Problem Statement: 
+Develop a cloud backup and restore solution using Elastic Block Store (EBS) that provides automated and on-demand backup of critical 
+data from one or more Amazon Elastic Compute Cloud (EC2) instances.
+
 # Start with main.py
 
 1) Code Demo video
@@ -10,3 +14,6 @@ https://github.com/Veritasosrb/veridical/blob/UConnect_Hackathon/UConnectHackath
 
 3) Presentation video
 https://www.canva.com/design/DAFaRL6OBu8/ZVn2DAHDGgE6xZWyLXGMpw/view?utm_content=DAFaRL6OBu8&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
+
+Presentation link:
+https://www.canva.com/design/DAFaRL6OBu8/yjkld3icT91m48IvSg8jZA/view?utm_content=DAFaRL6OBu8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
