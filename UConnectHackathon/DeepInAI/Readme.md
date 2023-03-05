@@ -48,9 +48,7 @@ Not everything is perfect ! So is our application and here are some potential fi
 ⚠️ Fix the api issue for AWS endpoints <br>
 ⚠️ Scale the application for realtime use-case <br>
 
-
-
-References :
+Demo :
 
 Documentation <br>
 https://github.com/Veritasosrb/veridical/blob/UConnect_Hackathon/UConnectHackathon/DeepInAI/Cloud%20Compass.pdf
