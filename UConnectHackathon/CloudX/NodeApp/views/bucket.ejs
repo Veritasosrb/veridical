@@ -1,0 +1,19 @@
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/css/examiner/viewexam.css">
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+
+<center>
+    <h2><b>
+           Bucket Name: <%= data.ListBucketResult.Name %>
+        </b></h2>
+</center>
+<p id="output"> Content from the bucket will be printed here </p>
+
+<% for(i of data.ListBucketResult.Contents) { %>
+   <h2> <tr class="responsive-table__row">
+        <td ><%= i.Key %> </td> 
+         </tr><br></h2>
+    <% } %>
+                </a <script src="/js/examiner/viewexam.js"></script>
