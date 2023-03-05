@@ -1,1 +1,8 @@
-team-name SAS
+Team Name: SAS
+
+Topic: Inside Attacks
+
+This is a simple ML algorithm to detect the user requests.
+Based on the analyses of the ML algorithm the user will get the access to the data.
+If the user is authenticated and model has done correct prediction the user will get access to the data.
+
