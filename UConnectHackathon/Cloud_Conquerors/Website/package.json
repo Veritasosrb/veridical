@@ -1,0 +1,37 @@
+{
+  "name": "shebuilds",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.10.1",
+    "node": "^19.3.0",
+    "node-localstorage": "^2.2.1",
+    "nodemon": "^2.0.20"
+  },
+  "description": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chetana21/SheBuilds-Practice-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chetana21/SheBuilds-Practice-/issues"
+  },
+  "homepage": "https://github.com/Chetana21/SheBuilds-Practice-#readme"
+}

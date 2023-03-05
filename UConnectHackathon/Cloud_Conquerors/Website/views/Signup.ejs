@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- <title>Responsive Login and Signup Form</title> -->
+  <link rel="stylesheet" href="signup.css">
+
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+  <section class="container forms">
+    <div class="form login">
+      <div class="form-content">
+        <header>SignUp</header>
+        <form action="/register" method="post">
+          <div class="field input-field">
+            <input type="text" name="username" placeholder="username"  class="input"></input>
+          </div>
+          <div class="field input-field">
+            <input type="email" name="email" placeholder="Email"  class="input"></input>
+          </div>
+          <div class="field input-field">
+            <input type="text" placeholder="Password"  name="password"  class="password">
+            <i class='bx bx-hide eye-icon'></i>
+          </div>
+          <div class="field input-field">
+            <input type="number" placeholder="phoneNo" name="phoneNo"  class="password">
+            <i class='bx bx-hide eye-icon'></i>
+          </div>
+
+
+          <div class="field button-field">
+            <button type="submit" value="register">SignUp</button>
+          </div>
+        </form>
+          <!-- <div class="form-link">
+            <p>Already have an account? <a href="Signin.html" class="signup-link">Forgot password?</a></p>
+          </div> -->
+          <p>Already have an account? <a href="Signin.html" class="signup-link">Forgot password?</a></p>
+      </div>
+      <div class="line"></div>
+        <div class="media-options">
+          <a href="#" class="field facebook">
+            <i class='bx bxl-facebook facebook-icon'></i>
+            <span>Login with Facebook</span>
+          </a>
+        </div>
+        <div class="media-options">
+          <a href="#" class="field google">
+            <img src="images/google.png" alt="" class="google-img"></img>
+            <span>Login with Google</span>
+          </a>
+        </div>
+    </div>
+  </section>
+  
+</body>
+</html>
