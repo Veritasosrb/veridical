@@ -22,7 +22,8 @@ This platform also offers insights on how to **optimize your cloud usage and cos
 
 <img width="869" alt="Screenshot 2023-03-03 at 12 34 32 PM" src="https://user-images.githubusercontent.com/84071291/222972659-e98654fc-4f72-469c-8468-83a46748af1a.png">
 
-<h2> Unique Selling Points: </h2> 
+<h2> Unique Selling Points: </h2>
+The system is designed in such a way that there is **ZERO CODE DEPENDENCY** for the frontend developers. Cloud compass is a python package that get's easily embedded into applications.
 
 References :
 
