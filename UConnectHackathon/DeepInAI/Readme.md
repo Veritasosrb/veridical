@@ -50,6 +50,11 @@ Not everything is perfect ! So is our application and here are some potential fi
 
 Demo :
 
+
+https://user-images.githubusercontent.com/84071291/222979661-262a83a3-26b9-436c-a281-1d4e07ef30e0.mp4
+
+
+
 Documentation <br>
 https://github.com/Veritasosrb/veridical/blob/UConnect_Hackathon/UConnectHackathon/DeepInAI/Cloud%20Compass.pdf
 
