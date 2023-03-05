@@ -26,5 +26,5 @@ It predicts the attack chances using ml models and shows the statistical analysi
 
 Model:
 The model works on the binary bayes bassis. If the service is present use 1 as input and if not, then use 0.
-If anytime model fails, the backend handles the fi=urther process.
+If anytime model fails, the backend handles the further process.
 
