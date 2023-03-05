@@ -1,1 +1,7 @@
 team-name Cloud_Gamified
+How to use our model:
+
+1. Download all files 
+2. Change the filepaths in code to destination where downloaded files are stored locally.
+3. Use command 'streamlit run filepath\filepath\filepath.py'
+4. The running app opens on your browser.
