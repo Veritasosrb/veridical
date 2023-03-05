@@ -1,1 +1,30 @@
 team-name Cloud_Conquerors
+
+Developer Guide
+
+Website:
+1.Getting Started:
+	Requirements(software) :Node js,Mongodb
+Must have node js if you want to use it in your system.
+do npm install to get all node modules npm start to start local server
+
+Git repo:https://github.com/Mandykamble/-Cloud_Conquerors
+clone the repository
+Open terminal 
+Type command “cd CODE/website
+Type “npm install”
+Run
+Open terminal and run “mongod” (database hosted on local host)
+Open another terminal  and run “node main.js” 
+Open the browser and http://localhost:7000/
+You are good to go
+
+Overview of Our project:
+This project starts with a landing page to sign up and further directed to home page for login.
+The service page contains the main part of the project.
+It predicts the attack chances using ml models and shows the statistical analysisfor business architectures.
+
+Model:
+The model works on the binary bayes bassis. If the service is present use 1 as input and if not, then use 0.
+If anytime model fails, the backend handles the fi=urther process.
+
