@@ -1,0 +1,100 @@
+# AWS CLI is prerequisite
+
+Mount newely created EBS volume with name /dev/xvdf to EC2 instance
+---------------------
+aws configure
+aws ec2 describe-volumes
+ssh -i ./coding_legos.pem ubuntu@<public ipv4 dns>
+lsblk
+sudo mkfs -t ext4 /dev/xvdf
+sudo mkdir /mnt/data
+sudo mount /dev/xvdf /mnt/data
+df -h
+-----------------------------
+
+Insert dummy data into MySQL database
+--------------------------------------------------
+touch sample.sql
+nano sample.sql
+
+mysql -u root -password
+password: _mvfN+C@Ft4wPnME
+
+mysql> CREATE DATABASE sample_db;
+mysql> exit
+
+mysql -u root -p sample_db < ./sample.sql
+
+mysql -u root -password
+password: _mvfN+C@Ft4wPnME
+
+mysql> SHOW DATABASES;
+mysql> USE sample_db;
+mysql> SHOW TABLES;
+mysql> SELECT * FROM user_details;
+mysql> exit
+--------------------------------------------------------------
+
+test.sh file
+------------------------------------------------
+touch test.sh
+nano test.sh
+
+Paste code:
+#!/bin/bash
+USER="root"
+PASSWORD="_mvfN+C@Ft4wPnME"
+DATABASE="sample_db"
+TIMESTAMP=$(date +%Y-%m-%d_%H-%M-%S)
+OUTPUT_FILE="mysql_backup_$TIMESTAMP.sql"
+mysqldump -u $USER -p$PASSWORD $DATABASE > $OUTPUT_FILE
+sudo mv $OUTPUT_FILE /mnt/data/
+------------------------------------------------------------
+
+schedule cron job for creating mysql backup file and move it to EBS volume every minute(can change time for point in time backup)
+--------------------------------------------
+crontab -e
+
+code:
+*/1 * * * * /bin/bash /home/ubuntu/test.sh
+
+warning: stop cron job after some time to avoid run out of space in EBS
+------------------------------------------------
+
+Delete table from mysql DATABASE
+-----------------------------------
+
+
+restore sql file to MySQL database
+-----------------------------------------------------
+mkdir backup
+cd /mnt/data
+ls
+sudo cp <file_name>.sql /home/ubuntu/backup
+sudo mysql -u root -p sample_db < ./<file_name>.sql
+
+mysql -u root -password
+password: _mvfN+C@Ft4wPnME
+mysql> SHOW DATABASES;
+mysql> USE sample_db;
+mysql> SHOW TABLES;
+mysql> SELECT * FROM user_details;
+mysql> exit
+-------------------------------------------------------
+
+Move files to Amazon S3 Glacier Deep Archive to save cost(but delayed restore)
+--------------------------------------------------------------
+Get AWS id:
+aws sts get-caller-identity --query "Account" --output text
+
+Create S3 volume:
+aws glacier create-vault --account-id 322399988575 --vault-name my-glacier-deep-archive-vault --vault-access-policy file://access-policy.json
+
+Copy from EBS to S3
+aws s3 cp /path/to/my-folder/file.sql s3://my-bucket/backup
+
+Copy from S3 to instance
+aws s3 cp s3://my-bucket/backup/<file>.sql /home/ubuntu/backup
+
+It will some to download file back t instance
+Finally backup sql file to mysql database
