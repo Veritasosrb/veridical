@@ -8,11 +8,21 @@
 Small startups are increasingly migrating to the cloud, but the process of selecting the right cloud service provider can be challenging. Cloud Compass simplifies this process by providing a centralized platform that offers customized recommendations for cloud service providers based on your business needs. <br> 
 Our platform also offers insights on how to **optimize your cloud usage and cost**. With Cloud Compass, small startups can **streamline the cloud migration process** and **find the right solutions that meet their specific requirements**, without having to navigate the complexities of cloud migration on their own.
 
+<h2> Benefits of using cloud compass: </h2> 
 
-* Our website is designed to help users make informed decisions about their cloud service needs. 
-We provide up-to-date pricing information on the leading cloud service providers, including Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, and more. 
-With our cost calculators, detailed pricing breakdowns, and performance comparisons, you can easily compare the prices and features of different cloud services to find the best option for your budget and requirements. 
-We aim to provide the perfect cloud service comparative information provider
+* Cloud Compass provides up-to-date pricing information on the leading cloud service providers, including Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform, and more.
+
+* With our cost calculators, detailed pricing breakdowns, and performance comparisons, you can easily compare the prices and features of different cloud services to **find the best option for your budget and requirements**.
+
+
+* The recommendation system provides which **VERITAS service** can be a better suite for their application's data management needs
+
+
+* Provide the perfect cloud service comparative information provider
+
+<h2> System Design </h2> 
+
+<img width="869" alt="Screenshot 2023-03-03 at 12 34 32 PM" src="https://user-images.githubusercontent.com/84071291/222972659-e98654fc-4f72-469c-8468-83a46748af1a.png">
 
 References :
 
