@@ -23,7 +23,32 @@ This platform also offers insights on how to **optimize your cloud usage and cos
 <img width="869" alt="Screenshot 2023-03-03 at 12 34 32 PM" src="https://user-images.githubusercontent.com/84071291/222972659-e98654fc-4f72-469c-8468-83a46748af1a.png">
 
 <h2> Unique Selling Points: </h2>
-The system is designed in such a way that there is **ZERO CODE DEPENDENCY** for the frontend developers. Cloud compass is a python package that get's easily embedded into applications.
+
+🥰 **Zero code Dependency** - The system is designed in such a way that there is Zero Code Dependency for the frontend developers. Cloud compass is a python pip based package that get's easily embedded into applications without any programming hassels.
+
+😍 **Reduced latency** - This also increases the processing time by reducing the load in the web application reducing the latency in website rendering.
+
+<h2>Standing on the Evaluation parameters </h2>
+
+✅ **Business Value** - When users have a clear view of the most optimal choice of cloud service provider, it enhances customer satisfaction and builds trust and reliability in the company. This, in turn, becomes an asset to the company.
+
+✅ **Time to Market** - Using installable packages for software development can save time and speed up time-to-market compared to traditional methods. With each new release, upgrading the package version can help an organization stay ahead of the competition. 
+
+✅ **Innovative and Efficient** - "AI-powered, personalized recommendations and user-friendly interface simplifies cloud migration with Cloud Compass." 
+
+✅ **Users Experience** - (Din't get what's required to be mentioned here)
+
+✅ **X-Factor** - Data is the most critical factor in a business, keeping this aspect as priority the algorithm is designed wrapping the critical information using the RSA algorithm.
+
+
+<h2> What's the future enhancements & improvements to look at ? </h2>
+Not everything is perfect ! So is our application and here are some potential fixes required for the future 
+
+⚠️ Ideate over points of comparisions for inter and intra cloud services <br>
+⚠️ Fix the api issue for AWS endpoints <br>
+⚠️ Scale the application for realtime use-case <br>
+
+
 
 References :
 
