@@ -1,0 +1,6 @@
+keyword,weight
+inactivity timeout,0.6204
+logout inactivity,0.5972
+inactivity netinsights,0.577
+netinsights activity,0.5075
+expired inactivity,0.491

@@ -1,0 +1,23 @@
+"Testcase Name","Testcase Description","Testcase Steps","Testcase Excepted Results","Components","Test Type","Automation Status","Fix Version","Priority","Affects Version"
+"","","1)""Start""
+2)""Access  appliance  model  is  present  in  the  appliance_model  drop  down  on  advanced_search  page  Access  appliance  model  is  present  in  the  appliance_model  drop  down  on  search_query  page  The  overview  tab  in  appliance  dashboard  of  all  access_3350  appliances  should  display  valid  and  correct  information  for  all  of  the  following      In  Header  section  display  below  things    Cluster  status  
+3) Hostname  
+4)   
+5) Account  Name  
+6) Model  
+7) Current  Version  
+8) Below  that  following  information  should  be  displayed  Data  Restriction  Mode  
+9) -   System  Reliability  Score  -   Storage  Utilization  -   Registration  Detail  -   Call  Home  Status  -   Recommendations  -   Unresolved  Events  -   Registration  Details  -   Labels""
+10)""advanced_search ? usable""
+","","QA","Functional","Not Applicable","<release_version>","P1","<release_version>"
+"","","1)""Start""
+2)""Access  appliance  model  is  present  in  the  appliance_model  drop  down  on  advanced_search  page  Access  appliance  model  is  present  in  the  appliance_model  drop  down  on  search_query  page  The  overview  tab  in  appliance  dashboard  of  all  access_3350  appliances  should  display  valid  and  correct  information  for  all  of  the  following      In  Header  section  display  below  things    Cluster  status  
+3) Hostname  
+4)   
+5) Account  Name  
+6) Model  
+7) Current  Version  
+8) Below  that  following  information  should  be  displayed  Data  Restriction  Mode  
+9) -   System  Reliability  Score  -   Storage  Utilization  -   Registration  Detail  -   Call  Home  Status  -   Recommendations  -   Unresolved  Events  -   Registration  Details  -   Labels""
+10)""advanced_search ? unusable""
+","","QA","Functional","Not Applicable","<release_version>","P1","<release_version>"

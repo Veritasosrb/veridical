@@ -21,6 +21,7 @@
 	<classpathentry kind="src" path="output"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
 		<attributes>
+			<attribute name="module" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
@@ -36,12 +37,13 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="/Users/Renuka.Nalawade/Documents/internproject/qa-intern-project-test/eclipse_jars/servlet-api.jar"/>
-	<classpathentry kind="lib" path="/Users/Renuka.Nalawade/Documents/internproject/qa-intern-project-test/eclipse_jars/draw2d-3.8.1.jar"/>
-	<classpathentry kind="lib" path="/Users/Renuka.Nalawade/Documents/internproject/qa-intern-project-test/eclipse_jars/jwnl.jar"/>
-	<classpathentry kind="lib" path="/Users/Renuka.Nalawade/Documents/internproject/qa-intern-project-test/eclipse_jars/org.eclipse.draw2d_3.8.0.201206112118.jar"/>
-	<classpathentry kind="lib" path="/Users/Renuka.Nalawade/Documents/internproject/qa-intern-project-test/eclipse_jars/org.eclipse.swt_3.100.0.v4233d.jar"/>
-	<classpathentry kind="lib" path="/Users/Renuka.Nalawade/Documents/internproject/qa-intern-project-test/eclipse_jars/org.eclipse.swt.cocoa.macosx.x86_64-3.117.0.jar"/>
-	<classpathentry kind="lib" path="/Users/Renuka.Nalawade/Documents/internproject/qa-intern-project-test/eclipse_jars/org.eclipse.swt.win32.win32.x86_64-4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/eclipse_jars.zip"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/eclipse_jars/eclipse_jars/draw2d-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/eclipse_jars/eclipse_jars/jwnl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/eclipse_jars/eclipse_jars/lombok.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/eclipse_jars/eclipse_jars/org.eclipse.draw2d_3.8.0.201206112118.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/eclipse_jars/eclipse_jars/org.eclipse.swt.win32.win32.x86_64-3.116.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/eclipse_jars/eclipse_jars/org.eclipse.swt_3.100.0.v4233d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/LENOVO/Downloads/servlet-api.jar/servlet-api.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>

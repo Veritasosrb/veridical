@@ -1,0 +1,134 @@
+1. If user wants to display Access_3350 appliances in list 
+then user Click Advanced_search and select Appliance_Family as 'Access' and Appliance model as '3350'.
+
+2. If user wants to dsiplay all the appliance of Access 3350 in the search list
+then Open search query and select Appliance Family 'Access' and Appliance model as '3350'.
+
+3. If  user wants to display below information in overview tab 
+In Header section display below things
+ HA Cluster status,
+Hostname,
+UID,
+Account Name, 
+Model,
+Current Version,
+Below that following information should display
+Data Restriction Mode,
+- System Reliability Score
+- Storage Utilization
+- Registration Detail
+- Call Home Status
+- Recommendations
+- Unresolved Events
+- Registration Details
+- Labels
+then user clicks appliance_UID from list.
+
+4. if user wants to change the appliance status from NOT REGISTERED to REGISTERED 
+then user should Copy the UID and from Cortex QA portal copy the H/W ID
+Login into the External_portal and click Registration_tab and enter all the information. Try to Register one of the appliance from Cluster.
+
+else Check the checkbox of UID and Click vertical_ellipsis_menu and select unregister_appliance.
+
+(======status is reg=====)
+5. if user wants to check below information(
+- System Reliability Score
+- SRS 30 Day Trend
+- Detailed Insights
+- Recommended Actions) in recommendation_tab
+then Click UID and click recommendation_tab.
+
+6. if user wants to check below information(
+- Storage Allocation and Utilization
+- Total Shared Volumes Utilization Trend
+- Node-specific Reserved Volumes
+Shared Volumes) in storage_tab
+then Click UID and click storage_tab.
+
+7. if user wants to check below information(
+- Inventory 
+- Inventory Head Node summary details as applicable
+- Events) in telemetry_tab
+then Click UID and click telemetry_tab.
+
+
+8. User clicks telemetery_tab 
+if user wants to check below information(
+- Appliance,
+- Software
+) in inventory_tab
+then Click UID and verify inventory_tab.
+else when user wants to display below information
+(- Nodes,
+- Event Type,
+- Timeframeclick UID and verify event_tab) Click UID and verify events_tab.
+
+9. if user wants to check performance 
+then user clicks UID and clicks performance_tab.
+
+10. if user wants to check below information(
+- Registration Details,
+- Case History,
+- DCA) in support_tab
+then Click UID and click support_tab.
+
+11. User clicks support_tab. 
+If user wants to check registration details (
+- Site Details,
+- Contact Details) then click registration_tab
+else when user want to check case history (
+- Nodes,
+- Case Status,
+- Timeframe) click history_tab.
+else when user wants to display information in DCA tab, click DCA_tab.
+========
+
+
+12. if user wants to search a given list of data by a given query
+then Click Advanced_Query Enter the query in query field.
+
+13. User enters query to search appliances. 
+If user wants to display types of alerts information(
+- Call Home Transmission Alert,
+- System Reliability Score Alert,
+- Capacity Utilization Alert)
+then selects checkbox from the appliance and click Manage_Alerts from ellipsis.
+
+13. User enters query to search appliances. 
+If user wants to display types of alerts information(
+- Call Home Transmission Alert,
+- System Reliability Score Alert,
+- Capacity Utilization Alert)
+then selects overview_tab and click Actions and clicks Manage_Alerts.
+
+14. User selects manage_alerts.
+if user wants to turn on alerts 
+then Click Turn_On radio button and select duration from Call Home Transmission Alert and Click Save_button.
+else Click Turn_On radio button and select min_srs from System Reliability Score Alert.
+else Click Turn_On radio button and select maximum_capacity_util from Capacity Utilization Alert.
+
+if user wants to turn off alerts then click turn_off alert.
+
+
+15.if User selects application and clicks overview_tab
+then user clicks ellipses and applies data_restriction_mode. 
+else removes data_restriction_mode.
+
+
+
+16. User enters query to search appliances. 
+if user wants to create dashboard 
+then Click Create_Dashboard and enter name of Dashboard and click save button
+
+
+17. User enters query to search appliances.
+if user wants Query should get marked as Favourite and should get display under Favourite section under Activity History
+then Click Save_Query and  Click Mark_as_Favourite button.
+
+
+
+
+
+
+
+

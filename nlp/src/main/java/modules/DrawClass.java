@@ -441,7 +441,7 @@ public class DrawClass extends FrameStructure {
 			}
 			cnt1++;
 		}
-		obj.storeCombinationInMap();
+		obj.storeCombinationInMap(FUNCTIONALITY);
 		Map<Integer, Integer> addbranch = new LinkedHashMap<Integer, Integer>();
 		obj.addEdgesToGraph(addbranch);
 		obj.displayAllPaths();

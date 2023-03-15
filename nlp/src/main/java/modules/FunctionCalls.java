@@ -1,6 +1,10 @@
 package modules;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
@@ -296,34 +300,98 @@ public class FunctionCalls extends DrawClass {
 		mapEntryList.add(0, entry);
 	}
 
-	void storeCombinationInMap() {
-		// TODO: Hard code map directly
-		Scanner s = new Scanner("Appliance_Model		select\n" + "Appliance_Model		deselect\n"
-				+ "Software_Version 	select\n" + "Software_Version 	deselect\n" + "Capacity_min	positive\n"
-				+ "Capacity_min	 negative\n" + "Capacity_max	positive\n" + "Capacity_max	negative\n"
-				+ "Appliance_type	HA_cluster\n" + "Appliance_type	Single\n" + "Actions	usable\n"
-				+ "Actions	unusable\n" + "Manage_Alerts	usable\n" + "Manage_Alerts unusable\n" + "number usable\n"
-				+ "number	unusable\n" + "days/hours	usable\n" + "days/hours	unusable\n" + "three-dot usable\n"
-				+ "three-dot unusable\n" + "Application	Netinsights\n" + "Application		Cortex\n"
-				+ "Application	All-open\n" + "popup	usable\n" + "popup	unusable\n" + "logout	usable\n"
-				+ "logout	unusable\n" + "Continue	usable\n" + "Continue	unusable\n" + "email_header	correct\n"
-				+ "email_header	incorrect\n" + "email_body	correct\n" + "email_body	incorrect\n"
-				+ "appliance_details		correct\n" + "appliance_details	incorrect\n" + "actions unusable\n "
-				+ "email correct\n" + "email incorrect\n" + "actions usable\n " + "advanced_query unusable\n"
-				+ "advanced_query usable\n " + "advanced_search unusable\n " + "advanced_search usable\n"
-				+ "appliance_uid unusable\n " +" appliance_uid usable\n " +"checkbox unusable\n" 
-				+ "checkbox usable\n " + "create_dashboard unusable\n " + "create_dashboard usable\n" 
-				+ "dca_tab unusable\n " + "dca_tab usable\n " + "ellipses unusable\n " + "ellipses usable\n" 
-				+ "history_tab unusable\n " + "history_tab usable\n " + "manage_alerts unusable\n" + "manage_alerts usable\n"
-				+ "mark_as_favourite unusable\n" + "mark_as_favourite usable\n" + "overview_tab unusable\n" + "overview_tab usable\n"
-				+ "performance_tab unusable\n" + "performance_tab usable\n" + "recommendation_tab unusable\n"
-				+ "recommendation_tab usable\n" + "registration_tab unusable\n" + "registration_tab usable\n"
-				+ "save unusable\n" + "save usable\n" + "save_query unusable\n" + "save_query usable\n"
-				+ "storage_tab unusable\n" + "storage_tab usable\n" + "support_tab unusable\n" + "support_tab usable\n"
-				+ "telemetery_tab unusable\n" + "telemetery_tab usable\n" + "telemetry_tab unusable\n"
-				+ "telemetry_tab usable\n" + "turn_off unusable\n" + "turn_off usable\n" + "turn_on unusable\n"
-				+  "turn_on usable\n" + "uid unusable\n" + "uid usable\n" + "vertical_ellipsis_menu unusable\n "
-				+"vertical_ellipsis_menu usable");
+	void storeCombinationInMap(String functionality) {
+		// call the python files
+		// store the entries for dictionary in previous dictionary file
+		
+		
+		/////////////////////////////////////////
+		
+		
+		
+		try 
+		{
+
+			ProcessBuilder builder = new ProcessBuilder ("python", System.getProperty("user.dir")+"\\python_scripts\\	.py",functionality);
+			Process process = builder.start();
+			BufferedReader reader = new BufferedReader (new InputStreamReader (process.getInputStream())); 
+			BufferedReader readers = new BufferedReader (new InputStreamReader (process.getErrorStream()));
+			
+			String lines=null;
+
+			while ((lines=reader.readLine()) !=null) { 
+				System.out.println("lines"+lines);
+			}
+			while ((lines=readers.readLine()) !=null) 
+			{ 
+				System.out.println("WARNING: "+lines);
+			}
+			process.waitFor();
+		}
+		catch (Exception e) 
+		{
+			e.printStackTrace();
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		//////////////////////////////////////////////
+		
+		
+		// TODO: 
+		String str = null;
+		Scanner str_temp = null;
+		try {
+			str_temp = new Scanner(new File(System.getProperty("user.dir")+ "/Dictionaries\\dictionary.csv"));
+			
+		}catch(FileNotFoundException e) {
+			e.printStackTrace();
+			
+		}
+		str_temp.useDelimiter(",");
+		while(str_temp.hasNext()) {
+			str += str_temp.next();
+		}
+		// printing the dictionary from csv file
+		
+		System.out.println(str);
+		
+		
+		
+		Scanner s = new Scanner(str);
+		
+		// old dictionary which is feeded manually
+//		Scanner s = new Scanner("Appliance_Model		select\n" + "Appliance_Model		deselect\n"
+//				+ "Software_Version 	select\n" + "Software_Version 	deselect\n" + "Capacity_min	positive\n"
+//				+ "Capacity_min	 negative\n" + "Capacity_max	positive\n" + "Capacity_max	negative\n"
+//				+ "Appliance_type	HA_cluster\n" + "Appliance_type	Single\n" + "Actions	usable\n"
+//				+ "Actions	unusable\n" + "Manage_Alerts	usable\n" + "Manage_Alerts unusable\n" + "number usable\n"
+//				+ "number	unusable\n" + "days/hours	usable\n" + "days/hours	unusable\n" + "three-dot usable\n"
+//				+ "three-dot unusable\n" + "Application	Netinsights\n" + "Application		Cortex\n"
+//				+ "Application	All-open\n" + "popup	usable\n" + "popup	unusable\n" + "logout	usable\n"
+//				+ "logout	unusable\n" + "Continue	usable\n" + "Continue	unusable\n" + "email_header	correct\n"
+//				+ "email_header	incorrect\n" + "email_body	correct\n" + "email_body	incorrect\n"
+//				+ "appliance_details		correct\n" + "appliance_details	incorrect\n" + "actions unusable\n "
+//				+ "email correct\n" + "email incorrect\n" + "actions usable\n " + "advanced_query unusable\n"
+//				+ "advanced_query usable\n " + "advanced_search unusable\n " + "advanced_search usable\n"
+//				+ "appliance_uid unusable\n " +" appliance_uid usable\n " +"checkbox unusable\n" 
+//				+ "checkbox usable\n " + "create_dashboard unusable\n " + "create_dashboard usable\n" 
+//				+ "dca_tab unusable\n " + "dca_tab usable\n " + "ellipses unusable\n " + "ellipses usable\n" 
+//				+ "history_tab unusable\n " + "history_tab usable\n " + "manage_alerts unusable\n" + "manage_alerts usable\n"
+//				+ "mark_as_favourite unusable\n" + "mark_as_favourite usable\n" + "overview_tab unusable\n" + "overview_tab usable\n"
+//				+ "performance_tab unusable\n" + "performance_tab usable\n" + "recommendation_tab unusable\n"
+//				+ "recommendation_tab usable\n" + "registration_tab unusable\n" + "registration_tab usable\n"
+//				+ "save unusable\n" + "save usable\n" + "save_query unusable\n" + "save_query usable\n"
+//				+ "storage_tab unusable\n" + "storage_tab usable\n" + "support_tab unusable\n" + "support_tab usable\n"
+//				+ "telemetery_tab unusable\n" + "telemetery_tab usable\n" + "telemetry_tab unusable\n"
+//				+ "telemetry_tab usable\n" + "turn_off unusable\n" + "turn_off usable\n" + "turn_on unusable\n"
+//				+  "turn_on usable\n" + "uid unusable\n" + "uid usable\n" + "vertical_ellipsis_menu unusable\n "
+//				+"vertical_ellipsis_menu usable");
 
 		// Storing the input into map temporary stored in Scanner object
 		while (s.hasNext()) {
@@ -342,6 +410,9 @@ public class FunctionCalls extends DrawClass {
 		}
 		s.close();
 	}
+	
+	
+
 
 	void addEdgesToGraph(Map<Integer, Integer> addbranch) {
 		int count = 0;

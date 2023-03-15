@@ -1,0 +1,16 @@
+"Testcase Name","Testcase Description","Testcase Steps","Testcase Excepted Results","Components","Test Type","Automation Status","Fix Version","Priority","Affects Version"
+"","","1)""Start""
+2)""On  the  basic  search  page  user  should  be  able  to  search  by  team  id  
+3) team  name  On  the  advanced  search  page  user  should  be  able  to  select  options  from  filters  for  the  following  criteria      Call  home  status-Possible  states  -- -- All  Okay  
+4) Warning  
+5) Risk  
+6) Critical  
+7) Unknown  -- -- Support  status  -   Possible  states  -- -- All  Okay  
+8) Warning  
+9) Risk  
+10) Critical  -- --   Score  -   Possible  states  -- -- Excellent  
+11) good  
+12) okay  
+13) poor  
+14) unknown  -- --""
+","","QA","Functional","Not Applicable","<release_version>","P1","<release_version>"
