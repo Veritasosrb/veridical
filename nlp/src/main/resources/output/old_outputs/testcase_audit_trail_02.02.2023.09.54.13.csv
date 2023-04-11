@@ -1,0 +1,12 @@
+"Testcase Name","Testcase Description","Testcase Steps","Testcase Excepted Results","Components","Test Type","Automation Status","Fix Version","Priority","Affects Version"
+"","","1)""Start""
+2)""Detailed  logs  should  be  stored  in  Audit  Trial  collection  in  Asup_Prod  database  for  login  and  log-out  events  Detailed  logs  should  be  stored  in  Audit  Trial  collection  in  Asup_Prod  database  for  changes  in  appliance  site""
+3)""This  includes  changes  in  site  name  
+4) site  details  
+5) site  is  replaced  with  new  site  
+6) site  is  replaced  with  existing  site""
+7)""Detailed  logs  should  be  stored  in  Audit  Trial  collection  in  Asup_Prod  database  for  changes  in  appliance  contacts""
+8)""This  includes  changes  when  new  contacts  are  added  
+9) existing  contacts  are  edited  or  updated  
+10) appliance  contacts  are  deleted""
+","","QA","Functional","Not Applicable","<release_version>","P1","<release_version>"

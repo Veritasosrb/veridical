@@ -1,0 +1,3 @@
+Detailed logs should be stored in Audit Trial collection in Asup_Prod database for login and log-out events
+Detailed logs should be stored in Audit Trial collection in Asup_Prod database for changes in appliance site. This includes changes in site name, site details, site is replaced with new site, site is replaced with existing site.
+Detailed logs should be stored in Audit Trial collection in Asup_Prod database for changes in appliance contacts. This includes changes when new contacts are added, existing contacts are edited or updated, appliance contacts are deleted.

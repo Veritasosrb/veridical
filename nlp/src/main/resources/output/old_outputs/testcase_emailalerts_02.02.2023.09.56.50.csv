@@ -1,0 +1,13 @@
+"Testcase Name","Testcase Description","Testcase Steps","Testcase Excepted Results","Components","Test Type","Automation Status","Fix Version","Priority","Affects Version"
+"","","1)""Start""
+2)""User  is  subscribed  to  alerts  for  any  Appliance_type ?""
+3)""it  receives  first  email  notification  in  time  greater  than  equal  to  15  minutes  from  subscription""
+4)""Email  consist  of  email_header  
+5) email_body  
+6) appliance_details""
+7)""User  receives  second  notification  at  time  greater  than  time_set  during  subscribing  the  alert""
+","","QA","Functional","Not Applicable","<release_version>","P1","<release_version>"
+"","","1)""Start""
+2)""User  is  subscribed  to  alerts  for  any  Appliance_type ?""
+3)""does  not  receives  any  email  notification""
+","","QA","Functional","Not Applicable","<release_version>","P1","<release_version>"
