@@ -1,4 +1,4 @@
-#Erasure Coding Object Storage
+# Erasure Coding Object Storage
 Storage systems exist in a variety of shapes and sizes, but they all have one thing in common: the risk of failure and data loss. IT administrators 
 responsible for storage system architecture must plan ahead to ensure mission-critical data is not lost in the event of a failure. This paper presents 
 an approach to storage system architecture that addresses the risk of hardware failures and data loss, by storing data efficiently, as well as recovering 
