@@ -1,0 +1,25 @@
+Step 1: INTEL ISA-L Library
+
+To use the erasure coding functionality, the Intelligent Storage Acceleration Library (ISA-L) developed by Intel is used extensively. 
+ISA-L is an open-source library that is a collection of optimized low-level functions targeting storage applications. It provides a 
+set of optimized functions for accelerating data storage and processing operations, such as data compression, erasure coding, and 
+cryptography. The library is designed to take advantage of the latest Intel processors' hardware features to provide high-performance 
+data processing. This approach will use several of its functionalities and features in its implementation. 
+
+Download and install the library from:              
+
+https://01.org/sites/default/files/downloads/intelr-storage-acceleration-library-open-source-version/isa-lopensrc2.13.tar.gz
+
+Unzip and Untar it using “gunzip” and “tar -xvf” respectively.
+In library, please go through documentation and installation doc.
+
+
+Step 2: BUILD the Project
+
+Run the following commands to build the code:
+
+-> sudo apt install make
+-> make clean
+-> sudo apt install gcc
+-> gcc ObjectStorageErasureCoding.c -o ObjectStorageErasureCoding
+-> make all
